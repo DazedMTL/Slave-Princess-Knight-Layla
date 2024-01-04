@@ -1,0 +1,22 @@
+{"frames": {
+
+"actor013_01.png":
+{
+	"frame": {"x":0,"y":0,"w":422,"h":926},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":98,"w":422,"h":926},
+	"sourceSize": {"w":1024,"h":1024}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "actor13.webp",
+	"format": "RGBA8888",
+	"size": {"w":422,"h":926},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:022d97a136ceeb2b0fed5bd4257b5020:e339643ed57716c044d2c4a238bb6bd1:dde83e4a9081fdef616a8df4ffaf6c80$"
+}
+}

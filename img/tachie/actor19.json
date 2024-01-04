@@ -1,0 +1,20 @@
+{"frames": {
+
+"actor019_body_1_a.png":
+{
+	"frame": {"x":0,"y":0,"w":462,"h":727},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":297,"w":462,"h":727},
+	"sourceSize": {"w":1024,"h":1024}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "actor19.webp",
+	"format": "RGBA8888",
+	"size": {"w":462,"h":727},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:221203fe211322ac66dd01c208418c28:57a5b321019abdb1a7f4cd244861468c:5bde7fcaab43a1b40ab64043052594b5$"
+}
+}

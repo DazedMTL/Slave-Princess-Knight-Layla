@@ -1,0 +1,90 @@
+{"frames": {
+
+"04_19_11_01.png":
+{
+	"frame": {"x":0,"y":0,"w":1280,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_11_06_man03.png":
+{
+	"frame": {"x":1280,"y":0,"w":1268,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":1268,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_11_06_man04.png":
+{
+	"frame": {"x":2548,"y":0,"w":1268,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":1268,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_14_01.png":
+{
+	"frame": {"x":0,"y":800,"w":1280,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_14_06_man03.png":
+{
+	"frame": {"x":1280,"y":800,"w":1268,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":1268,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_14_06_man04.png":
+{
+	"frame": {"x":2548,"y":800,"w":1268,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":1268,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_17_01.png":
+{
+	"frame": {"x":0,"y":1600,"w":1280,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_17_06_man03.png":
+{
+	"frame": {"x":1280,"y":1600,"w":1268,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":1268,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"04_19_17_06_man04.png":
+{
+	"frame": {"x":2548,"y":1600,"w":1268,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":1268,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+}},
+"animations": {
+	"04_19_11_06_man": ["04_19_11_06_man03.png","04_19_11_06_man04.png"],
+	"04_19_14_06_man": ["04_19_14_06_man03.png","04_19_14_06_man04.png"],
+	"04_19_17_06_man": ["04_19_17_06_man03.png","04_19_17_06_man04.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero04_19_3.webp",
+	"format": "RGBA8888",
+	"size": {"w":3816,"h":2400},
+	"scale": "1",
+	"related_multi_packs": [ "ero04_19_1.json", "ero04_19_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:5736b7a53cdd9bc9b30dfec02c758bac:eac3909e10d52a2743eb62e41f10c678:16d471a7cfd7e800273359f5b5069638$"
+}
+}

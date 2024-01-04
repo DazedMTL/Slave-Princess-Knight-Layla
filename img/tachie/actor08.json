@@ -1,0 +1,47 @@
+{"frames": {
+
+"actor08_01.png":
+{
+	"frame": {"x":111,"y":770,"w":111,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":373,"w":111,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor08_03.png":
+{
+	"frame": {"x":0,"y":770,"w":111,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":373,"w":111,"h":97},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor08_06.png":
+{
+	"frame": {"x":222,"y":770,"w":109,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":374,"w":109,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor08_body_1_a.png":
+{
+	"frame": {"x":0,"y":0,"w":518,"h":770},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":254,"w":518,"h":770},
+	"sourceSize": {"w":1024,"h":1024}
+}},
+"animations": {
+	"actor08": ["actor08_01.png","actor08_03.png","actor08_06.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "actor08.webp",
+	"format": "RGBA8888",
+	"size": {"w":518,"h":867},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c100d0d4c5ee28f0b54b4b6b73e571c:c0478d2b38f8f4eaea0e7d6fa4ab1bf2:aa5d94d3d277b7cf953a45105568c834$"
+}
+}

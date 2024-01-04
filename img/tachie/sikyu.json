@@ -1,0 +1,475 @@
+{"frames": {
+
+"actor0子宮_子宮.png":
+{
+	"frame": {"x":0,"y":314,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮1.png":
+{
+	"frame": {"x":0,"y":0,"w":353,"h":314},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":43,"w":353,"h":314},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_0.png":
+{
+	"frame": {"x":0,"y":629,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_1.png":
+{
+	"frame": {"x":0,"y":944,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_2.png":
+{
+	"frame": {"x":942,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_3.png":
+{
+	"frame": {"x":942,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_4.png":
+{
+	"frame": {"x":942,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_5.png":
+{
+	"frame": {"x":942,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_6.png":
+{
+	"frame": {"x":1256,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_7.png":
+{
+	"frame": {"x":1256,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_8.png":
+{
+	"frame": {"x":1256,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_9.png":
+{
+	"frame": {"x":1256,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_10.png":
+{
+	"frame": {"x":314,"y":314,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_11.png":
+{
+	"frame": {"x":314,"y":629,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_12.png":
+{
+	"frame": {"x":314,"y":944,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_13.png":
+{
+	"frame": {"x":628,"y":155,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_14.png":
+{
+	"frame": {"x":628,"y":470,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_goblin_15.png":
+{
+	"frame": {"x":628,"y":785,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_0.png":
+{
+	"frame": {"x":1570,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_1.png":
+{
+	"frame": {"x":1570,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_2.png":
+{
+	"frame": {"x":2198,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_3.png":
+{
+	"frame": {"x":2198,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_4.png":
+{
+	"frame": {"x":2198,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_5.png":
+{
+	"frame": {"x":2198,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_6.png":
+{
+	"frame": {"x":2512,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_7.png":
+{
+	"frame": {"x":2512,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_8.png":
+{
+	"frame": {"x":2512,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_9.png":
+{
+	"frame": {"x":2512,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_10.png":
+{
+	"frame": {"x":1570,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_11.png":
+{
+	"frame": {"x":1570,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_12.png":
+{
+	"frame": {"x":1884,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_13.png":
+{
+	"frame": {"x":1884,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_14.png":
+{
+	"frame": {"x":1884,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_human_15.png":
+{
+	"frame": {"x":1884,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_0.png":
+{
+	"frame": {"x":2826,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_1.png":
+{
+	"frame": {"x":3140,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_2.png":
+{
+	"frame": {"x":3454,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_3.png":
+{
+	"frame": {"x":3768,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_4.png":
+{
+	"frame": {"x":3140,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_5.png":
+{
+	"frame": {"x":3140,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_6.png":
+{
+	"frame": {"x":3454,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_7.png":
+{
+	"frame": {"x":3768,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_8.png":
+{
+	"frame": {"x":3454,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_9.png":
+{
+	"frame": {"x":3768,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_10.png":
+{
+	"frame": {"x":3454,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_11.png":
+{
+	"frame": {"x":3768,"y":0,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_12.png":
+{
+	"frame": {"x":2826,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_13.png":
+{
+	"frame": {"x":2826,"y":630,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_14.png":
+{
+	"frame": {"x":2826,"y":945,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_pig_15.png":
+{
+	"frame": {"x":3140,"y":315,"w":314,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":43,"w":314,"h":315},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_上.png":
+{
+	"frame": {"x":353,"y":0,"w":121,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":160,"y":53,"w":121,"h":154},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_射精1.png":
+{
+	"frame": {"x":474,"y":0,"w":106,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":167,"y":66,"w":106,"h":139},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_射精2.png":
+{
+	"frame": {"x":353,"y":154,"w":134,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":60,"w":134,"h":113},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_精液1.png":
+{
+	"frame": {"x":487,"y":249,"w":40,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":155,"w":40,"h":51},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_精液2.png":
+{
+	"frame": {"x":601,"y":89,"w":65,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":188,"y":130,"w":65,"h":66},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_精液3.png":
+{
+	"frame": {"x":580,"y":0,"w":113,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":161,"y":87,"w":113,"h":89},
+	"sourceSize": {"w":512,"h":384}
+},
+"actor0子宮_子宮_精液4.png":
+{
+	"frame": {"x":487,"y":139,"w":114,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":161,"y":66,"w":114,"h":110},
+	"sourceSize": {"w":512,"h":384}
+}},
+"animations": {
+	"actor0子宮_子宮_goblin": ["actor0子宮_子宮_goblin_0.png","actor0子宮_子宮_goblin_1.png","actor0子宮_子宮_goblin_2.png","actor0子宮_子宮_goblin_3.png","actor0子宮_子宮_goblin_4.png","actor0子宮_子宮_goblin_5.png","actor0子宮_子宮_goblin_6.png","actor0子宮_子宮_goblin_7.png","actor0子宮_子宮_goblin_8.png","actor0子宮_子宮_goblin_9.png","actor0子宮_子宮_goblin_10.png","actor0子宮_子宮_goblin_11.png","actor0子宮_子宮_goblin_12.png","actor0子宮_子宮_goblin_13.png","actor0子宮_子宮_goblin_14.png","actor0子宮_子宮_goblin_15.png"],
+	"actor0子宮_子宮_human": ["actor0子宮_子宮_human_0.png","actor0子宮_子宮_human_1.png","actor0子宮_子宮_human_2.png","actor0子宮_子宮_human_3.png","actor0子宮_子宮_human_4.png","actor0子宮_子宮_human_5.png","actor0子宮_子宮_human_6.png","actor0子宮_子宮_human_7.png","actor0子宮_子宮_human_8.png","actor0子宮_子宮_human_9.png","actor0子宮_子宮_human_10.png","actor0子宮_子宮_human_11.png","actor0子宮_子宮_human_12.png","actor0子宮_子宮_human_13.png","actor0子宮_子宮_human_14.png","actor0子宮_子宮_human_15.png"],
+	"actor0子宮_子宮_pig": ["actor0子宮_子宮_pig_0.png","actor0子宮_子宮_pig_1.png","actor0子宮_子宮_pig_2.png","actor0子宮_子宮_pig_3.png","actor0子宮_子宮_pig_4.png","actor0子宮_子宮_pig_5.png","actor0子宮_子宮_pig_6.png","actor0子宮_子宮_pig_7.png","actor0子宮_子宮_pig_8.png","actor0子宮_子宮_pig_9.png","actor0子宮_子宮_pig_10.png","actor0子宮_子宮_pig_11.png","actor0子宮_子宮_pig_12.png","actor0子宮_子宮_pig_13.png","actor0子宮_子宮_pig_14.png","actor0子宮_子宮_pig_15.png"],
+	"actor0子宮_子宮_射精": ["actor0子宮_子宮_射精1.png","actor0子宮_子宮_射精2.png"],
+	"actor0子宮_子宮_精液": ["actor0子宮_子宮_精液1.png","actor0子宮_子宮_精液2.png","actor0子宮_子宮_精液3.png","actor0子宮_子宮_精液4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sikyu.webp",
+	"format": "RGBA8888",
+	"size": {"w":4082,"h":1260},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c75d6a5f7ea907aa8759d9728b9c8e51:f108f496dbcdd64b91d5ef864b6a3130:468534f330ad4bbcfcfb15e291ce3706$"
+}
+}

@@ -1,0 +1,156 @@
+{"frames": {
+
+"0gion_byuru_01.png":
+{
+	"frame": {"x":578,"y":0,"w":123,"h":352},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":12,"w":123,"h":352},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_byuru_02.png":
+{
+	"frame": {"x":0,"y":97,"w":109,"h":383},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":16,"w":109,"h":383},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_byuru_03.png":
+{
+	"frame": {"x":0,"y":0,"w":97,"h":578},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":10,"w":97,"h":578},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_dopu_01.png":
+{
+	"frame": {"x":740,"y":123,"w":79,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":31,"w":79,"h":152},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_guchu_01.png":
+{
+	"frame": {"x":930,"y":84,"w":92,"h":202},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":14,"w":92,"h":202},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_guchu_02.png":
+{
+	"frame": {"x":383,"y":97,"w":93,"h":182},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":13,"w":93,"h":182},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_iku_01.png":
+{
+	"frame": {"x":1736,"y":101,"w":95,"h":201},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":22,"w":95,"h":201},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_iku_02.png":
+{
+	"frame": {"x":1453,"y":108,"w":81,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":24,"w":81,"h":138},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_iku_03.png":
+{
+	"frame": {"x":1294,"y":102,"w":95,"h":159},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":27,"w":95,"h":159},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_joro_01.png":
+{
+	"frame": {"x":930,"y":0,"w":84,"h":288},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":31,"w":84,"h":288},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_n_01.png":
+{
+	"frame": {"x":1937,"y":0,"w":77,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":22,"w":77,"h":163},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_n_02.png":
+{
+	"frame": {"x":1132,"y":102,"w":90,"h":162},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":21,"w":90,"h":162},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_pan_01.png":
+{
+	"frame": {"x":1218,"y":0,"w":102,"h":260},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":15,"w":102,"h":260},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_pan_02.png":
+{
+	"frame": {"x":1478,"y":0,"w":108,"h":258},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":14,"w":108,"h":258},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_shiko_01.png":
+{
+	"frame": {"x":1591,"y":108,"w":125,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":20,"w":125,"h":76},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_zupu_01.png":
+{
+	"frame": {"x":1736,"y":0,"w":101,"h":201},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":13,"w":101,"h":201},
+	"sourceSize": {"w":1280,"h":800}
+},
+"0gion_zupu_02.png":
+{
+	"frame": {"x":565,"y":123,"w":81,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":21,"w":81,"h":175},
+	"sourceSize": {"w":1280,"h":800}
+}},
+"animations": {
+	"0gion_byuru": ["0gion_byuru_01.png","0gion_byuru_02.png","0gion_byuru_03.png"],
+	"0gion_guchu": ["0gion_guchu_01.png","0gion_guchu_02.png"],
+	"0gion_iku": ["0gion_iku_01.png","0gion_iku_02.png","0gion_iku_03.png"],
+	"0gion_n": ["0gion_n_01.png","0gion_n_02.png"],
+	"0gion_pan": ["0gion_pan_01.png","0gion_pan_02.png"],
+	"0gion_zupu": ["0gion_zupu_01.png","0gion_zupu_02.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gion_1.webp",
+	"format": "RGBA8888",
+	"size": {"w":2014,"h":206},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d232a02f98ada1e05535c48d56b8113:85ff671614ae2f48dc067616c3fd945b:31cbffa3f250daae56ca3ad3148b9812$"
+}
+}

@@ -1,0 +1,20 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!*.ks
+!*.tjs
+!version.dll
+!.gitignore
+!patch.bat
+!README.md
+!ENCG/*
+
+# Images
