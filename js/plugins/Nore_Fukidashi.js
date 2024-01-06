@@ -356,7 +356,7 @@ var Window_NormalMessage = /** @class */ (function (_super) {
   };
   Window_NormalMessage.prototype.resetFontSettings = function () {
     this.contents.fontFace = $gameSystem.mainFontFace();
-    this.contents.fontSize = 24;
+    this.contents.fontSize = 20;
     this.resetTextColor();
   };
   Window_NormalMessage.prototype.newLineX = function (textState) {
