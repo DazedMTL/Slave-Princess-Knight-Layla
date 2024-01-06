@@ -200,14 +200,14 @@ var Nore;
       this.contents.fontSize = 26;
       var xx = 10;
       if (this.canLevelUp()) {
-        this.drawText("レベルアップ可能です。", xx, 0, 400);
+        this.drawText("LV UP Available", xx, 0, 400);
       } else {
-        this.drawText("レベルアップできません。", xx, 0, 400);
+        this.drawText("Cannot LV UP", xx, 0, 400);
       }
       //this.drawText('習得するスキルを選択してください。', xx, 38, 400);
       this.contents.fontSize = 22;
       this.changeTextColor(ColorManager.systemColor());
-      this.drawText("レベルアップによるボーナス", xx, 38 * 2, 400);
+      this.drawText("LV UP Bonus", xx, 38 * 2, 400);
       this.changeTextColor(ColorManager.powerUpColor());
       var bonusArmorList = this._actor.levelUpBonusArmorList();
       var offsetY = 0;
@@ -222,7 +222,7 @@ var Nore;
       }
       this.drawCurrenBonus();
       this.changeTextColor(ColorManager.systemColor());
-      this.drawText("レベルアップで習得するスキル", xx, 38 * 4 + 40, 400);
+      this.drawText("SKILLS REQUIRE HIGHER LEVEL", xx, 38 * 4 + 40, 400);
       this.drawSkill();
       //this.drawText($dataArmors[98].name, 120, 38 * 3, 400);
     };
@@ -367,7 +367,7 @@ var Nore;
     };
     Window_LevelUpSkill.prototype.drawTitle = function () {
       this.resetTextColor();
-      this.drawText("習得スキルリスト", 0, 0, 260, "center");
+      this.drawText("Acquired Skills", 0, 0, 260, "center");
     };
     Window_LevelUpSkill.prototype.makeSkills = function () {
       this._data = [];

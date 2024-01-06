@@ -169,14 +169,14 @@ function initVocabJp() {
     "Unlocking this feature requires %1 blue crystals.";
   TextManager.confirmCrystal2 = "Do you want to enhance it?";
   TextManager.blessText1 =
-    "Every time you hit an enemy, you accumulate one \\C[2]blessing\\C[0]";
+    "On hit, you accumulate one \\C[2]blessing\\C[0].";
   TextManager.blessText2 =
-    "When you accumulate five blessings, you get an extra action, and";
+    "At five blessings, you get an extra action, and";
   TextManager.blessText3 = "the MP cost of skills becomes zero";
   TextManager.blessText4 =
     "You accumulate one \\C[2]blessing\\C[0] at the start of battle and every time you hit an enemy";
-  TextManager.addState = "Inflicts \\C[2]%1\\C[0]%2";
-  TextManager.addStateSelf = "Gives self \\C[2]%1\\C[0]%2";
+  TextManager.addState = "Inflicts \\C[2]%1\\C[0] %2";
+  TextManager.addStateSelf = "Gives self \\C[2]%1\\C[0] %2";
   TextManager.baseRate = "Probability %1%";
   TextManager.bossInvalid = "Boss invalid";
   TextManager.itemReact = "\\C[6]Does not consume an action turn";

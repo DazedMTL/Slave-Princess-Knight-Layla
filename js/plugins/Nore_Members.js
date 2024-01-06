@@ -468,7 +468,7 @@ var Nore;
       }
       this.contents.fontSize = 20;
       this.changeTextColor(ColorManager.crisisColor());
-      this.drawText("LVアップ可能です", x + 65, y, 150, "left");
+      this.drawText("LV UP POSSIBLE", x + 65, y, 150, "left");
     };
     Window_MembersBattle.prototype.expNextValue = function (actor) {
       if (actor.isMaxLevel()) {

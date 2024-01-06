@@ -1082,9 +1082,9 @@ var Nore;
       this.drawParameter();
     };
     Window_EroSchedule.prototype.drawParameter = function () {
-      this.drawText("屈服度", 100, 540, 200, "left");
-      this.drawText("快楽度", 100, 570, 200, "left");
-      this.drawText("卵子耐久度", 100, 600, 200, "left");
+      this.drawText("Humiliation", 100, 540, 200, "left");
+      this.drawText("Pleasure", 100, 570, 200, "left");
+      this.drawText("Endurance", 100, 600, 200, "left");
     };
     Window_EroSchedule.prototype.makeCommandList = function () {
       this._commandList = [];
@@ -1102,7 +1102,7 @@ var Nore;
       }
     };
     Window_EroSchedule.prototype.drawTitle = function () {
-      this.drawText("１日のスケジュール", 100, 40, 200, "left");
+      this.drawText("Daily Schedule", 100, 40, 200, "left");
     };
     Window_EroSchedule.prototype.moveArrow = function () {
       var schedule = this.currentSchedule();
@@ -1243,7 +1243,7 @@ var Nore;
     };
     Window_EroSchedule.prototype.drawFinish = function () {
       this._finished = true;
-      this.drawText("１日が終了しました！", 100, 70, 200, "left");
+      this.drawText("Day has ended.", 100, 70, 200, "left");
       AudioManager.playSe({ name: "Chime2", volume: 80, pitch: 100, pan: 0 });
     };
     return Window_EroSchedule;

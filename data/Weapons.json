@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 2210,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "<lv:0>\n<nameEn:Short Sword>",
         "params": [
             0,
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 417,
-        "name": "ロングソード",
+        "name": "Long Sword",
         "note": "<lv:1>\n<nameEn:Long Sword>",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 417,
-        "name": "ファルシオン",
+        "name": "Falchion",
         "note": "<lv:2>\n<nameEn:Falchion>",
         "params": [
             0,
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 417,
-        "name": "グレートソード",
+        "name": "Great Sword",
         "note": "<lv:3>\n<nameEn:Great Sword>",
         "params": [
             0,
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 417,
-        "name": "フランベルジュ",
+        "name": "Flamberge",
         "note": "<lv:4>\n<nameEn:Flamberge>",
         "params": [
             0,
@@ -168,7 +168,7 @@
     {
         "id": 6,
         "animationId": 6,
-        "description": "【剣】ドラゴンのキバで作られた剣。",
+        "description": "Sword made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -183,7 +183,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:5>\n<nameEn:Mithril Sword>",
         "params": [
             0,
@@ -201,7 +201,7 @@
     {
         "id": 7,
         "animationId": 6,
-        "description": "【剣】ドラゴンのキバで作られた剣。",
+        "description": "Sword made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -216,7 +216,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ドラゴンブレード",
+        "name": "Dragon Blade",
         "note": "<lv:6>",
         "params": [
             0,
@@ -315,7 +315,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "なし",
+        "name": "None",
         "note": "<nameEn:None>",
         "params": [
             0,
@@ -333,7 +333,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "【杖】安価で一般に普及している杖。",
+        "description": "[Staff] A staff that is inexpensive and widely available to the\ngeneral public.",
         "etypeId": 1,
         "traits": [
             {
@@ -348,7 +348,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "ウッドスタッフ",
+        "name": "Wood Staff",
         "note": "<lv:0>",
         "params": [
             0,
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 1,
-        "description": "【杖】術者の魔力をやや増幅させる杖。",
+        "description": "[Staff] A staff that slightly amplifies the magic power of the\nwielder.",
         "etypeId": 1,
         "traits": [
             {
@@ -381,7 +381,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "樫の杖",
+        "name": "Oak Staff",
         "note": "<lv:1>\n<nameEn:Oak Rod>",
         "params": [
             0,
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させる銀製の杖。",
+        "description": "[Staff] A silver staff that amplifies the magic power of the wielder.",
         "etypeId": 1,
         "traits": [
             {
@@ -414,7 +414,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "サクラの杖",
+        "name": "Sakura Staff",
         "note": "<lv:2>\n<nameEn:Walnut Rod>",
         "params": [
             0,
@@ -432,7 +432,7 @@
     {
         "id": 14,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるドラゴンの杖。",
+        "description": "[Staff] A dragon's staff that amplifies the magic power of the\nwielder.",
         "etypeId": 1,
         "traits": [
             {
@@ -447,7 +447,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "魔法使いの杖 ",
+        "name": "Wizard's Staff",
         "note": "<lv:3>\n<nameEn:Magic Rod>",
         "params": [
             0,
@@ -465,7 +465,7 @@
     {
         "id": 15,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるミスリルの杖。",
+        "description": "[Staff] A mithril staff that amplifies the magic power of the caster.",
         "etypeId": 1,
         "traits": [
             {
@@ -480,7 +480,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "ミスリルの杖",
+        "name": "Mithril Staff",
         "note": "<lv:4>\n<nameEn:Mithril Rod>",
         "params": [
             0,
@@ -498,7 +498,7 @@
     {
         "id": 16,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるドラゴンの杖。",
+        "description": "[Staff] A dragon's staff that amplifies the magic power of the\nwielder.",
         "etypeId": 1,
         "traits": [
             {
@@ -513,7 +513,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "賢者の杖",
+        "name": "Sage's Staff",
         "note": "<lv:5>\n<nameEn:Wise Man's ROd>",
         "params": [
             0,
@@ -546,7 +546,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "ルーンの杖",
+        "name": "Rune Staff",
         "note": "<lv:6>\n<nameEn:Rune Rod>",
         "params": [
             0,
@@ -1008,7 +1008,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "セスタス",
+        "name": "Cestus",
         "note": "<lv:0>\n",
         "params": [
             0,
@@ -1041,7 +1041,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "バグナウ",
+        "name": "Vagnaut",
         "note": "<lv:1>\n<nameEn:Bagh nakh>",
         "params": [
             0,
@@ -1074,7 +1074,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "アイアンクロウ",
+        "name": "Iron Claw",
         "note": "<lv:2>\n<nameEn:Iron Claw>",
         "params": [
             0,
@@ -1092,7 +1092,7 @@
     {
         "id": 34,
         "animationId": 16,
-        "description": "【爪】ミスリルのかぎ爪が仕込まれた格闘武器。",
+        "description": "Mithril Claw - A melee weapon equipped with mithril talons.",
         "etypeId": 1,
         "traits": [
             {
@@ -1107,7 +1107,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "ウルフクロウ",
+        "name": "Wolf Claw",
         "note": "<lv:3>\n<nameEn:Wolf Claw>",
         "params": [
             0,
@@ -1125,7 +1125,7 @@
     {
         "id": 35,
         "animationId": 16,
-        "description": "【爪】ミスリルのかぎ爪が仕込まれた格闘武器。",
+        "description": "Mithril Claw - A melee weapon equipped with mithril talons.",
         "etypeId": 1,
         "traits": [
             {
@@ -1140,7 +1140,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "スチールクロウ",
+        "name": "Steel Claw",
         "note": "<lv:4>\n<nameEn:Steel Claw>",
         "params": [
             0,
@@ -1158,7 +1158,7 @@
     {
         "id": 36,
         "animationId": 16,
-        "description": "【爪】ドラゴンのかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claw] A melee weapon equipped with a dragon's talon.",
         "etypeId": 1,
         "traits": [
             {
@@ -1173,7 +1173,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "ミスリルクロウ",
+        "name": "Mithril Claw",
         "note": "<lv:5>\n<nameEn:Mithril Claw>",
         "params": [
             0,
@@ -1191,7 +1191,7 @@
     {
         "id": 37,
         "animationId": 16,
-        "description": "【爪】ドラゴンのかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claw] A melee weapon equipped with a dragon's talon.",
         "etypeId": 1,
         "traits": [
             {
@@ -1206,7 +1206,7 @@
             }
         ],
         "iconIndex": 425,
-        "name": "ドラゴンクロウ",
+        "name": "Dragon Claw",
         "note": "<lv:6>",
         "params": [
             0,

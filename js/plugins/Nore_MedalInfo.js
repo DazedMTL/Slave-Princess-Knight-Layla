@@ -450,7 +450,7 @@ function getMedalDescription(armor) {
       TextManager.medalEffect2 +
       ":\\C[14] " +
       armor.meta["skillPoint"] +
-      "スキルポイント\\C[0]を取得する";
+      " SP Obtained\\C[0]";
   }
   return text;
 }
@@ -538,23 +538,23 @@ function getPlusText(armor) {
       var item3 = $dataItems[armor.meta["startItem3"]];
       if (item3) {
         text +=
-          "\\C[2]" +
+          "\\C[2]Can start an adventure with " +
           item.name +
           "," +
           item2.name +
           "," +
           item3.name +
-          "\\C[0]を所持して冒険を開始できる ";
+          " in possession";
       } else {
         text +=
-          "\\C[2]" +
+          "\\C[2]\\C[2]Can start an adventure with " +
           item.name +
           "," +
           item2.name +
-          "\\C[0]を所持して冒険を開始できる ";
+          " in possession";
       }
     } else {
-      text += "\\C[2]" + item.name + "\\C[0]を所持して冒険を開始できる ";
+      text += "\\C[2]Can start an adventure with " + item.name + " in possession";
     }
   }
   if (armor.meta["expUp"]) {
@@ -594,7 +594,7 @@ function getPlusText(armor) {
       "\\C[2]" + TextManager.lethal + "\\C[0] +" + armor.meta["lethal"] + " ";
   }
   if (armor.meta["stage"]) {
-    text += "\\C[2]" + "Chapter" + armor.meta["stage"] + "でのみ有効\\C[0]  ";
+    text += "\\C[2]" + "Chapter" + armor.meta["stage"] + " is valid\\C[0]  ";
   }
   if (armor.etypeId != 1) {
     for (var _i = 0, _a = armor.traits; _i < _a.length; _i++) {
@@ -647,7 +647,7 @@ function getMedalHintDescription(armor) {
     }
   }
   var text =
-    "\\C[16]獲得条件: \\C[0]" + armor.meta["hint"].format(value) + "\n";
+    "\\C[16]Condtions: \\C[0]" + armor.meta["hint"].format(value) + "\n";
   var plusText = getPlusText(armor);
   if (plusText.length > 1) {
     text += "\\C[16]" + TextManager.medalEffect + ":\\C[0]" + plusText;

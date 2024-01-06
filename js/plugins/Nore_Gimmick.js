@@ -39,8 +39,8 @@ var Nore;
       this._lastCount = $gameParty.getStage5Gimmick().count();
       this.contents.clear();
       var n = STAGE_5_ATTACK - this._lastCount;
-      this.drawText("光発動まで", 0, 0, 100);
-      this.drawText("あと%1回".format(n), 0, 40, 100);
+      this.drawText("Light Activation", 0, 0, 100);
+      this.drawText("%1x".format(n), 0, 40, 100);
     };
     Window_Stage5.prototype.update = function () {
       _super.prototype.update.call(this);

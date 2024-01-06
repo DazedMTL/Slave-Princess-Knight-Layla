@@ -18,7 +18,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "レイラ",
+        "name": "Layla",
         "nickname": "",
         "note": "<front>\n<speed:10>\n<nameJa:レイラ>\n<nameEn:Layla>\n<aptitude1:S>\n<aptitude2:D>\n<aptitude3:C>\n<aptitude4:A>\n<aptitude5:A>",
         "profile": ""
@@ -41,7 +41,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "ターニャ",
+        "name": "Tanya",
         "nickname": "",
         "note": "<front>\n<speed:15>\n<nameJa:ターニャ>\n<nameEn:Tanya>\n<aptitude1:A>\n<aptitude2:E>\n<aptitude3:D>\n<aptitude4:E>\n<aptitude5:A>",
         "profile": ""
@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "ミオリ",
+        "name": "Miori",
         "nickname": "",
         "note": "<back>\n<speed:6>\n<nameJa:ミオリ>\n<nameEn:Miori>\n<aptitude1:F>\n<aptitude2:A>\n<aptitude3:B>\n<aptitude4:B>\n<aptitude5:D>",
         "profile": ""
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "サラ",
+        "name": "Sara",
         "nickname": "",
         "note": "<back>\n<nameEn:Sara>\n<aptitude1:D>\n<aptitude2:B>\n<aptitude3:C>\n<aptitude4:S>\n<aptitude5:E>",
         "profile": ""
@@ -110,7 +110,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "ディーナ",
+        "name": "Deena",
         "nickname": "",
         "note": "<front>\n<nameEn:Deena>\n<aptitude1:A>\n<aptitude2:E>\n<aptitude3:B>\n<aptitude4:C>\n<aptitude5:F>",
         "profile": ""
@@ -133,7 +133,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "ネル",
+        "name": "Neru",
         "nickname": "",
         "note": "<back>\n<nameEn:Nell>\n<aptitude1:E>\n<aptitude2:C>\n<aptitude3:S>\n<aptitude4:F>\n<aptitude5:D>",
         "profile": ""
@@ -156,7 +156,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "シャルル",
+        "name": "Charles",
         "nickname": "",
         "note": "<back>\n<nameEn:Charles>\n<taneoyaType:7>\n<aptitude1:E>\n<aptitude2:B>\n<aptitude3:A>\n<aptitude4:C>\n<aptitude5:C>",
         "profile": ""
@@ -179,7 +179,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "サーシャ",
+        "name": "Sasha",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -202,7 +202,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ヒルダ",
+        "name": "Hilda",
         "nickname": "",
         "note": "<nameEn:Hilda>\n",
         "profile": ""
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "リン",
+        "name": "Rin",
         "nickname": "",
         "note": "<front>\n<nameEn:Lyn>\n<aptitude1:B>\n<aptitude2:C>\n<aptitude3:E>\n<aptitude4:D>\n<aptitude5:S>",
         "profile": ""
@@ -248,7 +248,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レイラの赤ん坊",
+        "name": "Layla's baby",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -271,7 +271,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "アイリス",
+        "name": "Iris",
         "nickname": "",
         "note": "<back>\n<nameEn:Iris>\n<aptitude1:C>\n<aptitude2:S>\n<aptitude3:D>\n<aptitude4:D>\n<aptitude5:B>",
         "profile": ""
@@ -294,7 +294,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "大臣",
+        "name": "Minister",
         "nickname": "",
         "note": "<taneoyaType:5>\n<nameEn:Minister>\n<aptitude1:G>\n<aptitude2:F>\n<aptitude3:B>\n<aptitude4:G>\n<aptitude5:H>",
         "profile": ""
@@ -317,7 +317,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アードリアン",
+        "name": "Adrian",
         "nickname": "",
         "note": "<nameEn:Adrian>",
         "profile": ""
@@ -340,7 +340,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族",
+        "name": "Barbarian",
         "nickname": "",
         "note": "<nameEn:Barbarian>",
         "profile": ""
@@ -363,7 +363,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "グレイ",
+        "name": "Grey",
         "nickname": "",
         "note": "<taneoyaType:8>\n<nameEn:Gray>\n<aptitude1:E>\n<aptitude2:G>\n<aptitude3:D>\n<aptitude4:G>\n<aptitude5:H>",
         "profile": ""
@@ -386,7 +386,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "予言者",
+        "name": "Prophet",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -409,7 +409,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "グルングム",
+        "name": "Grungum",
         "nickname": "",
         "note": "<nameEn:Grungum>",
         "profile": ""
@@ -432,7 +432,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ンガロ",
+        "name": "Ngalo",
         "nickname": "",
         "note": "<nameEn:Ngaro>\n",
         "profile": ""
@@ -455,7 +455,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ルリエル",
+        "name": "Luriel",
         "nickname": "",
         "note": "<nameEn:Ruliel>",
         "profile": ""
@@ -478,7 +478,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村娘(幼年)",
+        "name": "Village Girl (Young)",
         "nickname": "",
         "note": "<civilian>\n<nameEn:Village Girl(childhood)>",
         "profile": ""
@@ -501,7 +501,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村娘(若年)",
+        "name": "Village Girl (Young)",
         "nickname": "",
         "note": "<civilian>\n<nameEn:Village Girl(Youth)>",
         "profile": ""
@@ -524,7 +524,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村娘(人妻)",
+        "name": "Village Girl (Married Woman)",
         "nickname": "",
         "note": "<civilian>\n<nameEn:Village Girl(Married)>",
         "profile": ""
@@ -547,7 +547,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷商人",
+        "name": "Slave Trader",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -570,7 +570,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "司会",
+        "name": "Host",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -593,7 +593,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人",
+        "name": "Merchant",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -616,7 +616,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客",
+        "name": "Customer",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -639,7 +639,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人たち",
+        "name": "Merchants",
         "nickname": "",
         "note": "<nameEn:Barbarians>",
         "profile": ""
@@ -662,7 +662,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族たち",
+        "name": "Barbarians",
         "nickname": "",
         "note": "<nameEn:Barbarians>",
         "profile": ""
@@ -685,7 +685,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族",
+        "name": "Barbarian",
         "nickname": "",
         "note": "<nameEn:Barbarian>\n<taneoyaType:1>\n\n<aptitude1:D>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:H>\n<aptitude5:E>",
         "profile": ""
@@ -708,7 +708,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族A",
+        "name": "Barbarian A",
         "nickname": "",
         "note": "<nameEn:Barbarian A>\n<taneoyaType:1>\n<aptitude1:D>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:H>\n<aptitude5:E>",
         "profile": ""
@@ -731,7 +731,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族B",
+        "name": "Barbarian B",
         "nickname": "",
         "note": "<nameEn:Barbarian B>\n<taneoyaType:1>\n",
         "profile": ""
@@ -754,7 +754,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族C",
+        "name": "Barbarian C",
         "nickname": "",
         "note": "<nameEn:Barbarian C>\n<taneoyaType:1>",
         "profile": ""
@@ -777,7 +777,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族D",
+        "name": "Barbarian D",
         "nickname": "",
         "note": "<nameEn:Barbarian D>\n<taneoyaType:1>",
         "profile": ""
@@ -800,7 +800,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族E",
+        "name": "Barbarian E",
         "nickname": "",
         "note": "<nameEn:Barbarian E>\n<taneoyaType:1>",
         "profile": ""
@@ -823,7 +823,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族F",
+        "name": "Barbarian F",
         "nickname": "",
         "note": "<nameEn:Barbarian F>\n<taneoyaType:1>",
         "profile": ""
@@ -846,7 +846,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客A",
+        "name": "Customer A",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -869,7 +869,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客B",
+        "name": "Customer B",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -892,7 +892,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客C",
+        "name": "Customer C",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -915,7 +915,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客D",
+        "name": "Customer D",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -938,7 +938,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "司会者",
+        "name": "Host",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -961,7 +961,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "あかちゃん",
+        "name": "baby",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -984,7 +984,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人",
+        "name": "Villager",
         "nickname": "",
         "note": "<nameEn:Villager>",
         "profile": ""
@@ -1007,7 +1007,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人A",
+        "name": "Villager A",
         "nickname": "",
         "note": "<nameEn:Villager A>",
         "profile": ""
@@ -1030,7 +1030,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人B",
+        "name": "Villager B",
         "nickname": "",
         "note": "<nameEn:Villager B>",
         "profile": ""
@@ -1053,7 +1053,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人C",
+        "name": "Villager C",
         "nickname": "",
         "note": "<nameEn:Villager C>",
         "profile": ""
@@ -1076,7 +1076,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人D",
+        "name": "Villager D",
         "nickname": "",
         "note": "<nameEn:Villager D>",
         "profile": ""
@@ -1099,7 +1099,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人E",
+        "name": "Villager E",
         "nickname": "",
         "note": "<nameEn:Villager E>",
         "profile": ""
@@ -1122,7 +1122,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国兵",
+        "name": "Kingdom Soldier",
         "nickname": "",
         "note": "<nameEn:Kingdom Soldier>",
         "profile": ""
@@ -1145,7 +1145,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "門番",
+        "name": "Gatekeeper",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -1168,7 +1168,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "市民A",
+        "name": "Citizen A",
         "nickname": "",
         "note": "<nameEn:the People A>",
         "profile": ""
@@ -1191,7 +1191,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "市民B",
+        "name": "Citizen B",
         "nickname": "",
         "note": "<nameEn:the People B>",
         "profile": ""
@@ -1214,7 +1214,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "市民C",
+        "name": "Citizen C",
         "nickname": "",
         "note": "<nameEn:the People C>",
         "profile": ""
@@ -1237,7 +1237,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "市民D",
+        "name": "Citizen D",
         "nickname": "",
         "note": "<nameEn:the People D>",
         "profile": ""
@@ -1260,7 +1260,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "市民E",
+        "name": "Citizen E",
         "nickname": "",
         "note": "<nameEn:the People E>",
         "profile": ""
@@ -1283,7 +1283,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "下っ端蛮族A",
+        "name": "Low-ranking Barbarian A",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -1306,7 +1306,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "下っ端蛮族B",
+        "name": "Low-ranking Barbarian B",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -1329,7 +1329,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "下っ端蛮族C",
+        "name": "Low-ranking Barbarian C",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -1352,7 +1352,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "下っ端蛮族D",
+        "name": "Low-ranking Barbarian D",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -1375,7 +1375,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "下っ端蛮族E",
+        "name": "Low-ranking Barbarian E",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -1398,7 +1398,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "志願徴収兵",
+        "name": "Volunteer Conscript Soldier",
         "nickname": "",
         "note": "<taneoyaType:2>",
         "profile": ""
@@ -1421,7 +1421,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "志願徴収兵A",
+        "name": "Volunteer Conscript A",
         "nickname": "",
         "note": "<taneoyaType:2>",
         "profile": ""
@@ -1444,7 +1444,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "志願徴収兵B",
+        "name": "Conscript B",
         "nickname": "",
         "note": "<taneoyaType:2>",
         "profile": ""
@@ -1467,7 +1467,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "志願徴収兵C",
+        "name": "Conscript C",
         "nickname": "",
         "note": "<taneoyaType:2>",
         "profile": ""
@@ -1490,7 +1490,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "志願徴収兵D",
+        "name": "Conscript D",
         "nickname": "",
         "note": "<taneoyaType:2>",
         "profile": ""
@@ -1513,7 +1513,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "志願徴収兵E",
+        "name": "Volunteer Conscript E",
         "nickname": "",
         "note": "<taneoyaType:2>",
         "profile": ""
@@ -1536,7 +1536,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国兵たち",
+        "name": "Kingdom soldiers",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1559,7 +1559,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "強制徴収兵A",
+        "name": "Conscripted Soldier A",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1582,7 +1582,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "強制徴収兵B",
+        "name": "Conscripted Soldier B",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1605,7 +1605,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "強制徴収兵C",
+        "name": "Conscript Soldier C",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1628,7 +1628,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "強制徴収兵D",
+        "name": "Conscript Soldier D",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1651,7 +1651,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "強制徴収兵E",
+        "name": "Conscript Soldier E",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1674,7 +1674,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵たち",
+        "name": "Imperial soldiers",
         "nickname": "",
         "note": "<nameEn:Imperial Soldiers>",
         "profile": ""
@@ -1697,7 +1697,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "捕まった帝国兵A",
+        "name": "Captured Imperial Soldier A",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier A>",
         "profile": ""
@@ -1720,7 +1720,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "捕まった帝国兵B",
+        "name": "Captured Imperial Soldier B",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1743,7 +1743,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "捕まった帝国兵C",
+        "name": "Captured Imperial Soldier C",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1766,7 +1766,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "捕まった帝国兵D",
+        "name": "Captured Imperial Soldier D",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1789,7 +1789,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "捕まった帝国兵E",
+        "name": "Captured Imperial Soldier E",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1812,7 +1812,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "尋問官",
+        "name": "Interrogator",
         "nickname": "",
         "note": "<nameEn:Interrogator>\n<taneoyaType:1>\n",
         "profile": ""
@@ -1835,7 +1835,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "尋問官A",
+        "name": "Interrogator A",
         "nickname": "",
         "note": "<taneoyaType:1>\n<nameEn:Interrogator A>",
         "profile": ""
@@ -1858,7 +1858,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "尋問官B",
+        "name": "Interrogator B",
         "nickname": "",
         "note": "<taneoyaType:1>\n<nameEn:Interrogator B>",
         "profile": ""
@@ -1881,7 +1881,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "尋問官C",
+        "name": "Interrogator C",
         "nickname": "",
         "note": "<taneoyaType:1>\n<nameEn:Interrogator C>",
         "profile": ""
@@ -1904,7 +1904,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "尋問官D",
+        "name": "Interrogator D",
         "nickname": "",
         "note": "<taneoyaType:1>\n<nameEn:Interrogator D>",
         "profile": ""
@@ -1927,7 +1927,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "尋問官E",
+        "name": "Interrogator E",
         "nickname": "",
         "note": "<taneoyaType:1>\n<nameEn:Interrogator E>",
         "profile": ""
@@ -1950,7 +1950,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:H>\n<aptitude5:H>\n<aptitudeMinus:1>",
         "profile": ""
@@ -1973,7 +1973,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンA",
+        "name": "Goblin A",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin A>",
         "profile": ""
@@ -1996,7 +1996,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンB",
+        "name": "Goblin B",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin B>",
         "profile": ""
@@ -2019,7 +2019,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンC",
+        "name": "Goblin C",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin C>",
         "profile": ""
@@ -2042,7 +2042,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンD",
+        "name": "Goblin D",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin D>",
         "profile": ""
@@ -2065,7 +2065,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンE",
+        "name": "Goblin E",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin E>",
         "profile": ""
@@ -2088,7 +2088,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族G",
+        "name": "Barbarian G",
         "nickname": "",
         "note": "<nameEn:Barbarian G>",
         "profile": ""
@@ -2111,7 +2111,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "女兵士",
+        "name": "Female Soldier",
         "nickname": "",
         "note": "<nameEn:Female Kingdom Soldier>",
         "profile": ""
@@ -2134,7 +2134,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者",
+        "name": "Vagrant",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:H>\n<aptitude5:H>\n<aptitudeMinus:1>",
         "profile": ""
@@ -2157,7 +2157,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者A",
+        "name": "Vagrant A",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant A>",
         "profile": ""
@@ -2180,7 +2180,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者B",
+        "name": "Vagrant B",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant B>",
         "profile": ""
@@ -2203,7 +2203,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者C",
+        "name": "Vagrant C",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant C>",
         "profile": ""
@@ -2226,7 +2226,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者D",
+        "name": "Vagrant D",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant D>",
         "profile": ""
@@ -2249,7 +2249,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者E",
+        "name": "Vagrant E",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant E>",
         "profile": ""
@@ -2272,7 +2272,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族H",
+        "name": "Barbarian H",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2295,7 +2295,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ダメージ計算用",
+        "name": "For damage calculation",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2318,7 +2318,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "看守",
+        "name": "Guard",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -2341,7 +2341,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "看守A",
+        "name": "Guard A",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -2364,7 +2364,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "看守B",
+        "name": "Guard B",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -2387,7 +2387,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "看守C",
+        "name": "Guard C",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -2410,7 +2410,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "看守D",
+        "name": "Guard D",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -2433,7 +2433,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "看守E",
+        "name": "Guard E",
         "nickname": "",
         "note": "<taneoyaType:1>",
         "profile": ""
@@ -2456,7 +2456,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵",
+        "name": "Imperial Soldier",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier>",
         "profile": ""
@@ -2479,7 +2479,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵A",
+        "name": "Imperial Soldier A",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier A>",
         "profile": ""
@@ -2502,7 +2502,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵B",
+        "name": "Imperial Soldier B",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier B>",
         "profile": ""
@@ -2525,7 +2525,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵C",
+        "name": "Imperial Soldier C",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier C>",
         "profile": ""
@@ -2548,7 +2548,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵D",
+        "name": "Imperial Soldier D",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier D>",
         "profile": ""
@@ -2571,7 +2571,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "帝国兵E",
+        "name": "Imperial Soldier E",
         "nickname": "",
         "note": "<nameEn:Imperial Soldier E>",
         "profile": ""
@@ -2594,7 +2594,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客",
+        "name": "Tavern Patron",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n<nameEn:Bar Customer>",
         "profile": ""
@@ -2617,7 +2617,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客A",
+        "name": "Tavern Patron A",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n\n<nameEn:Bar Customer A>",
         "profile": ""
@@ -2640,7 +2640,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客B",
+        "name": "Tavern Patron B",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n\n<nameEn:Bar Customer B>",
         "profile": ""
@@ -2663,7 +2663,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客C",
+        "name": "Tavern Patron C",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n\n<nameEn:Bar Customer C>",
         "profile": ""
@@ -2686,7 +2686,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客D",
+        "name": "Tavern Patron D",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n\n<nameEn:Bar Customer D>",
         "profile": ""
@@ -2709,7 +2709,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客E",
+        "name": "Tavern Patron E",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n\n<nameEn:Bar Customer D>",
         "profile": ""
@@ -2732,7 +2732,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国市民",
+        "name": "Kingdom Citizen",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2755,7 +2755,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客たち",
+        "name": "The patrons of the tavern",
         "nickname": "",
         "note": "<taneoyaType:6>\n<aptitude1:H>\n<aptitude2:H>\n<aptitude3:H>\n<aptitude4:G>\n<aptitude5:G>\n\n<nameEn:Bar Customers>",
         "profile": ""
@@ -2778,7 +2778,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レイラバトル",
+        "name": "Layla Battle",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2916,7 +2916,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "シャルルバトル",
+        "name": "Charles Battle",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3008,7 +3008,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レイラ",
+        "name": "Layla",
         "nickname": "",
         "note": "<nameEn:Layla>",
         "profile": ""
@@ -3054,7 +3054,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコン",
+        "name": "Lolicon",
         "nickname": "",
         "note": "<taneoyaType:9>\n<nameEn:Lolicon>",
         "profile": ""
@@ -3077,7 +3077,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコンA",
+        "name": "Lolicon A",
         "nickname": "",
         "note": "<taneoyaType:9>\n<nameEn:Lolicon A>",
         "profile": ""
@@ -3100,7 +3100,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコンB",
+        "name": "Lolicon B",
         "nickname": "",
         "note": "<taneoyaType:9>\n<nameEn:Lolicon B>",
         "profile": ""
@@ -3123,7 +3123,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコンC",
+        "name": "Lolicon C",
         "nickname": "",
         "note": "<taneoyaType:9>\n<nameEn:Lolicon C>",
         "profile": ""
@@ -3146,7 +3146,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコンD",
+        "name": "Lolicon D",
         "nickname": "",
         "note": "<taneoyaType:9>\n<nameEn:Lolicon D>",
         "profile": ""
@@ -3169,7 +3169,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ターニャ",
+        "name": "Tanya",
         "nickname": "",
         "note": "<taneoyaType:9>\n<nameEn:Tanya>",
         "profile": ""
@@ -3192,7 +3192,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコンF",
+        "name": "Lolicon F",
         "nickname": "",
         "note": "<taneoyaType:9>",
         "profile": ""
@@ -3215,7 +3215,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコン富豪",
+        "name": "Lolicon Tycoon",
         "nickname": "",
         "note": "<taneoyaType:9>",
         "profile": ""
@@ -3238,7 +3238,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客たち",
+        "name": "The customers",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3261,7 +3261,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アイリス",
+        "name": "Iris",
         "nickname": "",
         "note": "<nameEn:Iris>",
         "profile": ""
@@ -3284,7 +3284,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国兵B",
+        "name": "Kingdom Soldier B",
         "nickname": "",
         "note": "<nameEn:Kingdom Soldier B>",
         "profile": ""
@@ -3307,7 +3307,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国兵C",
+        "name": "Kingdom Soldier C",
         "nickname": "",
         "note": "<nameEn:Kingdom Soldier C>",
         "profile": ""
@@ -3353,7 +3353,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンF",
+        "name": "Goblin F",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin F>",
         "profile": ""
@@ -3376,7 +3376,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者F",
+        "name": "Vagrant F",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant F>",
         "profile": ""
@@ -3399,7 +3399,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者たち",
+        "name": "Vagrants",
         "nickname": "",
         "note": "<taneoyaType:4>",
         "profile": ""
@@ -3422,7 +3422,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "市民たち",
+        "name": "Citizens",
         "nickname": "",
         "note": "<nameEn:Citizens>",
         "profile": ""
@@ -3445,7 +3445,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国の民たち",
+        "name": "The kingdom's people",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3468,7 +3468,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人A",
+        "name": "Merchant A",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3491,7 +3491,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人B",
+        "name": "Merchant B",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3514,7 +3514,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人C",
+        "name": "Merchant C",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3537,7 +3537,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人D",
+        "name": "Merchant D",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3560,7 +3560,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人E",
+        "name": "Merchant E",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3583,7 +3583,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンK",
+        "name": "Goblin K",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin K>",
         "profile": ""
@@ -3606,7 +3606,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンT",
+        "name": "Goblin T",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin T>",
         "profile": ""
@@ -3629,7 +3629,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "老人富豪",
+        "name": "Elderly Tycoon",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3652,7 +3652,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "中年富豪",
+        "name": "Middle-aged Tycoon",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3675,7 +3675,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "脂ぎった富豪",
+        "name": "Greasy tycoon",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -3698,7 +3698,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンO",
+        "name": "Goblin O",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin O>",
         "profile": ""
@@ -3721,7 +3721,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者G",
+        "name": "Vagrant G",
         "nickname": "",
         "note": "<taneoyaType:4>\n<nameEn:Vagrant G>",
         "profile": ""
@@ -3744,7 +3744,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族I",
+        "name": "Barbarian I",
         "nickname": "",
         "note": "<nameEn:Barbarian I>\n<taneoyaType:1>",
         "profile": ""
@@ -3767,7 +3767,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "密売人たち",
+        "name": "Smugglers",
         "nickname": "",
         "note": "<nameEn:Smugglers>",
         "profile": ""
@@ -3790,7 +3790,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンG",
+        "name": "Goblin G",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin G>",
         "profile": ""
@@ -3813,7 +3813,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゴブリンH",
+        "name": "Goblin H",
         "nickname": "",
         "note": "<taneoyaType:3>\n<nameEn:Goblin H>",
         "profile": ""
@@ -3836,7 +3836,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "密売人",
+        "name": "Black Marketer",
         "nickname": "",
         "note": "<nameEn:Smuggler>",
         "profile": ""
@@ -3859,7 +3859,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "孤児たち",
+        "name": "Orphans",
         "nickname": "",
         "note": "<nameEn:Orphans>",
         "profile": ""
@@ -3882,7 +3882,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "捕まった帝国兵",
+        "name": "Captured Imperial Soldier",
         "nickname": "",
         "note": "<nameEn:Captured Soldier>",
         "profile": ""
@@ -3905,7 +3905,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "蛮族残党",
+        "name": "Barbarian Remnants",
         "nickname": "",
         "note": "<nameEn:Bandit Remnant>",
         "profile": ""
@@ -3928,7 +3928,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "国民A",
+        "name": "Citizen A",
         "nickname": "",
         "note": "<nameEn:the People A>",
         "profile": ""
@@ -3951,7 +3951,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "国民B",
+        "name": "Citizen B",
         "nickname": "",
         "note": "<nameEn:the People B>",
         "profile": ""
@@ -3974,7 +3974,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷たち",
+        "name": "Slaves",
         "nickname": "",
         "note": "<anmeEn:Slaves>",
         "profile": ""
@@ -3997,7 +3997,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "予言者",
+        "name": "Prophet",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -4020,7 +4020,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "魔王グルングム",
+        "name": "Demon Lord Grungum",
         "nickname": "",
         "note": "<nameEn:Devil King Grungum>",
         "profile": ""
@@ -4043,7 +4043,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロリコンE",
+        "name": "Lolicon E",
         "nickname": "",
         "note": "<taneoyaType:9>",
         "profile": ""
@@ -4066,7 +4066,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国兵A",
+        "name": "Kingdom Soldier A",
         "nickname": "",
         "note": "<nameEn:Kingdom Soldier A>",
         "profile": ""
@@ -4089,7 +4089,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "王国兵D",
+        "name": "Kingdom Soldier D",
         "nickname": "",
         "note": "<nameEn:Kingdom Soldier D>",
         "profile": ""
@@ -4112,7 +4112,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷A",
+        "name": "Slave A",
         "nickname": "",
         "note": "<nameEn:Slave A>",
         "profile": ""
@@ -4135,7 +4135,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷B",
+        "name": "Slave B",
         "nickname": "",
         "note": "<nameEn:Slave B>",
         "profile": ""
@@ -4158,7 +4158,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷C",
+        "name": "Slave C",
         "nickname": "",
         "note": "<nameEn:Slave C>",
         "profile": ""
@@ -4181,7 +4181,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷D",
+        "name": "Slave D",
         "nickname": "",
         "note": "<nameEn:Slave D>",
         "profile": ""
@@ -4204,7 +4204,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷E",
+        "name": "Slave E",
         "nickname": "",
         "note": "<nameEn:Slave E>",
         "profile": ""
@@ -4227,7 +4227,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人F",
+        "name": "Villager F",
         "nickname": "",
         "note": "<nameEn:Villager F>",
         "profile": ""
@@ -4250,7 +4250,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人J",
+        "name": "Villager J",
         "nickname": "",
         "note": "<nameEn:Villager J>",
         "profile": ""
@@ -4273,7 +4273,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人（帝国のスパイ）",
+        "name": "Villager (Imperial Spy)",
         "nickname": "",
         "note": "<nameEn:Villager(Spy)>",
         "profile": ""
@@ -4296,7 +4296,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人（？？？）",
+        "name": "Villager (???)",
         "nickname": "",
         "note": "<nameEn:Villager(???)>",
         "profile": ""
@@ -4319,7 +4319,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "男戦士",
+        "name": "Male Warrior",
         "nickname": "",
         "note": "<nameEn:Fighter>",
         "profile": ""
@@ -4342,7 +4342,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "女魔術師",
+        "name": "Female Sorceress",
         "nickname": "",
         "note": "<nameEn:Mage>",
         "profile": ""
@@ -4365,7 +4365,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "男神官",
+        "name": "Male Priest",
         "nickname": "",
         "note": "<nameEn:Cleric>",
         "profile": ""
@@ -4388,7 +4388,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レイラの子",
+        "name": "Layla's child",
         "nickname": "",
         "note": "<nameEn:Layla's baby>",
         "profile": ""
@@ -4411,7 +4411,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ターニャの子",
+        "name": "Tanya's child",
         "nickname": "",
         "note": "<nameEn:Tanya's baby>",
         "profile": ""
@@ -4434,7 +4434,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ミオリの子",
+        "name": "Miori's child",
         "nickname": "",
         "note": "<nameEn:Miori's baby>",
         "profile": ""
@@ -4457,7 +4457,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "サラの子",
+        "name": "Sara's child",
         "nickname": "",
         "note": "<nameEn:Sara's baby>",
         "profile": ""
@@ -4480,7 +4480,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ディーナの子",
+        "name": "Dina's child",
         "nickname": "",
         "note": "<nameEn:Deena's baby>",
         "profile": ""
@@ -4503,7 +4503,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ネルの子",
+        "name": "Neru's child",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -4526,7 +4526,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リンの子",
+        "name": "Rin's child",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -4549,7 +4549,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アイリスの子",
+        "name": "Iris's child",
         "nickname": "",
         "note": "",
         "profile": ""

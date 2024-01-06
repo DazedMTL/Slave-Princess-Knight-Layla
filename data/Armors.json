@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 2192,
-        "name": "■盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "皮の盾",
+        "name": "Leather Shield",
         "note": "<lv:1>\n<nameEn:L.Shield>",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "バックラー",
+        "name": "Buckler",
         "note": "<lv:2>\n\n<nameEn:Buckler>",
         "params": [
             0,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 448,
-        "name": "鉄の盾",
+        "name": "Iron Shield",
         "note": "<lv:3>\n<nameEn:Iron Shield>",
         "params": [
             0,
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 448,
-        "name": "はがねの盾",
+        "name": "Steel Shield",
         "note": "<lv:4>\n<nameEn:S.Shield>",
         "params": [
             0,
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 448,
-        "name": "ミスリルの盾",
+        "name": "Mithril Shield",
         "note": "<lv:5>\n<nameEn:M.Shield>",
         "params": [
             0,
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 448,
-        "name": "竜鱗の盾",
+        "name": "Dragon Scale Shield",
         "note": "<lv:6>",
         "params": [
             0,
@@ -256,7 +256,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "なし",
+        "name": "None",
         "note": "<nameEn:None>",
         "params": [
             0,
@@ -418,7 +418,7 @@
             }
         ],
         "iconIndex": 1976,
-        "name": "アナルプラグ",
+        "name": "Anal Plug",
         "note": "<lv:1>\n<ero>\n<shitaNugi>\n<innerBottom:g>\n<frontAcce:65>\n<exp>\n<nameEn:Anal Plug>",
         "params": [
             0,
@@ -445,7 +445,7 @@
             }
         ],
         "iconIndex": 1981,
-        "name": "おまんこプラグ",
+        "name": "Pussy Plug",
         "note": "<lv:1>\n<ero>\n<shitaNugi>\n<innerBottom:h>\n<exp>\n<nameEn:Dildo>",
         "params": [
             0,
@@ -499,7 +499,7 @@
             }
         ],
         "iconIndex": 1975,
-        "name": "ふたなりちんぽ",
+        "name": "Futanari dick",
         "note": "<lv:1>\n<ero>\n<shitaNugi>\n<frontAcce:63>\n<innerBottomNg:b>\n<exp>\n<nameEn:Futanari>",
         "params": [
             0,
@@ -526,7 +526,7 @@
             }
         ],
         "iconIndex": 1969,
-        "name": "ローター",
+        "name": "Rotor",
         "note": "<lv:1>\n<ero>\n<shitaNugi>\n<innerBottom:f>\n<exp>\n<nameEn:Rotor>",
         "params": [
             0,
@@ -796,7 +796,7 @@
             }
         ],
         "iconIndex": 2192,
-        "name": "■鎧",
+        "name": "Armor",
         "note": "",
         "params": [
             0,
@@ -823,7 +823,7 @@
             }
         ],
         "iconIndex": 466,
-        "name": "首飾り",
+        "name": "Necklace",
         "note": "<lv:2>\n<nameEn:Necklace>",
         "params": [
             0,
@@ -850,7 +850,7 @@
             }
         ],
         "iconIndex": 478,
-        "name": "イヤリング",
+        "name": "Earrings",
         "note": "<lv:2>\n<nameEn:Earrings>",
         "params": [
             0,
@@ -877,7 +877,7 @@
             }
         ],
         "iconIndex": 479,
-        "name": "魔法の指輪",
+        "name": "Magic Ring",
         "note": "<lv:3>\n<spPlus:1>\n<nameEn:Magic Ring>",
         "params": [
             0,
@@ -958,7 +958,7 @@
             }
         ],
         "iconIndex": 466,
-        "name": "エメラルドの首飾り",
+        "name": "Emerald Necklace",
         "note": "<lv:4>\n<nameEn:S Necklace>",
         "params": [
             0,
@@ -985,7 +985,7 @@
             }
         ],
         "iconIndex": 478,
-        "name": "アメジストのイヤリング",
+        "name": "Amethyst Earrings",
         "note": "<lv:4>\n<nameEn:S Earrings>",
         "params": [
             0,
@@ -1012,7 +1012,7 @@
             }
         ],
         "iconIndex": 479,
-        "name": "ダイヤの指輪",
+        "name": "Diamond Ring",
         "note": "<lv:5>\n<spPlus:2>\n<nameEn:S Ring>",
         "params": [
             0,
@@ -2443,7 +2443,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ＨＰ＋２",
+        "name": "HP+2",
         "note": "",
         "params": [
             2,
@@ -2470,7 +2470,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ＳＨ＋２",
+        "name": "SH+2",
         "note": "",
         "params": [
             0,
@@ -2497,7 +2497,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ＡＴＫ＋１",
+        "name": "ATK+1",
         "note": "",
         "params": [
             0,
@@ -2524,7 +2524,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ＤＥＦ＋１",
+        "name": "DEF+1",
         "note": "",
         "params": [
             0,
@@ -2551,7 +2551,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ＭＧＣ＋１",
+        "name": "MGC+1",
         "note": "",
         "params": [
             0,
@@ -2632,7 +2632,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "スキル習得",
+        "name": "Skill Acquisition",
         "note": "",
         "params": [
             0,
@@ -2686,7 +2686,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2713,7 +2713,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2740,7 +2740,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2767,7 +2767,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2794,7 +2794,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2821,7 +2821,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2848,7 +2848,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ダメージアップ＋６％",
+        "name": "Damage Up +6%",
         "note": "<damageUpLevel:6>",
         "params": [
             0,
@@ -2983,7 +2983,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "SHIELD＋２",
+        "name": "Shield+2",
         "note": "",
         "params": [
             0,
@@ -3247,7 +3247,7 @@
         "etypeId": 2,
         "traits": [],
         "iconIndex": 0,
-        "name": "【防護】",
+        "name": "[Protection]",
         "note": "<nameEn:[Def]>",
         "params": [
             0,
@@ -3274,7 +3274,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "【必殺】",
+        "name": "[Fatal]",
         "note": "<nameEn:[Cri]>",
         "params": [
             0,
@@ -4057,8 +4057,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "奈落の金杯",
-        "note": "<medal>\n\n\n<hint:２日以内に１面をクリアする>\n",
+        "name": "Chalice of the Abyss",
+        "note": "<medal>\n\n\n<hint:Clear level one within two days.>\n",
         "params": [
             0,
             0,
@@ -4084,8 +4084,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "奈落の銀杯",
-        "note": "<medal>\n\n<hint:４日以内に１面をクリアする>",
+        "name": "Silver Cup of the Abyss",
+        "note": "<medal>\n\n<hint:Clear level one within four days.>",
         "params": [
             0,
             0,
@@ -4111,8 +4111,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "奈落の銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:１面をクリアする>\n<hintEn:Clear stage 1>",
+        "name": "Abyssal Copper Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage one.>\n<hintEn:Clear stage 1>",
         "params": [
             0,
             0,
@@ -4138,8 +4138,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "滝壺の金杯",
-        "note": "<medal>\n\n<hint:２日以内に２面をクリアする>\n<before:153>",
+        "name": "Waterfall Basin's Golden Cup",
+        "note": "<medal>\n\n<hint:Clear two stages within two days.>\n<before:153>",
         "params": [
             0,
             0,
@@ -4165,8 +4165,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "滝壺の銀杯",
-        "note": "<medal>\n\n\n<hint:４日以内に２面をクリアする>\n<before:153>",
+        "name": "Silver Cup of the Waterfall Basin",
+        "note": "<medal>\n\n\n<hint:Clear stage two within four days.>\n<before:153>",
         "params": [
             0,
             0,
@@ -4192,8 +4192,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "滝壺の銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:２面をクリアする>\n<before:153>",
+        "name": "Waterfall Basin Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage two.>\n<before:153>",
         "params": [
             0,
             0,
@@ -4219,8 +4219,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "ピラミッドの金杯",
-        "note": "<medal>\n\n<hint:２日以内に３面をクリアする>\n<before:156>",
+        "name": "Pyramid's Golden Cup",
+        "note": "<medal>\n\n<hint:Clear level 3 within two days.>\n<before:156>",
         "params": [
             0,
             0,
@@ -4246,8 +4246,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "ピラミッドの銀杯",
-        "note": "<medal>\n\n\n<hint:４日以内に３面をクリアする>\n<before:156>",
+        "name": "Pyramid's Silver Cup",
+        "note": "<medal>\n\n\n<hint:Clear 3 stages within 4 days.>\n<before:156>",
         "params": [
             0,
             0,
@@ -4273,8 +4273,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "ピラミッドの銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:３面をクリアする>\n<before:156>",
+        "name": "Pyramid Copper Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage three.>\n<before:156>",
         "params": [
             0,
             0,
@@ -4300,8 +4300,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "氷の金杯",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:２日以内に４面をクリアする>\n<before:159>",
+        "name": "Ice Goblet",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage 4 within two days.>\n<before:159>",
         "params": [
             0,
             0,
@@ -4327,8 +4327,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "氷の銀杯",
-        "note": "<medal>\n\n\n<hint:４日以内に４面をクリアする>\n<before:159>",
+        "name": "Ice Silver Cup",
+        "note": "<medal>\n\n\n<hint:Clear 4 stages within 4 days.>\n<before:159>",
         "params": [
             0,
             0,
@@ -4354,8 +4354,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "氷の銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:４面をクリアする>\n<before:159>",
+        "name": "Ice Copper Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear the fourth level.>\n<before:159>",
         "params": [
             0,
             0,
@@ -4381,8 +4381,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "聖堂の金杯",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:２日以内に５面をクリアする>\n<before:162>",
+        "name": "Chalice of the Cathedral",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear 5 levels within 2 days.>\n<before:162>",
         "params": [
             0,
             0,
@@ -4408,8 +4408,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "聖堂の銀杯",
-        "note": "<medal>\n\n\n<hint:４日以内に５面をクリアする>\n<before:162>",
+        "name": "Cathedral's Silver Cup",
+        "note": "<medal>\n\n\n<hint:Clear 5 levels within 4 days.>\n<before:162>",
         "params": [
             0,
             0,
@@ -4435,8 +4435,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "聖堂の銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:５面をクリアする>\n<before:162>",
+        "name": "Cathedral Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage 5.>\n<before:162>",
         "params": [
             0,
             0,
@@ -4462,8 +4462,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "森の金杯",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:２日以内に６面をクリアする>\n<before:165>",
+        "name": "Forest's Golden Cup",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage 6 within two days.>\n<before:165>",
         "params": [
             0,
             0,
@@ -4489,8 +4489,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "森の銀杯",
-        "note": "<medal>\n\n\n<hint:４日以内に６面をクリアする>\n<before:165>",
+        "name": "Forest's Silver Cup",
+        "note": "<medal>\n\n\n<hint:Clear stage 6 within 4 days.>\n<before:165>",
         "params": [
             0,
             0,
@@ -4516,8 +4516,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "森の銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:６面をクリアする>\n<before:165>",
+        "name": "Forest Copper Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage 6.>\n<before:165>",
         "params": [
             0,
             0,
@@ -4543,8 +4543,8 @@
             }
         ],
         "iconIndex": 2201,
-        "name": "溶岩の金杯",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:２日以内に７面をクリアする>\n<before:168>",
+        "name": "Lava Chalice",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage 7 within two days.>\n<before:168>",
         "params": [
             0,
             0,
@@ -4570,8 +4570,8 @@
             }
         ],
         "iconIndex": 2202,
-        "name": "溶岩の銀杯",
-        "note": "<medal>\n\n\n<hint:４日以内に７面をクリアする>\n<before:168>",
+        "name": "Lava Silver Cup",
+        "note": "<medal>\n\n\n<hint:Clear stage 7 within 4 days.>\n<before:168>",
         "params": [
             0,
             0,
@@ -4597,8 +4597,8 @@
             }
         ],
         "iconIndex": 2187,
-        "name": "溶岩の銅貨",
-        "note": "<medal>\n\n<skillPoint:100>\n<hint:７面をクリアする>\n<before:168>",
+        "name": "Lava Coin",
+        "note": "<medal>\n\n<skillPoint:100>\n<hint:Clear stage 7.>\n<before:168>",
         "params": [
             0,
             0,
@@ -5326,8 +5326,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "いざ、冒険にゆかん!!",
-        "note": "<medal>\n<order:201>\n<skillPoint:100>\n<hint:冒険に%1回出発する>",
+        "name": "Let's go on an adventure!!",
+        "note": "<medal>\n<order:201>\n<skillPoint:100>\n<hint:Set out on an adventure %1 times>",
         "params": [
             0,
             0,
@@ -5353,8 +5353,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "果てしなき戦場",
-        "note": "<medal>\n<order:201>\n<skillPoint:200>\n<hint:冒険に%1回出発する>",
+        "name": "Endless Battlefield",
+        "note": "<medal>\n<order:201>\n<skillPoint:200>\n<hint:Set out on an adventure %1 times>",
         "params": [
             0,
             0,
@@ -5381,7 +5381,7 @@
         ],
         "iconIndex": 476,
         "name": "FIRST STEP TOWARDS WARS",
-        "note": "<medal>\n\n<skillPoint:50>\n<hint:冒険に出発する>",
+        "note": "<medal>\n\n<skillPoint:50>\n<hint:Setting out on an adventure>",
         "params": [
             0,
             0,
@@ -5407,8 +5407,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "初勝利！",
-        "note": "<medal>\n<hintId:200>\n<hint:戦闘に勝利する>\n",
+        "name": "First Victory!",
+        "note": "<medal>\n<hintId:200>\n<hint:Achieve victory in battle.>\n",
         "params": [
             4,
             0,
@@ -5434,8 +5434,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "ひよっこハンター",
-        "note": "<medal>\n<hintId:201>\n<hint:戦闘に%1回勝利する>\n<skillPoint:50>",
+        "name": "Novice Hunter",
+        "note": "<medal>\n<hintId:201>\n<hint:Win %1 battles>\n<skillPoint:50>",
         "params": [
             5,
             0,
@@ -5461,8 +5461,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "歴戦の強者",
-        "note": "<medal>\n<hintId:202>\n<hint:戦闘に%1回勝利する>\n",
+        "name": "Veteran Warrior",
+        "note": "<medal>\n<hintId:202>\n<hint:Win in battle %1 times>\n",
         "params": [
             5,
             0,
@@ -5488,8 +5488,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "新たなる英雄",
-        "note": "<medal>\n<hintId:203>\n<hint:戦闘に%1回勝利する>\n<skillPoint:50>",
+        "name": "The New Hero",
+        "note": "<medal>\n<hintId:203>\n<hint:Win %1 battles>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -5515,8 +5515,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "レジェンド冒険者",
-        "note": "<medal>\n<hintId:204>\n<hint:戦闘に%1回勝利する>\n",
+        "name": "Legend Adventurer",
+        "note": "<medal>\n<hintId:204>\n<hint:Win %1 battles>\n",
         "params": [
             6,
             0,
@@ -5542,8 +5542,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "お前こそ、万夫不当の豪傑よ！",
-        "note": "<medal>\n<hintId:205>\n<hint:戦闘に%1回勝利する>\n",
+        "name": "You are indeed a hero unmatched by ten thousand men!",
+        "note": "<medal>\n<hintId:205>\n<hint:Win %1 battles>\n",
         "params": [
             7,
             0,
@@ -5597,7 +5597,7 @@
         ],
         "iconIndex": 396,
         "name": "First Strike",
-        "note": "<medal>\n<hintId:200>\n<hint:1ターン目にスキルを%1回使用する>\n<spPlus:1>\n",
+        "note": "<medal>\n<hintId:200>\n<hint:Use a skill %1 times on the first turn.>\n<spPlus:1>\n",
         "params": [
             0,
             0,
@@ -5677,8 +5677,8 @@
             }
         ],
         "iconIndex": 634,
-        "name": "ふくびきけん",
-        "note": "<medal>\n<hintId:200>\n<hint:トータル%1Ｇ獲得する>\n<skillPoint:53>",
+        "name": "Lottery Ticket",
+        "note": "<medal>\n<hintId:200>\n<hint:Earn a total of %1G>\n<skillPoint:53>",
         "params": [
             0,
             0,
@@ -5704,8 +5704,8 @@
             }
         ],
         "iconIndex": 634,
-        "name": "でかいきんのたま",
-        "note": "<medal>\n<hintId:211>\n<hint:トータル%1Ｇ獲得する>\n<goldUp:5>",
+        "name": "Large Gold Orb",
+        "note": "<medal>\n<hintId:211>\n<hint:Earn a total of %1G>\n<goldUp:5>",
         "params": [
             0,
             0,
@@ -5731,8 +5731,8 @@
             }
         ],
         "iconIndex": 634,
-        "name": "デモンゴーレム（金）",
-        "note": "<medal>\n<hintId:212>\n<hint:トータル%1Ｇ獲得する>\n<goldUp:7>",
+        "name": "Demon Golem (Gold)",
+        "note": "<medal>\n<hintId:212>\n<hint:Earn a total of %1G>\n<goldUp:7>",
         "params": [
             0,
             0,
@@ -5758,8 +5758,8 @@
             }
         ],
         "iconIndex": 634,
-        "name": "アカム銀行",
-        "note": "<medal>\n<hintId:213>\n<hint:トータル%1Ｇ獲得する>\n<goldUp:9>",
+        "name": "Akamu Bank",
+        "note": "<medal>\n<hintId:213>\n<hint:Earn a total of %1G>\n<goldUp:9>",
         "params": [
             0,
             0,
@@ -5785,8 +5785,8 @@
             }
         ],
         "iconIndex": 634,
-        "name": "クロト銀行",
-        "note": "<medal>\n<hintId:214>\n<hint:トータル%1Ｇ獲得する>\n<goldUp:11>",
+        "name": "Kuroto Bank",
+        "note": "<medal>\n<hintId:214>\n<hint:Earn a total of %1G>\n<goldUp:11>",
         "params": [
             0,
             0,
@@ -5812,8 +5812,8 @@
             }
         ],
         "iconIndex": 634,
-        "name": "キャット銀行",
-        "note": "<medal>\n<hintId:215>\n<hint:トータル%1Ｇ獲得する>\n<goldUp:13>",
+        "name": "Cat Bank",
+        "note": "<medal>\n<hintId:215>\n<hint:Earn a total of %1G>\n<goldUp:13>",
         "params": [
             0,
             0,
@@ -5839,8 +5839,8 @@
             }
         ],
         "iconIndex": 1,
-        "name": "なんか様子がヘンです…",
-        "note": "<medal>\n<hintId:200>\n<hint:%1回戦闘不能になる>\n<skillPoint:100>\n<hintEn:Die %1 times or more>",
+        "name": "Something seems off...",
+        "note": "<medal>\n<hintId:200>\n<hint:%1 becomes incapacitated.>\n<skillPoint:100>\n<hintEn:Die %1 times or more>",
         "params": [
             0,
             0,
@@ -5867,7 +5867,7 @@
         ],
         "iconIndex": 1,
         "name": "ｼｯｼｮｰ",
-        "note": "<medal>\n<hintId:219>\n<hint:%1回戦闘不能になる>\n<skillPoint:200>\n<hintEn:Die %1 times or more>",
+        "note": "<medal>\n<hintId:219>\n<hint:%1 becomes incapacitated.>\n<skillPoint:200>\n<hintEn:Die %1 times or more>",
         "params": [
             0,
             0,
@@ -5893,8 +5893,8 @@
             }
         ],
         "iconIndex": 1,
-        "name": "ここで死ぬ定めではないと",
-        "note": "<medal>\n<hintId:218>\n<hint:%1回戦闘不能になる>\n<skillPoint:300>\n<hintEn:Die %1 times or more>",
+        "name": "It's not my fate to die here.",
+        "note": "<medal>\n<hintId:218>\n<hint:%1 is incapacitated.>\n<skillPoint:300>\n<hintEn:Die %1 times or more>",
         "params": [
             0,
             0,
@@ -5920,8 +5920,8 @@
             }
         ],
         "iconIndex": 1,
-        "name": "任務は失敗に終わった今すぐ電源を切れ",
-        "note": "<medal>\n<hintId:219>\n<hint:%1回戦闘不能になる>\n<skillPoint:300>\n<hintEn:Die %1 times or more>",
+        "name": "The mission has failed, turn off the power immediately.",
+        "note": "<medal>\n<hintId:219>\n<hint:%1 is incapacitated.>\n<skillPoint:300>\n<hintEn:Die %1 times or more>",
         "params": [
             0,
             0,
@@ -5947,8 +5947,8 @@
             }
         ],
         "iconIndex": 587,
-        "name": "しあわせタマゴ",
-        "note": "<medal>\n<hintId:200>\n<hint:トータル%1EXP獲得する>\n<expUp:3>",
+        "name": "Happy Egg",
+        "note": "<medal>\n<hintId:200>\n<hint:Earn a total of %1 EXP>\n<expUp:3>",
         "params": [
             0,
             0,
@@ -5974,8 +5974,8 @@
             }
         ],
         "iconIndex": 460,
-        "name": "しあわせのくつ",
-        "note": "<medal>\n<hintId:221>\n<hint:トータル%1EXP獲得する>\n<expUp:6>",
+        "name": "Shoes of Happiness",
+        "note": "<medal>\n<hintId:221>\n<hint:Earn a total of %1 EXP>\n<expUp:6>",
         "params": [
             0,
             0,
@@ -6001,8 +6001,8 @@
             }
         ],
         "iconIndex": 580,
-        "name": "大魚のステーキ",
-        "note": "<medal>\n<hintId:221>\n<hint:トータル%1EXP獲得する>\n<expUp:9>",
+        "name": "Giant Fish Steak",
+        "note": "<medal>\n<hintId:221>\n<hint:Earn a total of %1EXP>\n<expUp:9>",
         "params": [
             0,
             0,
@@ -6028,8 +6028,8 @@
             }
         ],
         "iconIndex": 923,
-        "name": "グロウスフィア",
-        "note": "<medal>\n<hintId:221>\n<hint:トータル%1EXP獲得する>\n<expUp:12>",
+        "name": "Growth Sphere",
+        "note": "<medal>\n<hintId:221>\n<hint:Earn a total of %1 EXP>\n<expUp:12>",
         "params": [
             0,
             0,
@@ -6055,8 +6055,8 @@
             }
         ],
         "iconIndex": 631,
-        "name": "経験の珠",
-        "note": "<medal>\n<hintId:221>\n<hint:トータル%1EXP獲得する>\n<expUp:15>",
+        "name": "Bead of Experience",
+        "note": "<medal>\n<hintId:221>\n<hint:Earn a total of %1 EXP>\n<expUp:15>",
         "params": [
             0,
             0,
@@ -6136,7 +6136,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "やっぱ辛えわ",
+        "name": "This is tough after all.",
         "note": "",
         "params": [
             0,
@@ -6163,7 +6163,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "上からくるぞ、気をつけろ",
+        "name": "It's coming from above, watch out!",
         "note": "",
         "params": [
             0,
@@ -6218,7 +6218,7 @@
         ],
         "iconIndex": 449,
         "name": "Not a Scratch",
-        "note": "<medal>\n<hintId:200>\n<hint:%1回ノーダメージで勝利する>",
+        "note": "<medal>\n<hintId:200>\n<hint:Win once without taking any damage.>",
         "params": [
             0,
             0,
@@ -6244,8 +6244,8 @@
             }
         ],
         "iconIndex": 449,
-        "name": "バーリアー 平気だもーん",
-        "note": "<medal>\n<hintId:231>\n<hint:%1回ノーダメージで勝利する>",
+        "name": "Barrier, I'm totally fine~",
+        "note": "<medal>\n<hintId:231>\n<hint:Win once without taking any damage.>",
         "params": [
             0,
             0,
@@ -6271,8 +6271,8 @@
             }
         ],
         "iconIndex": 449,
-        "name": "パーフェクトクローザー",
-        "note": "<medal>\n<hintId:231>\n<gold:20>\n<hint:%1回ノーダメージで勝利する>",
+        "name": "Perfect Closer",
+        "note": "<medal>\n<hintId:231>\n<gold:20>\n<hint:Win once without taking any damage.>",
         "params": [
             0,
             0,
@@ -6298,8 +6298,8 @@
             }
         ],
         "iconIndex": 449,
-        "name": "P勝ち",
-        "note": "<medal>\n<hintId:231>\n<hint:%1回ノーダメージで勝利する>",
+        "name": "P Victory",
+        "note": "<medal>\n<hintId:231>\n<hint:Win with no damage taken once.>",
         "params": [
             0,
             0,
@@ -6325,8 +6325,8 @@
             }
         ],
         "iconIndex": 449,
-        "name": "堅実に、だが時に大胆に！",
-        "note": "<medal>\n<hintId:231>\n<hint:%1回ノーダメージで勝利する>",
+        "name": "Steady, but sometimes bold!",
+        "note": "<medal>\n<hintId:231>\n<hint:Win once without taking any damage.>",
         "params": [
             0,
             0,
@@ -6379,8 +6379,8 @@
             }
         ],
         "iconIndex": 460,
-        "name": "死体蹴り",
-        "note": "<medal>\n<hintId:200>\n<hint:%1ダメージのオーバーキルを出す>\n<skillPoint:50>",
+        "name": "Corpse Kick",
+        "note": "<medal>\n<hintId:200>\n<hint:Deal 1 point of overkill damage.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -6406,8 +6406,8 @@
             }
         ],
         "iconIndex": 335,
-        "name": "とっくに相手のライフはゼロよ!",
-        "note": "<medal>\n<hintId:237>\n<hint:%1ダメージのオーバーキルを出す>",
+        "name": "The opponent's life is already zero!",
+        "note": "<medal>\n<hintId:237>\n<hint:Deal 1 point of overkill damage.>",
         "params": [
             0,
             0,
@@ -6433,8 +6433,8 @@
             }
         ],
         "iconIndex": 440,
-        "name": "極･不惑",
-        "note": "<medal>\n<hintId:237>\n<hint:%1ダメージのオーバーキルを出す>",
+        "name": "Extreme･Perplexity",
+        "note": "<medal>\n<hintId:237>\n<hint:Deal 1 point of overkill damage.>",
         "params": [
             0,
             0,
@@ -6514,7 +6514,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "サラマンダーより、ずっとはやい!!",
+        "name": "Much faster than a Salamander!!",
         "note": "",
         "params": [
             0,
@@ -6541,8 +6541,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "カイリキー",
-        "note": "<medal>\n<hintId:201>\n<hint:トータル%1ダメージを与える>\n<skillPoint:50>",
+        "name": "Machamp",
+        "note": "<medal>\n<hintId:201>\n<hint:Inflict a total of %1 damage.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -6568,8 +6568,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "マッチョマックス・ペレー",
-        "note": "<medal>\n<hintId:243>\n<hint:トータル%1ダメージを与える>\n",
+        "name": "Macho Max Perret",
+        "note": "<medal>\n<hintId:243>\n<hint:Inflict a total of %1 damage.>\n",
         "params": [
             0,
             0,
@@ -6595,8 +6595,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "力こそパワー",
-        "note": "<medal>\n<hintId:244>\n<hint:トータル%1ダメージを与える>\n",
+        "name": "Strength is Power",
+        "note": "<medal>\n<hintId:244>\n<hint:Inflict a total of %1 damage.>\n",
         "params": [
             0,
             0,
@@ -6622,8 +6622,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "破壊するもの",
-        "note": "<medal>\n<hintId:244>\n<hint:トータル%1ダメージを与える>\n",
+        "name": "The Destroyer",
+        "note": "<medal>\n<hintId:244>\n<hint:Inflict a total of %1 damage.>\n",
         "params": [
             0,
             0,
@@ -6649,8 +6649,8 @@
             }
         ],
         "iconIndex": 149,
-        "name": "落ち方が悪くて使い物にならなくなった",
-        "note": "<hint:アイテムを捨てる>\n<skillPoint:50>",
+        "name": "It became useless after a bad fall",
+        "note": "<hint:Throw away the item.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -6757,8 +6757,8 @@
             }
         ],
         "iconIndex": 404,
-        "name": "やべーぞレイプだ！",
-        "note": "<medal>\n<hint:ターニャへのレイプが発生する>\n",
+        "name": "This is bad, it's rape!",
+        "note": "<medal>\n<hint:Rape occurs to Tanya.>\n",
         "params": [
             0,
             0,
@@ -6784,8 +6784,8 @@
             }
         ],
         "iconIndex": 404,
-        "name": "何がクニだよ",
-        "note": "<medal>\n<hint:サラにクンニをする>\n<skillPoint:50>",
+        "name": "What are you talking about?",
+        "note": "<medal>\n<hint:Perform cunnilingus on Sara.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -6838,8 +6838,8 @@
             }
         ],
         "iconIndex": 401,
-        "name": "みんな一生懸命闘っている",
-        "note": "<medal>\n<hint:オートバトルを実行する>",
+        "name": "Everyone is fighting with all their might.",
+        "note": "<medal>\n<hint:Execute auto-battle.>",
         "params": [
             0,
             0,
@@ -6919,8 +6919,8 @@
             }
         ],
         "iconIndex": 460,
-        "name": "鬼歩き",
-        "note": "<medal>\n<hint:５人全員が通常攻撃をする>",
+        "name": "Demon Walk",
+        "note": "<medal>\n<hint:All five members perform a normal attack.>",
         "params": [
             0,
             0,
@@ -6946,8 +6946,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "千本パンチ",
-        "note": "<medal>\n<hint:５人全員が通常攻撃をする>",
+        "name": "Thousand Punches",
+        "note": "<medal>\n<hint:All five members perform a normal attack.>",
         "params": [
             0,
             0,
@@ -6973,8 +6973,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "霧ハメ",
-        "note": "<medal>\n<hint:５人全員が通常攻撃をする>",
+        "name": "Mist Fuck",
+        "note": "<medal>\n<hint:All five members perform a normal attack.>",
         "params": [
             0,
             0,
@@ -7027,8 +7027,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "妖刀ニヒル",
-        "note": "<medal>\n<hint:%1回通常攻撃を行う>",
+        "name": "Cursed Blade Nihil",
+        "note": "<medal>\n<hint:Perform 1 normal attack.>",
         "params": [
             0,
             0,
@@ -7054,8 +7054,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "秘剣カブラステギ",
-        "note": "<medal>\n<hint:%1回通常攻撃を行う>",
+        "name": "Secret Sword Kaburastegi",
+        "note": "<medal>\n<hint:Perform a normal attack once.>",
         "params": [
             0,
             0,
@@ -7081,8 +7081,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "邪聖剣ネクロマンサー",
-        "note": "<medal>\n<hint:%1回通常攻撃を行う>",
+        "name": "Wicked Holy Sword Necromancer",
+        "note": "<medal>\n<hint:Perform 1 normal attack.>",
         "params": [
             0,
             0,
@@ -7108,8 +7108,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "最強の剣バーサル",
-        "note": "<medal>\n<hint:%1回通常攻撃を行う>",
+        "name": "Bersal, the Strongest Sword",
+        "note": "<medal>\n<hint:Perform 1 normal attack.>",
         "params": [
             0,
             0,
@@ -7162,8 +7162,8 @@
             }
         ],
         "iconIndex": 139,
-        "name": "スーツがオシャカになった",
-        "note": "<medal>\n<hint:%1回シールドが０になる>",
+        "name": "The suit is ruined.",
+        "note": "<medal>\n<hint:Shield reduced to zero once.>",
         "params": [
             0,
             0,
@@ -7189,8 +7189,8 @@
             }
         ],
         "iconIndex": 1933,
-        "name": "虹色の魔石",
-        "note": "<medal>\n<hint:シャルルがリルルになる>\n",
+        "name": "Rainbow Magic Stone",
+        "note": "<medal>\n<hint:Charles becomes Lilulu.>\n",
         "params": [
             0,
             0,
@@ -7243,8 +7243,8 @@
             }
         ],
         "iconIndex": 615,
-        "name": "みんな丸太はもったな",
-        "note": "<medal>\n<hint:祈りの祭壇で装備獲得を解放する>\n<skillPoint:50>",
+        "name": "Everyone, grab a log!",
+        "note": "<medal>\n<hint:Unlock equipment acquisition at the Altar of\nPrayer.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -7297,8 +7297,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "連続技",
-        "note": "<medal>\n<hint:%1回フィニッシュブローが発動する>\n<finishBlow:4>\n<before:153>",
+        "name": "Combo Move",
+        "note": "<medal>\n<hint:Finish Blow activates once.>\n<finishBlow:4>\n<before:153>",
         "params": [
             0,
             0,
@@ -7324,8 +7324,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "追撃チャンス",
-        "note": "<medal>\n<hint:%1回フィニッシュブローが発動する>\n<finishBlow:6>\n<before:153>",
+        "name": "Pursuit Chance",
+        "note": "<medal>\n<hint:Activate Finish Blow once.>\n<finishBlow:6>\n<before:153>",
         "params": [
             0,
             0,
@@ -7351,8 +7351,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "これでもくらえ！",
-        "note": "<medal>\n<hint:%1回フィニッシュブローが発動する>\n<finishBlow:8>\n<before:153>",
+        "name": "Take this!",
+        "note": "<medal>\n<hint:Finish Blow activates once.>\n<finishBlow:8>\n<before:153>",
         "params": [
             0,
             0,
@@ -7405,8 +7405,8 @@
             }
         ],
         "iconIndex": 402,
-        "name": "スローすぎてあくびがでるぜ",
-        "note": "<hint:敵の攻撃を%1回見切りで回避する>\n<skillPoint:50>",
+        "name": "It's so slow that it makes me yawn.",
+        "note": "<hint:Evade the enemy's attack %1 times with foresight.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -7432,8 +7432,8 @@
             }
         ],
         "iconIndex": 402,
-        "name": "残像だ",
-        "note": "<hint:敵の攻撃を%1回見切りで回避する>\n<skillPoint:50>",
+        "name": "Afterimage",
+        "note": "<hint:Evade the enemy's attack %1 times with foresight.>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -7459,8 +7459,8 @@
             }
         ],
         "iconIndex": 402,
-        "name": "踏み込みが足りん！",
-        "note": "<hint:敵の攻撃を%1回見切りで回避する>\n<skillPoint:100>",
+        "name": "You're not stepping in enough!",
+        "note": "<hint:Evade the enemy's attack %1 times with foresight.>\n<skillPoint:100>",
         "params": [
             0,
             0,
@@ -7486,8 +7486,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精神を加速させろ",
-        "note": "<hint:集中する>",
+        "name": "Accelerate the mind",
+        "note": "<hint:Concentrate>",
         "params": [
             0,
             0,
@@ -7513,8 +7513,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "殺してでもうばいとる",
-        "note": "<hint:集中する>",
+        "name": "I'll steal it, even if I have to kill for it.",
+        "note": "<hint:Concentrate>",
         "params": [
             0,
             0,
@@ -7567,8 +7567,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "まだだ！まだ終わってない！",
-        "note": "<hint:くいしばりが発動する>",
+        "name": "Not yet! It's not over yet!",
+        "note": "<hint:The clenching activates.>",
         "params": [
             0,
             0,
@@ -7621,7 +7621,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "とびらをけりあけおどりこんだ",
+        "name": "Kicked open the door and danced inside.",
         "note": "",
         "params": [
             0,
@@ -7648,7 +7648,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ミンナニハ　ナイショダヨ",
+        "name": "It's a secret from everyone.",
         "note": "",
         "params": [
             0,
@@ -7702,8 +7702,8 @@
             }
         ],
         "iconIndex": 530,
-        "name": "おたから",
-        "note": "<medal>\n<hintId:200>\n<hint:宝箱を%1回開ける>\n",
+        "name": "Treasure",
+        "note": "<medal>\n<hintId:200>\n<hint:Open the treasure chest %1 times>\n",
         "params": [
             2,
             0,
@@ -7729,8 +7729,8 @@
             }
         ],
         "iconIndex": 530,
-        "name": "ほりだしもの",
-        "note": "<medal>\n<hintId:200>\n<hint:宝箱を%1回開ける>\n",
+        "name": "Excavated Item",
+        "note": "<medal>\n<hintId:200>\n<hint:Open the treasure chest %1 times>\n",
         "params": [
             5,
             0,
@@ -7783,8 +7783,8 @@
             }
         ],
         "iconIndex": 626,
-        "name": "カッチン鋼",
-        "note": "<medal>\n<hintId:200>\n\n<hint:ガードを%1回行う>\n<guardRate:10>",
+        "name": "Katchin Steel",
+        "note": "<medal>\n<hintId:200>\n\n<hint:Guard %1 times>\n<guardRate:10>",
         "params": [
             0,
             0,
@@ -7837,8 +7837,8 @@
             }
         ],
         "iconIndex": 12,
-        "name": "ガードブレイク",
-        "note": "<medal>\n<hint:%1回敵をBREAKさせる>\n<criStun:1>",
+        "name": "Guard Break",
+        "note": "<medal>\n<hint:Break the enemy once.>\n<criStun:1>",
         "params": [
             0,
             0,
@@ -7864,8 +7864,8 @@
             }
         ],
         "iconIndex": 12,
-        "name": "鉄壁穿つべし",
-        "note": "<medal>\n<hint:%1回敵をBREAKさせる>\n<skillPoint:100>",
+        "name": "Pierce the Iron Wall",
+        "note": "<medal>\n<hint:Break the enemy once.>\n<skillPoint:100>",
         "params": [
             0,
             0,
@@ -7918,8 +7918,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "隕石の杖",
-        "note": "<medal>\n<hint:%1回魔法ダメージを与える>",
+        "name": "Meteorite Staff",
+        "note": "<medal>\n<hint:Deals magic damage once.>",
         "params": [
             0,
             0,
@@ -7945,8 +7945,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "メテオロッド",
-        "note": "<medal>\n<hint:%1回魔法ダメージを与える>",
+        "name": "Meteor Rod",
+        "note": "<medal>\n<hint:Deals magic damage once.>",
         "params": [
             0,
             0,
@@ -7972,8 +7972,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "ブルークリスタルロッド",
-        "note": "<medal>\n<hint:%1回魔法ダメージを与える>",
+        "name": "Blue Crystal Rod",
+        "note": "<medal>\n<hint:Deals magic damage once.>",
         "params": [
             0,
             0,
@@ -7999,8 +7999,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "星と月の杖",
-        "note": "<medal>\n<hint:%1回魔法ダメージを与える>",
+        "name": "Staff of Stars and Moon",
+        "note": "<medal>\n<hint:Deals magic damage once.>",
         "params": [
             0,
             0,
@@ -8026,8 +8026,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "滅びの天地爆裂弾",
-        "note": "<medal>\n<hint:一度で%1の魔法ダメージを与える>",
+        "name": "Apocalypse Earth-Shattering Blast Bullet",
+        "note": "<medal>\n<hint:Deal %1 magic damage in one hit.>",
         "params": [
             0,
             0,
@@ -8107,8 +8107,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "エクスカリバー",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:1>\n<skillDamagePlus:2>",
+        "name": "Excalibur",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:1>\n<skillDamagePlus:2>",
         "params": [
             0,
             0,
@@ -8134,8 +8134,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "フルンティング",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:1>\n<skillPoint:50>\n",
+        "name": "Flunting",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:1>\n<skillPoint:50>\n",
         "params": [
             0,
             0,
@@ -8161,8 +8161,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "グラム",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:1>\n<skillDamagePlus:3>",
+        "name": "Gram",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:1>\n<skillDamagePlus:3>",
         "params": [
             0,
             0,
@@ -8188,8 +8188,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "カラドボルグ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:1>\n<skillPoint:50>",
+        "name": "Caladbolg",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:1>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -8215,8 +8215,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "フラガラッハ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:1>\n<skillDamagePlus:4>",
+        "name": "Fragarach",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:1>\n<skillDamagePlus:4>",
         "params": [
             0,
             0,
@@ -8242,8 +8242,8 @@
             }
         ],
         "iconIndex": 417,
-        "name": "クラウ・ソラス",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:1>\n<skillDamagePlus:4>",
+        "name": "Claw of Solace",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2, %1 times.>\n<actor:1>\n<skillDamagePlus:4>",
         "params": [
             0,
             0,
@@ -8377,8 +8377,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "打つべし",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:2>\n<skillDamagePlus:2>\n<before:153>\n",
+        "name": "Strike True",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:2>\n<skillDamagePlus:2>\n<before:153>\n",
         "params": [
             0,
             0,
@@ -8404,8 +8404,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "鉄拳パンチ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:2>\n<skillPoint:50>\n<before:153>",
+        "name": "Iron Fist Punch",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:2>\n<skillPoint:50>\n<before:153>",
         "params": [
             0,
             0,
@@ -8431,8 +8431,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "お前のパンチは軽いんだよ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:2>\n<skillDamagePlus:3>\n<before:153>",
+        "name": "Your punches are light.",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2, %1 times.>\n<actor:2>\n<skillDamagePlus:3>\n<before:153>",
         "params": [
             0,
             0,
@@ -8458,8 +8458,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "流星拳",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:2>\n<skillPoint:50>\n<before:153>",
+        "name": "Meteor Fist",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:2>\n<skillPoint:50>\n<before:153>",
         "params": [
             0,
             0,
@@ -8485,8 +8485,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "オラオラ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:2>\n<skillDamagePlus:4>\n<before:153>",
+        "name": "Ora Ora",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2 %1 times.>\n<actor:2>\n<skillDamagePlus:4>\n<before:153>",
         "params": [
             0,
             0,
@@ -8512,8 +8512,8 @@
             }
         ],
         "iconIndex": 462,
-        "name": "銃乱打",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:2>\n<skillDamagePlus:4>\n<before:153>",
+        "name": "Gun Barrage",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:2>\n<skillDamagePlus:4>\n<before:153>",
         "params": [
             0,
             0,
@@ -8647,8 +8647,8 @@
             }
         ],
         "iconIndex": 549,
-        "name": "パーフェクトガイド",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:7>\n<skillDamagePlus:2>",
+        "name": "Perfect Guide",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2, %1 times.>\n<actor:7>\n<skillDamagePlus:2>",
         "params": [
             0,
             0,
@@ -8674,8 +8674,8 @@
             }
         ],
         "iconIndex": 551,
-        "name": "コンプリートガイド",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:7>\n<skillPoint:50>",
+        "name": "Complete Guide",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:7>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -8701,8 +8701,8 @@
             }
         ],
         "iconIndex": 552,
-        "name": "完全攻略本",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:7>\n<skillDamagePlus:3>",
+        "name": "Complete Strategy Guide",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:7>\n<skillDamagePlus:3>",
         "params": [
             0,
             0,
@@ -8728,8 +8728,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "攻略全書",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:7>\n<skillPoint:50>",
+        "name": "Strategy Guide",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:7>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -8755,8 +8755,8 @@
             }
         ],
         "iconIndex": 553,
-        "name": "アルティマニア",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:7>\n<skillDamagePlus:4>",
+        "name": "Ultimania",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:7>\n<skillDamagePlus:4>",
         "params": [
             0,
             0,
@@ -8782,8 +8782,8 @@
             }
         ],
         "iconIndex": 550,
-        "name": "小数点以下の確率で盗める",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:7>\n<skillDamagePlus:5>",
+        "name": "Can steal with a decimal point probability",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:7>\n<skillDamagePlus:5>",
         "params": [
             0,
             0,
@@ -8917,8 +8917,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "魔術師見習い",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:3>\n<skillDamagePlus:3>",
+        "name": "Apprentice Magician",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2, %1 times.>\n<actor:3>\n<skillDamagePlus:3>",
         "params": [
             0,
             0,
@@ -8944,8 +8944,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "黒魔術師",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:3>\n<skillPoint:50>",
+        "name": "Black Mage",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:3>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -8971,8 +8971,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "呪術師",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:3>\n<skillDamagePlus:4>",
+        "name": "Sorcerer",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:3>\n<skillDamagePlus:4>",
         "params": [
             0,
             0,
@@ -8998,8 +8998,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "魔導士",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:3>\n<skillPoint:50>",
+        "name": "Sorcerer",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:3>\n<skillPoint:50>",
         "params": [
             0,
             0,
@@ -9025,8 +9025,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "預言者",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:3>\n<skillDamagePlus:5>",
+        "name": "Prophet",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:3>\n<skillDamagePlus:5>",
         "params": [
             0,
             0,
@@ -9052,8 +9052,8 @@
             }
         ],
         "iconIndex": 421,
-        "name": "大魔道士",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:3>\n<skillDamagePlus:6>",
+        "name": "Archmage",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:3>\n<skillDamagePlus:6>",
         "params": [
             0,
             0,
@@ -9187,8 +9187,8 @@
             }
         ],
         "iconIndex": 541,
-        "name": "いのり",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:4>\n<skillRecoveryPlus:1>\n<before:156>",
+        "name": "Prayer",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:4>\n<skillRecoveryPlus:1>\n<before:156>",
         "params": [
             0,
             0,
@@ -9214,8 +9214,8 @@
             }
         ],
         "iconIndex": 541,
-        "name": "敬虔な祈り",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:4>\n<skillPoint:50>\n<before:156>",
+        "name": "Devout Prayer",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:4>\n<skillPoint:50>\n<before:156>",
         "params": [
             0,
             0,
@@ -9241,8 +9241,8 @@
             }
         ],
         "iconIndex": 541,
-        "name": "しんじるこころ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:4>\n<skillRecoveryPlus:1>\n<before:156>",
+        "name": "Believing Heart",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2, %1 times.>\n<actor:4>\n<skillRecoveryPlus:1>\n<before:156>",
         "params": [
             0,
             0,
@@ -9268,8 +9268,8 @@
             }
         ],
         "iconIndex": 541,
-        "name": "慈悲の心",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:4>\n<skillPoint:50>\n<before:156>",
+        "name": "Heart of Mercy",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:4>\n<skillPoint:50>\n<before:156>",
         "params": [
             0,
             0,
@@ -9295,8 +9295,8 @@
             }
         ],
         "iconIndex": 541,
-        "name": "聖なる祈り",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:4>\n<skillRecoveryPlus:2>\n<before:156>",
+        "name": "Sacred Prayer",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:4>\n<skillRecoveryPlus:2>\n<before:156>",
         "params": [
             0,
             0,
@@ -9322,8 +9322,8 @@
             }
         ],
         "iconIndex": 541,
-        "name": "神の恩恵",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:4>\n<skillRecoveryPlus:2>\n<before:156>",
+        "name": "Divine Blessing",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:4>\n<skillRecoveryPlus:2>\n<before:156>",
         "params": [
             0,
             0,
@@ -9457,8 +9457,8 @@
             }
         ],
         "iconIndex": 448,
-        "name": "ガード",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:5>\n<skillDamagePlus:2>\n<before:159>",
+        "name": "Guard",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:5>\n<skillDamagePlus:2>\n<before:159>",
         "params": [
             0,
             0,
@@ -9484,8 +9484,8 @@
             }
         ],
         "iconIndex": 448,
-        "name": "インプレグナブル",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:5>\n<skillPoint:50>\n<before:159>",
+        "name": "Impregnable",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:5>\n<skillPoint:50>\n<before:159>",
         "params": [
             0,
             0,
@@ -9511,8 +9511,8 @@
             }
         ],
         "iconIndex": 448,
-        "name": "ガーディアン",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:5>\n<skillDamagePlus:3>\n<before:159>",
+        "name": "Guardian",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:5>\n<skillDamagePlus:3>\n<before:159>",
         "params": [
             0,
             0,
@@ -9538,8 +9538,8 @@
             }
         ],
         "iconIndex": 448,
-        "name": "プロテクション",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:5>\n<skillPoint:50>\n<before:159>",
+        "name": "Protection",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:5>\n<skillPoint:50>\n<before:159>",
         "params": [
             0,
             0,
@@ -9565,8 +9565,8 @@
             }
         ],
         "iconIndex": 448,
-        "name": "ジャガーノート",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:5>\n<skillDamagePlus:4>\n<before:159>",
+        "name": "Juggernaut",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:5>\n<skillDamagePlus:4>\n<before:159>",
         "params": [
             0,
             0,
@@ -9592,8 +9592,8 @@
             }
         ],
         "iconIndex": 448,
-        "name": "イージス",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:5>\n<skillDamagePlus:5>\n<before:159>",
+        "name": "Aegis",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:5>\n<skillDamagePlus:5>\n<before:159>",
         "params": [
             0,
             0,
@@ -9727,8 +9727,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "戦争論",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:6>\n<skillDamagePlus:2>\n<before:159>",
+        "name": "The Art of War",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:6>\n<skillDamagePlus:2>\n<before:159>",
         "params": [
             0,
             0,
@@ -9754,8 +9754,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "武侯全書",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:6>\n<skillPoint:50>\n<before:159>",
+        "name": "Military Marquis Compendium",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:6>\n<skillPoint:50>\n<before:159>",
         "params": [
             0,
             0,
@@ -9781,8 +9781,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "君子論",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:6>\n<skillDamagePlus:3>\n<before:159>",
+        "name": "Gentleman's Discourse",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:6>\n<skillDamagePlus:3>\n<before:159>",
         "params": [
             0,
             0,
@@ -9808,8 +9808,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "五代之軍記",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:6>\n<skillPoint:50>\n<before:159>",
+        "name": "The Military Chronicles of the Fifth Generation",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:6>\n<skillPoint:50>\n<before:159>",
         "params": [
             0,
             0,
@@ -9835,8 +9835,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "大戦略論",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:6>\n<skillDamagePlus:4>\n<before:159>",
+        "name": "Grand Strategy Theory",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:6>\n<skillDamagePlus:4>\n<before:159>",
         "params": [
             0,
             0,
@@ -9862,8 +9862,8 @@
             }
         ],
         "iconIndex": 554,
-        "name": "孫氏",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:6>\n<skillDamagePlus:5>\n<before:159>",
+        "name": "Sun Tzu",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:6>\n<skillDamagePlus:5>\n<before:159>",
         "params": [
             0,
             0,
@@ -9997,8 +9997,8 @@
             }
         ],
         "iconIndex": 159,
-        "name": "手裏剣",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:10>\n<skillDamagePlus:2>\n<before:162>",
+        "name": "Shuriken",
+        "note": "<medal>\n<hintId:200>\n<hint:Use skill %2, %1 times.>\n<actor:10>\n<skillDamagePlus:2>\n<before:162>",
         "params": [
             0,
             0,
@@ -10024,8 +10024,8 @@
             }
         ],
         "iconIndex": 159,
-        "name": "鉤縄",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:10>\n<skillPoint:50>\n<before:162>",
+        "name": "Grappling Hook",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:10>\n<skillPoint:50>\n<before:162>",
         "params": [
             0,
             0,
@@ -10051,8 +10051,8 @@
             }
         ],
         "iconIndex": 159,
-        "name": "錣",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:10>\n<skillDamagePlus:3>\n<before:162>",
+        "name": "Tassets",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:10>\n<skillDamagePlus:3>\n<before:162>",
         "params": [
             0,
             0,
@@ -10078,8 +10078,8 @@
             }
         ],
         "iconIndex": 159,
-        "name": "撒菱",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:10>\n<skillPoint:50>\n<before:162>",
+        "name": "Caltrops",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:10>\n<skillPoint:50>\n<before:162>",
         "params": [
             0,
             0,
@@ -10105,8 +10105,8 @@
             }
         ],
         "iconIndex": 159,
-        "name": "苦無",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:10>\n<skillDamagePlus:4>\n<before:162>",
+        "name": "Kunai",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:10>\n<skillDamagePlus:4>\n<before:162>",
         "params": [
             0,
             0,
@@ -10132,8 +10132,8 @@
             }
         ],
         "iconIndex": 440,
-        "name": "忍刀",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:10>\n<skillDamagePlus:5>\n<before:162>",
+        "name": "Ninja Sword",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:10>\n<skillDamagePlus:5>\n<before:162>",
         "params": [
             0,
             0,
@@ -10267,8 +10267,8 @@
             }
         ],
         "iconIndex": 384,
-        "name": "アグニ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:12>\n<skillDamagePlus:3>\n<before:165>",
+        "name": "Agni",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:12>\n<skillDamagePlus:3>\n<before:165>",
         "params": [
             0,
             0,
@@ -10294,8 +10294,8 @@
             }
         ],
         "iconIndex": 384,
-        "name": "ロキ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:12>\n<skillPoint:50>\n<before:165>",
+        "name": "Loki",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:12>\n<skillPoint:50>\n<before:165>",
         "params": [
             0,
             0,
@@ -10321,8 +10321,8 @@
             }
         ],
         "iconIndex": 384,
-        "name": "ブリギット",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:12>\n<skillDamagePlus:4>\n<before:165>",
+        "name": "Brigitte",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:12>\n<skillDamagePlus:4>\n<before:165>",
         "params": [
             0,
             0,
@@ -10348,8 +10348,8 @@
             }
         ],
         "iconIndex": 384,
-        "name": "ペレ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:12>\n<skillPoint:50>\n<before:165>",
+        "name": "Pele",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:12>\n<skillPoint:50>\n<before:165>",
         "params": [
             0,
             0,
@@ -10375,8 +10375,8 @@
             }
         ],
         "iconIndex": 384,
-        "name": "プロメテウス",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:12>\n<skillDamagePlus:5>\n<before:165>",
+        "name": "Prometheus",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:12>\n<skillDamagePlus:5>\n<before:165>",
         "params": [
             0,
             0,
@@ -10402,8 +10402,8 @@
             }
         ],
         "iconIndex": 384,
-        "name": "カグツチ",
-        "note": "<medal>\n<hintId:200>\n<hint:%2のスキルを%1回使用する>\n<actor:12>\n<skillDamagePlus:6>\n<before:165>",
+        "name": "Kagutsuchi",
+        "note": "<medal>\n<hintId:200>\n<hint:Use the skill %2, %1 times.>\n<actor:12>\n<skillDamagePlus:6>\n<before:165>",
         "params": [
             0,
             0,
@@ -10780,8 +10780,8 @@
             }
         ],
         "iconIndex": 131,
-        "name": "私のパンチを受けてみろ！",
-        "note": "<medal>\n<hint:%1ダメージを与える>\n",
+        "name": "Take my punch!",
+        "note": "<medal>\n<hint:Inflict 1 damage.>\n",
         "params": [
             2,
             0,
@@ -10807,8 +10807,8 @@
             }
         ],
         "iconIndex": 131,
-        "name": "テラ＝ブレイク",
-        "note": "<medal>\n<hint:%1ダメージを与える>\n",
+        "name": "Terra Break",
+        "note": "<medal>\n<hint:Inflict 1 damage.>\n",
         "params": [
             3,
             0,
@@ -10834,8 +10834,8 @@
             }
         ],
         "iconIndex": 131,
-        "name": "天元突破",
-        "note": "<medal>\n<hint:%1ダメージを与える>\n",
+        "name": "Heaven-Piercing",
+        "note": "<medal>\n<hint:Inflict 1 damage.>\n",
         "params": [
             4,
             0,
@@ -10915,8 +10915,8 @@
             }
         ],
         "iconIndex": 1,
-        "name": "かみはバラバラになった",
-        "note": "<medal>\n<hint:敵を%1回リンのスキルで即死させる>\n<before:162>\n<kubihane:10>",
+        "name": "Her hair was disheveled.",
+        "note": "<medal>\n<hint:Defeat enemies with Rin's skill %1 times\ninstantly.>\n<before:162>\n<kubihane:10>",
         "params": [
             0,
             0,
@@ -11050,8 +11050,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "ちいさなメダル",
-        "note": "<medal>\n<hint:%1個勲章を獲得する>\n<skillPoint:100>",
+        "name": "Small Medal",
+        "note": "<medal>\n<hint:Earn 1 medal>\n<skillPoint:100>",
         "params": [
             0,
             0,
@@ -11077,8 +11077,8 @@
             }
         ],
         "iconIndex": 476,
-        "name": "勲章コレクター",
-        "note": "<medal>\n<hint:%1個勲章を獲得する>\n<skillPoint:200>",
+        "name": "Medal Collector",
+        "note": "<medal>\n<hint:Earn 1 medal>\n<skillPoint:200>",
         "params": [
             0,
             0,
@@ -11185,8 +11185,8 @@
             }
         ],
         "iconIndex": 1032,
-        "name": "クリスタルタワー",
-        "note": "<medal>\n<hint:蒼水晶を合計%1獲得する>\n<crystalUp:10>",
+        "name": "Crystal Tower",
+        "note": "<medal>\n<hint:Obtain a total of %1 Aquamarine.>\n<crystalUp:10>",
         "params": [
             0,
             0,
@@ -11294,7 +11294,7 @@
         ],
         "iconIndex": 147,
         "name": "Silent Old Sanctuary",
-        "note": "<medal>\n<hintId:200>\n<hint:レイラの加護が５たまり、聖寵が発動する>\n",
+        "note": "<medal>\n<hintId:200>\n<hint:Layla's protection accumulates 5 times, activating\nthe Holy Favor.>\n",
         "params": [
             0,
             0,
@@ -11401,8 +11401,8 @@
             }
         ],
         "iconIndex": 479,
-        "name": "エリートリング",
-        "note": "<medal>\n<hintId:200>\n<hint:エリートを%1回撃破する>\n<before:162>\n<expUp:10>",
+        "name": "Elite Ring",
+        "note": "<medal>\n<hintId:200>\n<hint:Defeat the elite %1 times>\n<before:162>\n<expUp:10>",
         "params": [
             0,
             0,
@@ -13210,7 +13210,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "服なし",
+        "name": "No clothes",
         "note": "<outer:a>\n<en:No Top>\n<obedience:2>\n<open>\n",
         "params": [
             0,
@@ -13237,7 +13237,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "戦闘服",
+        "name": "Battle attire",
         "note": "<outer:b>\n<en:No Top>\n<open>\n<order:480>\n<obedience:1>\n<battleCos>",
         "params": [
             0,
@@ -13264,7 +13264,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "売春婦の服",
+        "name": "Prostitute's Outfit",
         "note": "<outer:c>\n<en:No Top>\n<sw:87>\n",
         "params": [
             0,
@@ -13291,7 +13291,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ボンテージ",
+        "name": "Bondage Gear",
         "note": "<outer:d>\n<open>\n<nasty:2>",
         "params": [
             0,
@@ -13318,7 +13318,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "バニー服",
+        "name": "Bunny outfit",
         "note": "<outer:e>\n",
         "params": [
             0,
@@ -13345,7 +13345,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ミニスカ戦闘服",
+        "name": "Miniskirt Battle Outfit",
         "note": "<outer:f>\n<en:No Top>\n<open>\n",
         "params": [
             0,
@@ -13372,7 +13372,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "下脱ぎ戦闘服",
+        "name": "Bottomless Battle Attire",
         "note": "<outer:g>\n<en:No Top>\n<open>\n<obedience:1>\n<battleCos>",
         "params": [
             0,
@@ -13399,7 +13399,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "スカート戦闘服",
+        "name": "Skirted Battle Uniform",
         "note": "<outer:h>\n<en:No Top>\n<initial>",
         "params": [
             0,
@@ -13453,7 +13453,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "通常ポーズ",
+        "name": "Normal Pose",
         "note": "\n<en:No Top>\n\n<open>\n<pose:1>\n",
         "params": [
             0,
@@ -13480,7 +13480,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "違うポーズ1(裸のみ)",
+        "name": "Different Pose 1 (Nude Only)",
         "note": "\n<en:No Top>\n\n<open>\n<pose:2>\n",
         "params": [
             0,
@@ -13507,7 +13507,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "違うポーズ2(裸のみ)",
+        "name": "Different Pose 2 (Nude Only)",
         "note": "\n<en:No Top>\n\n<open>\n<pose:3>\n",
         "params": [
             0,
@@ -13669,7 +13669,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(通常)",
+        "name": "Expression (Normal)",
         "note": "<face:1>\n<en:Expression (normal)>",
         "params": [
             0,
@@ -13696,7 +13696,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(笑)",
+        "name": "Expression (Smile)",
         "note": "<face:2>\n<en:Expression (laughing)>",
         "params": [
             0,
@@ -13723,7 +13723,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(明)",
+        "name": "Expression (Bright)",
         "note": "<face:3>\n<en:Expression (happy)>",
         "params": [
             0,
@@ -13750,7 +13750,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(困)",
+        "name": "Expression (Troubled)",
         "note": "<face:4>\n<en:Expression (troubled)>",
         "params": [
             0,
@@ -13777,7 +13777,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(呆)",
+        "name": "Expression (Stunned)",
         "note": "<face:5>\n<en:Expression (shocked)>",
         "params": [
             0,
@@ -13804,7 +13804,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(考)",
+        "name": "Expression (Thinking)",
         "note": "<face:6>\n<en:Expression (thinking)>",
         "params": [
             0,
@@ -13831,7 +13831,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚)",
+        "name": "Expression (Surprised)",
         "note": "<face:7>\n<en:Expression (surprised)>",
         "params": [
             0,
@@ -13858,7 +13858,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(怒)",
+        "name": "Expression (Angry)",
         "note": "<face:8>\n<en:Expression (mad)>",
         "params": [
             0,
@@ -13885,7 +13885,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(悲)",
+        "name": "Expression (Sad)",
         "note": "<face:9>\n<en:Expression (sad)>",
         "params": [
             0,
@@ -13912,7 +13912,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(恥)",
+        "name": "Expression (Embarrassed)",
         "note": "<face:10>\n<en:Expression (embarrassed)>",
         "params": [
             0,
@@ -13939,7 +13939,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(叫)",
+        "name": "Expression (Scream)",
         "note": "<face:11>\n<en:Expression (yelling)>",
         "params": [
             0,
@@ -13966,7 +13966,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(閉)",
+        "name": "Expression (Closed)",
         "note": "<face:12>\n<en:Expression (close eyes)>",
         "params": [
             0,
@@ -13993,7 +13993,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦)",
+        "name": "Expression (Pain)",
         "note": "<face:13>\n<en:Expression (bitter smile)>",
         "params": [
             0,
@@ -14020,7 +14020,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚2)",
+        "name": "Expression (Surprised 2)",
         "note": "<face:14>\n<en:Expression (surprised2)>",
         "params": [
             0,
@@ -14047,7 +14047,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 15",
+        "name": "Expression 15",
         "note": "<face:15>\n<en:Expression (sad2)>",
         "params": [
             0,
@@ -14074,7 +14074,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 16",
+        "name": "Expression 16",
         "note": "<face:16>\n<en:Expression (troubled2)>",
         "params": [
             0,
@@ -14101,7 +14101,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 17",
+        "name": "Expression 17",
         "note": "<face:17>\n<en:Expression (surprised3)>",
         "params": [
             0,
@@ -14128,7 +14128,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 18",
+        "name": "Expression 18",
         "note": "<face:18>\n<en:Expression (surprised4)>",
         "params": [
             0,
@@ -14155,7 +14155,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 19",
+        "name": "Expression 19",
         "note": "<face:19>\n<en:Expression (bitter smile2)>",
         "params": [
             0,
@@ -14182,7 +14182,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 20",
+        "name": "Expression 20",
         "note": "<face:20>\n<en:Expression (thinking2)>",
         "params": [
             0,
@@ -14209,7 +14209,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 21",
+        "name": "Expression 21",
         "note": "<face:21>\n<en:Expression (close eyes2)>",
         "params": [
             0,
@@ -14236,7 +14236,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 22",
+        "name": "Expression 22",
         "note": "<face:22>\n<en:Expression (seductive)>",
         "params": [
             0,
@@ -14263,7 +14263,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 23",
+        "name": "Expression 23",
         "note": "<face:23>\n<en:Expression (bitter smile3)>",
         "params": [
             0,
@@ -14290,7 +14290,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 24",
+        "name": "Expression 24",
         "note": "<face:24>\n<en:Expression (troubled3)>",
         "params": [
             0,
@@ -14317,7 +14317,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 25",
+        "name": "Expression 25",
         "note": "<face:25>\n<en:Expression (giggling)>",
         "params": [
             0,
@@ -14344,7 +14344,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 26",
+        "name": "Expression 26",
         "note": "<face:26>\n<en:Expression (thinking3)>",
         "params": [
             0,
@@ -14371,7 +14371,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 27",
+        "name": "Expression 27",
         "note": "<face:27>\n<en:Expression (yelling2)>",
         "params": [
             0,
@@ -14398,7 +14398,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 28",
+        "name": "Expression 28",
         "note": "<face:29>\n<en:Expression (seductive 2)>",
         "params": [
             0,
@@ -14425,7 +14425,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情 29",
+        "name": "Expression 29",
         "note": "<face:30>\n<en:Expression (seductive 3)>",
         "params": [
             0,
@@ -14479,7 +14479,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アヘ顔 1",
+        "name": "Ahegao 1",
         "note": "<face:31>\n<en:Expression (ahe1)>",
         "params": [
             0,
@@ -14506,7 +14506,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アヘ顔 2",
+        "name": "Expression (ahe2)",
         "note": "<face:32>\n<en:Expression (ahe2)>",
         "params": [
             0,
@@ -14533,7 +14533,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アヘ顔 3",
+        "name": "Expression (ahe3)",
         "note": "<face:33>\n<en:Expression (ahe3)>",
         "params": [
             0,
@@ -14749,7 +14749,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ普通",
+        "name": "Ordinary Cheeks",
         "note": "<hoppe:0>\n<en:normal>",
         "params": [
             0,
@@ -14776,7 +14776,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ1",
+        "name": "Cheek 1",
         "note": "<hoppe:1>\n<en:blush1>",
         "params": [
             0,
@@ -14803,7 +14803,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ2",
+        "name": "Cheek 2",
         "note": "<hoppe:2>\n<en:blush2>",
         "params": [
             0,
@@ -14857,7 +14857,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "目のハイライトなし",
+        "name": "No Eye Highlights",
         "note": "<highlight:1>",
         "params": [
             0,
@@ -14884,7 +14884,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "目のハイライトあり",
+        "name": "With eye highlights",
         "note": "<highlight:2>",
         "params": [
             0,
@@ -14911,7 +14911,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "目のハイライト下",
+        "name": "Lower Eye Highlight",
         "note": "<highlight:3>",
         "params": [
             0,
@@ -14938,7 +14938,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "涙なし",
+        "name": "Without Tears",
         "note": "<namida:0>",
         "params": [
             0,
@@ -14965,7 +14965,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "涙1",
+        "name": "Tear 1",
         "note": "<namida:1>",
         "params": [
             0,
@@ -14992,7 +14992,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "涙2",
+        "name": "Tears 2",
         "note": "<namida:2>",
         "params": [
             0,
@@ -15127,7 +15127,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツなし",
+        "name": "No panties",
         "note": "<innerBottom:a>\n<en:No >\n<open>\n<obedience:2>\n",
         "params": [
             0,
@@ -15154,7 +15154,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツA",
+        "name": "Panties A",
         "note": "<innerBottom:b>\n<en:No Top>\n<open>\n<obedience:2>",
         "params": [
             0,
@@ -15181,7 +15181,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツB",
+        "name": "Panties B",
         "note": "<innerBottom:c>\n<en:No Top>\n<open>\n<obedience:2>",
         "params": [
             0,
@@ -15208,7 +15208,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツC",
+        "name": "Panties C",
         "note": "<innerBottom:d>\n<en:No Top>\n<open>\n<obedience:2>",
         "params": [
             0,
@@ -15235,7 +15235,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液固定下着",
+        "name": "Semen-fixed Underwear",
         "note": "<innerBottom:e>\n<en:No Top>\n\n",
         "params": [
             0,
@@ -15289,7 +15289,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "触手パンツ",
+        "name": "Tentacle panties",
         "note": "<innerBottom:i>\n\n<open>\n<curse>",
         "params": [
             0,
@@ -15370,7 +15370,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラなし",
+        "name": "No bra",
         "note": "<innerTop:a>\n<en:No >\n<open>\n<obedience:2>\n",
         "params": [
             0,
@@ -15397,7 +15397,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラA",
+        "name": "Bra A",
         "note": "<innerTop:b>\n<en:No >\n<open>\n<obedience:2>",
         "params": [
             0,
@@ -15424,7 +15424,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラB",
+        "name": "Bra B",
         "note": "<innerTop:c>\n<en:No >\n<open>\n<obedience:2>",
         "params": [
             0,
@@ -15505,7 +15505,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "足防具なし",
+        "name": "No leg armor",
         "note": "<leg:a>\n<en:No >\n<open>\n",
         "params": [
             0,
@@ -15532,7 +15532,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "足防具",
+        "name": "Leg Armor",
         "note": "<leg:b>\n<en:No >\n<open>\n",
         "params": [
             0,
@@ -15559,7 +15559,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ニーソ",
+        "name": "Knee socks",
         "note": "<leg:c>\n<en:No >\n<open>\n",
         "params": [
             0,
@@ -26872,7 +26872,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "触手パンツ",
+        "name": "Tentacle Panties",
         "note": "<skinAcce:3>\n<acce:3>\n\n<hiddenBottom>\n<eventItem>\n<order:1050>",
         "params": [
             0,
@@ -26980,7 +26980,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "焼印(リン)",
+        "name": "Branding Iron (Rin)",
         "note": "<skinAcce:1>\n<acce:1>\n<actor2:20,100>\n<lock>\n<initial>",
         "params": [
             0,
@@ -27007,7 +27007,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "焼印",
+        "name": "Branding Iron",
         "note": "<skinAcce:1>\n<acce:1>\n\n<sw:1001>\n<initial>",
         "params": [
             0,
@@ -27034,8 +27034,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "首輪",
-        "note": "<frontAcce:2>\n<hiddenByTop>\n<acce:2>\n<group:1002>\n<sameCondition:1016>\n<openActor:3>\n<initial>\n<hint:肉便器当番になりましょう>",
+        "name": "Collar",
+        "note": "<frontAcce:2>\n<hiddenByTop>\n<acce:2>\n<group:1002>\n<sameCondition:1016>\n<openActor:3>\n<initial>\n<hint:Let's become the meat toilet duty.>",
         "params": [
             0,
             0,
@@ -27061,7 +27061,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鎖付き首輪",
+        "name": "Collar with Chain",
         "note": "<frontAcce:3>\n<acce:3>\n<hiddenByTop>\n<group:1002>\n<openActor:3>\n<initial>\n<sameCondition:1016>",
         "params": [
             0,
@@ -27078,7 +27078,7 @@
     {
         "id": 1004,
         "atypeId": 8,
-        "description": "蛮族に処女を奪われたことの証。\\n破瓜の血で魔術がかけられており、取り外せない。",
+        "description": "A proof of virginity taken by barbarians.\\nA magic spell has been cast\nwith the blood of defloration, making it impossible to remove.",
         "etypeId": 4,
         "traits": [
             {
@@ -27088,7 +27088,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "へそピアス",
+        "name": "Belly button piercing",
         "note": "<skinAcce:4>\n<acce:4>\n<lock>\n<curse>\n<initial>\n<actor1:130,340>\n<actor2:120,340>\n<actor3:72,349>\n<actor3_b1:52,359>\n<actor3_b2:12,359>",
         "params": [
             0,
@@ -27115,7 +27115,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "巨大クリトリス",
+        "name": "Giant Clitoris",
         "note": "<skinAcce:5>\n<acce:5>\n<initial>\n<ignore>",
         "params": [
             0,
@@ -27142,7 +27142,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "乳首ピアス",
+        "name": "Nipple Piercing",
         "note": "<middleAcce:6>\n<acce:6>\n<sw:479>\n<initial>\n<group:1006>\n<order:1009>\n<hiddenByTop>\n",
         "params": [
             0,
@@ -27169,7 +27169,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔面精液",
+        "name": "Facial Semen",
         "note": "<frontAcce:7>\n<acce:7>\n<initial>",
         "params": [
             0,
@@ -27186,7 +27186,7 @@
     {
         "id": 1008,
         "atypeId": 0,
-        "description": "妊娠して黒ずんでしまった乳首",
+        "description": "Nipples that have darkened due to pregnancy",
         "etypeId": 4,
         "traits": [
             {
@@ -27196,7 +27196,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首",
+        "name": "Black Nipples",
         "note": "<skinAcce:8>\n<acce:8>\n<kuroChikubi>",
         "params": [
             0,
@@ -27213,7 +27213,7 @@
     {
         "id": 1009,
         "atypeId": 0,
-        "description": "蛮族から逃げた女につけられるピアス。\\n監禁中はチェーンをつけられ、引っ張られて調教される",
+        "description": "Earrings worn by a woman who escaped from barbarians. During\nconfinement, she is chained and trained by being pulled around.",
         "etypeId": 4,
         "traits": [
             {
@@ -27223,7 +27223,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "クリピアス",
+        "name": "Clit Piercing",
         "note": "<skinAcce:9>\n<acce:9>\n<actor2:80,200>\n\n<actor3:86,489>\n<lock>\n<initial>\n<hiddenByBottom>",
         "params": [
             0,
@@ -27250,7 +27250,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "首輪ベース",
+        "name": "Collar Base",
         "note": "<middleAcce:10>\n<acce:10>\n\n\n<setAcce1:1002>\n<setAcce2:1003>\n<setAcce3:1016>",
         "params": [
             0,
@@ -27277,7 +27277,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "孕まされ落書き",
+        "name": "Impregnated Graffiti",
         "note": "\n<actor2:80,200>\n<initial>\n<boteCount:1>",
         "params": [
             0,
@@ -27304,7 +27304,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "お腹の精液",
+        "name": "Semen in the belly",
         "note": "<skinAcce:12>\n<acce:12>\n<initial>",
         "params": [
             0,
@@ -27321,7 +27321,7 @@
     {
         "id": 1013,
         "atypeId": 8,
-        "description": "妊娠しやすくなる紋章。おまんこ感度+200\\n解呪はかなり難しく、危険を伴う。",
+        "description": "A crest that makes it easier to get pregnant. Pussy sensitivity +200\nThe curse removal is quite difficult and involves risks.",
         "etypeId": 4,
         "traits": [
             {
@@ -27331,7 +27331,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "淫紋",
+        "name": "Lewd Crest",
         "note": "<skinAcce:13>\n<acce:13>\n<sw:921>\n<manko_ero:200>\n\n<initial>",
         "params": [
             3,
@@ -27358,7 +27358,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ラビアピアス",
+        "name": "Labia Piercing",
         "note": "<skinAcce:14>\n<acce:14>\n<actor2:80,200>\n<actor3:86,489>\n<lock>\n<initial>\n<hiddenByBottom>\n<curse>",
         "params": [
             0,
@@ -27375,7 +27375,7 @@
     {
         "id": 1015,
         "atypeId": 7,
-        "description": "蛮族の孕み家畜としての識別タグ",
+        "description": "Identification tag as a barbarian's breeding livestock",
         "etypeId": 4,
         "traits": [
             {
@@ -27385,7 +27385,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "耳タグ",
+        "name": "Ear Tag",
         "note": "<frontAcce:15>\n<acce:15>\n<actor3:180,70>\n\n<initial>",
         "params": [
             0,
@@ -27402,7 +27402,7 @@
     {
         "id": 1016,
         "atypeId": 8,
-        "description": "肉便器の時にのみつけられる首輪。\\n歩くと音がなり、蛮族たちに場所がわかる",
+        "description": "A collar that can only be worn when she's a meat toilet. It makes a\nsound when she walks, alerting the barbarians to her location.",
         "etypeId": 4,
         "traits": [
             {
@@ -27412,7 +27412,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ベルつき首輪",
+        "name": "Bell Collar",
         "note": "<frontAcce:16>\n<acce:16>\n<order:1002>\n<group:1002>\n<hiddenByTop>\n<openActor:3>\n<initial>\n<actor1:147,110>\n",
         "params": [
             0,
@@ -27439,7 +27439,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ腹",
+        "name": "Saggy Belly",
         "note": "<skinAcce:17>\n<acce:17>\n<actor2:120,390>\n<actor2_b1:115,390>\n<actor2_b2:120,390>\n<manko_ero:200>\n<order:1100>\n<initial>\n\n<lock>",
         "params": [
             0,
@@ -27466,7 +27466,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ボールギャグ",
+        "name": "Ball Gag",
         "note": "<frontAcce:18>\n<acce:18>\n<actor2:80,200>\n<actor3:102,35>\n<initial>\n<sw:941>",
         "params": [
             0,
@@ -27493,7 +27493,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鎖付きクリピアス",
+        "name": "Chain-Attached Clit Piercing",
         "note": "<skinAcce:19>\n<acce:19>\n<actor2:80,200>\n<group:9>\n<lock>\n<order:1009>\n<initial>",
         "params": [
             0,
@@ -27520,7 +27520,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "目隠し",
+        "name": "Blindfold",
         "note": "<frontAcce:20>\n<acce:20>\n<actor2:80,200>\n<actor3:102,35>\n<initial>\n<sw:941>\n<order:1050>",
         "params": [
             0,
@@ -27537,7 +27537,7 @@
     {
         "id": 1021,
         "atypeId": 7,
-        "description": "蛮族の子を出産したことを示すタトゥー。\n",
+        "description": "A tattoo indicating the birth of a barbarian child.",
         "etypeId": 4,
         "traits": [
             {
@@ -27547,7 +27547,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "出産のタトゥー",
+        "name": "Birth Tattoo",
         "note": "<skinAcce:21>\n<acce:21>\n<actor2:152,368>\n<actor2_b1:115,390>\n<actor2_b2:120,390>\n<actor3:102,358>\n<actor3_b2:56,374>\n<lock>\n<curse>\n<initial>\n<syusanCount:1>\n",
         "params": [
             0,
@@ -27564,7 +27564,7 @@
     {
         "id": 1022,
         "atypeId": 0,
-        "description": "蛮族の子を出産したことを示すタトゥー。\n",
+        "description": "A tattoo indicating the birth of a barbarian child.",
         "etypeId": 4,
         "traits": [
             {
@@ -27574,7 +27574,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "料金を書いた板",
+        "name": "A sign with the price written on it",
         "note": "<frontAcce:22>\n<acce:22>\n<actor2:152,368>\n<actor2_b1:115,390>\n<actor2_b2:120,390>\n<actor3:82,170>\n<initial>\n",
         "params": [
             0,
@@ -27591,7 +27591,7 @@
     {
         "id": 1023,
         "atypeId": 0,
-        "description": "奴隷市場での商品であることを示す焼印",
+        "description": "A brand indicating that one is merchandise at the slave market.",
         "etypeId": 4,
         "traits": [
             {
@@ -27601,8 +27601,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "性奴隷の焼印",
-        "note": "<skinAcce:23>\n<acce:23>\n<actor2:152,368>\n<actor2_b1:115,390>\n<actor2_b2:120,390>\n<actor3:122,206>\n<lock>\n<initial>\n\n<hint:10日以上監禁かつボテ腹状態になりましょう>",
+        "name": "Slave's Brand",
+        "note": "<skinAcce:23>\n<acce:23>\n<actor2:152,368>\n<actor2_b1:115,390>\n<actor2_b2:120,390>\n<actor3:122,206>\n<lock>\n<initial>\n\n<hint:Let's be confined for over 10 days and get into a\npregnant belly state.>",
         "params": [
             0,
             0,
@@ -27682,7 +27682,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液",
+        "name": "Overflowing Semen",
         "note": "<skinAcce:26>\n<acce:26>\n<actor2:80,200>\n<actor3:102,35>\n<order:1008>\n<initial>\n",
         "params": [
             0,
@@ -27709,7 +27709,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "母乳",
+        "name": "Breast milk",
         "note": "<middleAcce:27>\n<acce:27>\n<actor2:80,200>\n<actor3:102,35>\n<hiddenByTop>\n<initial>\n<boteCount:1>\n",
         "params": [
             0,
@@ -27736,7 +27736,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ムチの跡",
+        "name": "Whip Marks",
         "note": "<skinAcce:28>\n<acce:28>\n\n<hiddenByTop>\n<initial>\n",
         "params": [
             0,
@@ -27790,7 +27790,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "乳首ピアス+チェーン",
+        "name": "Nipple Piercing + Chain",
         "note": "<middleAcce:30>\n<acce:30>\n<sw:909>\n<initial>\n<order:1009>\n<group:1006>",
         "params": [
             0,
@@ -27817,7 +27817,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛A",
+        "name": "Pubic Hair A",
         "note": "<skinAcce:31>\n<acce:31>\n<actor2:120,390>\n\n<initial>\n<open>",
         "params": [
             0,
@@ -27844,7 +27844,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛B",
+        "name": "Pubic Hair B",
         "note": "<skinAcce:32>\n<acce:32>\n<actor2:120,390>\n<initial>\n<open>",
         "params": [
             0,
@@ -27871,7 +27871,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛C",
+        "name": "Pubic Hair C",
         "note": "<skinAcce:33>\n<acce:33>\n<actor2:120,390>\n\n<initial>\n<open>",
         "params": [
             0,
@@ -27898,7 +27898,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛D",
+        "name": "Pubic Hair D",
         "note": "<skinAcce:34>\n<acce:34>\n<actor2:120,390>\n\n<initial>\n<open>",
         "params": [
             0,
@@ -27925,7 +27925,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "おしっこA",
+        "name": "Pee A",
         "note": "<skinAcce:35>\n<acce:35>\n<actor2:120,390>\n<initial>\n<open>\n<order:1200>\n<rakugaki>",
         "params": [
             0,
@@ -27952,7 +27952,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "おしっこB",
+        "name": "Pee B",
         "note": "<skinAcce:36>\n<acce:36>\n<actor2:120,390>\n<initial>\n<open>\n<order:1200>\n<rakugaki>",
         "params": [
             0,
@@ -27979,8 +27979,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔のあざ",
-        "note": "<frontAcce:37>\n<acce:37>\n<actor2:120,390>\n<initial>\n<open>\n<order:1200>\n<sw:1055>\n<hint:サラのイベントを進めましょう>",
+        "name": "Facial bruise",
+        "note": "<frontAcce:37>\n<acce:37>\n<actor2:120,390>\n<initial>\n<open>\n<order:1200>\n<sw:1055>\n<hint:Let's proceed with Sara's event.>",
         "params": [
             0,
             0,
@@ -28006,7 +28006,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鼻フック",
+        "name": "Nose Hook",
         "note": "<frontAcce:38>\n<acce:38>\n\n<initial>\n<sw:941>\n<order:1100>",
         "params": [
             0,
@@ -28033,7 +28033,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔のあざ2",
+        "name": "Facial Bruise 2",
         "note": "<frontAcce:39>\n<acce:39>\n<actor2:120,390>\n<initial>\n<open>\n<order:1200>\n<sw:1055>",
         "params": [
             0,
@@ -28060,7 +28060,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "腹のあざ",
+        "name": "Bruise on the stomach",
         "note": "<skinAcce:40>\n<acce:40>\n<actor2:120,390>\n<initial>\n<open>\n<order:1200>\n<sw:1055>",
         "params": [
             0,
@@ -28087,7 +28087,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "口周り精液A",
+        "name": "Semen around the mouth A",
         "note": "<seiekiFront:41>\n<acce:41>\n<rakugaki>\n<initial>\n<open>\n<order:1200>",
         "params": [
             0,
@@ -28114,7 +28114,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "口周り精液B",
+        "name": "Semen around the mouth B",
         "note": "<seiekiFront:42>\n<acce:42>\n<rakugaki>\n<initial>\n<open>\n<order:1200>",
         "params": [
             0,
@@ -28141,7 +28141,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "口周り精液C",
+        "name": "Oral Cum C",
         "note": "<seiekiFront:43>\n<acce:43>\n<rakugaki>\n<initial>\n<open>\n<order:1200>",
         "params": [
             0,
@@ -28168,7 +28168,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "腹精液",
+        "name": "Belly Semen",
         "note": "<skinAcce:44>\n<acce:44>\n<rakugaki>\n<initial>\n<open>\n<fixed>\n<order:1200>",
         "params": [
             0,
@@ -28222,7 +28222,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し精液A",
+        "name": "Creampie A",
         "note": "<seiekiMiddle:46>\n<acce:46>\n<rakugaki>\n<initial>\n<open>\n<order:1200>",
         "params": [
             0,
@@ -28249,7 +28249,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し精液B",
+        "name": "Creampie Semen B",
         "note": "<seiekiMiddle:47>\n<acce:47>\n<rakugaki>\n<initial>\n<open>\n<order:1200>",
         "params": [
             0,
@@ -28276,7 +28276,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し精液C",
+        "name": "Creampie Semen C",
         "note": "<seiekiMiddle:48>\n<acce:48>\n<rakugaki>\n<initial>\n<open>\n<order:1200>",
         "params": [
             0,
@@ -28330,7 +28330,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きを手動編集",
+        "name": "Manual Graffiti Editing",
         "note": "<skinAcce:50>\n<acce:50>\n<editRakugaki>\n<initial>\n<open>\n<order:1000>\n",
         "params": [
             0,
@@ -28357,7 +28357,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きA",
+        "name": "Graffiti A",
         "note": "<skinAcce:51>\n<acce:51>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28384,7 +28384,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きB",
+        "name": "Graffiti B",
         "note": "<skinAcce:52>\n<acce:52>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28411,7 +28411,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きC",
+        "name": "Graffiti C",
         "note": "<skinAcce:53>\n<acce:53>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28438,7 +28438,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きD",
+        "name": "Graffiti D",
         "note": "<skinAcce:54>\n<acce:54>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28465,7 +28465,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きE",
+        "name": "Graffiti E",
         "note": "<skinAcce:55>\n<acce:55>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28492,7 +28492,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きF",
+        "name": "Graffiti F",
         "note": "<skinAcce:56>\n<acce:56>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28519,7 +28519,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きG",
+        "name": "Graffiti G",
         "note": "<skinAcce:57>\n<acce:57>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28546,7 +28546,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きH",
+        "name": "Graffiti H",
         "note": "<skinAcce:58>\n<acce:58>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28573,7 +28573,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きI",
+        "name": "Graffiti I",
         "note": "<skinAcce:59>\n<acce:59>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28627,7 +28627,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "バニーの耳",
+        "name": "Bunny Ears",
         "note": "<frontAcce:61>\n<acce:61>\n<actor3:180,70>\n\n<initial>\n",
         "params": [
             0,
@@ -28654,7 +28654,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ちんぽ",
+        "name": "dick",
         "note": "<skinAcce:62>\n<acce:62>\n<group:62>\n<order:1300>\n<initial>\n<open>\n<fixed>\n<hiddenByBottom>\n<rotorNg>",
         "params": [
             0,
@@ -28681,7 +28681,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "勃起ちんぽ",
+        "name": "Erect dick",
         "note": "<skinAcce:63>\n<acce:63>\n<group:62>\n<order:1301>\n<initial>\n<open>\n<fixed>\n<hiddenByBottom>",
         "params": [
             0,
@@ -28708,7 +28708,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "キスマーク",
+        "name": "Kiss Mark",
         "note": "<skinAcce:64>\n<acce:64>\n\n<initial>\n<open>\n<fixed>\n",
         "params": [
             0,
@@ -28735,7 +28735,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アナルプラグ",
+        "name": "Anal Plug",
         "note": "<frontAcce:65>\n<acce:65>\n\n<initial>\n<open>\n<fixed>\n",
         "params": [
             0,
@@ -28762,7 +28762,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ローター",
+        "name": "Rotor",
         "note": "<frontAcce:66>\n<acce:66>\n\n<initial>\n<open>\n<fixed>\n",
         "params": [
             0,
@@ -28789,7 +28789,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "射精",
+        "name": "Ejaculation",
         "note": "<frontAcce:67>\n<acce:67>\n\n<initial>\n<open>\n<fixed>\n",
         "params": [
             0,
@@ -28816,7 +28816,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "勃起ちんぽ+リボン",
+        "name": "Erect dick + Ribbon",
         "note": "<skinAcce:68>\n<acce:68>\n<group:62>\n<order:1301>\n<initial>\n<open>\n<fixed>\n<hiddenByBottom>\n<rotorNg>",
         "params": [
             0,
@@ -28843,7 +28843,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "平面貞操帯",
+        "name": "Flat Chastity Belt",
         "note": "<skinAcce:69>\n<acce:69>\n<group:62>\n<order:1301>\n<initial>\n<sw:972>\n<fixed>\n<invisible:innerBottom>\n<miniChimpo>\n<rotorNg>",
         "params": [
             0,
@@ -28897,7 +28897,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔落書きA",
+        "name": "Face Doodle A",
         "note": "<frontRakugakiAcce:71>\n<acce:71>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -28924,7 +28924,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔落書きB",
+        "name": "Face Graffiti B",
         "note": "<frontRakugakiAcce:72>\n<acce:72>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29032,7 +29032,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔落書きC",
+        "name": "Face Graffiti C",
         "note": "<frontRakugakiAcce:76>\n<acce:76>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29059,7 +29059,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔落書きD",
+        "name": "Face Graffiti D",
         "note": "<frontRakugakiAcce:77>\n<acce:77>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29086,7 +29086,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "回数落書き 0",
+        "name": "Scribble Count 0",
         "note": "<skinAcce:1999>\n<acce:79>\n<rakugaki>\n<initial>\n<open>\n<order:1300>\n<nakadashiCount:0>\n<group:1079>",
         "params": [
             0,
@@ -29113,7 +29113,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "回数落書き 4",
+        "name": "Scribbles 4",
         "note": "<skinAcce:1999>\n<acce:79>\n<rakugaki>\n<initial>\n<open>\n<order:1300>\n<nakadashiCount:4>\n<group:1079>",
         "params": [
             0,
@@ -29140,7 +29140,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "回数落書き 16",
+        "name": "Scribbles 16",
         "note": "<skinAcce:1999>\n<acce:80>\n<rakugaki>\n<initial>\n<open>\n<order:1300>\n<nakadashiCount:16>\n<group:1079>",
         "params": [
             0,
@@ -29167,7 +29167,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アナル落書き",
+        "name": "Anal Graffiti",
         "note": "<skinAcce:81>\n<acce:81>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29194,7 +29194,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "回数落書き 28",
+        "name": "Scribbles 28",
         "note": "<skinAcce:1999>\n<acce:82>\n<rakugaki>\n<initial>\n<open>\n<order:1300>\n<nakadashiCount:28>\n<group:1079>",
         "params": [
             0,
@@ -29221,7 +29221,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "回数落書き 40",
+        "name": "Scribbles 40 Uses",
         "note": "<skinAcce:1999>\n<acce:83>\n<rakugaki>\n<initial>\n<open>\n<order:1300>\n<nakadashiCount:40>\n<group:1079>",
         "params": [
             0,
@@ -29437,7 +29437,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "違う髪型",
+        "name": "A different hairstyle",
         "note": "<backAcce:91>\n<acce:91>\n<cos>\n<initial>",
         "params": [
             0,
@@ -29464,7 +29464,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マント2",
+        "name": "Mantle 2",
         "note": "<backAcce:92>\n<acce:92>\n<enableAlpha>",
         "params": [
             0,
@@ -29491,7 +29491,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マント",
+        "name": "Cape",
         "note": "<middleFrontAcce:93>\n<acce:93>\n<initial>\n<open>\n<enableAlpha>",
         "params": [
             0,
@@ -29518,7 +29518,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "髪の毛",
+        "name": "Hair",
         "note": "<backAcce:94>\n<acce:94>\n<actor2:152,368>\n<actor2_b1:115,390>\n<actor2_b2:120,390>\n<actor3:102,358>\n",
         "params": [
             0,
@@ -29535,7 +29535,7 @@
     {
         "id": 1095,
         "atypeId": 27,
-        "description": "妊娠して黒ずんでしまった乳首",
+        "description": "Nipples that have darkened due to pregnancy",
         "etypeId": 4,
         "traits": [
             {
@@ -29545,7 +29545,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "常時垂れ乳",
+        "name": "Constantly Dripping Breasts",
         "note": "<skinAcce:95>\n<acce:95>\n<actor2:68,232>\n<group:1095>\n<initial>\n<boteCount:1>",
         "params": [
             0,
@@ -29562,7 +29562,7 @@
     {
         "id": 1096,
         "atypeId": 27,
-        "description": "妊娠して黒ずんでしまった乳首",
+        "description": "Nipples that have darkened due to pregnancy",
         "etypeId": 4,
         "traits": [
             {
@@ -29572,7 +29572,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "常時通常乳",
+        "name": "Constant Normal Breasts",
         "note": "<skinAcce:96>\n<acce:96>\n<actor2:68,232>\n<group:1095>\n<initial>\n<boteCount:1>",
         "params": [
             0,
@@ -29589,7 +29589,7 @@
     {
         "id": 1097,
         "atypeId": 7,
-        "description": "妊娠して黒ずんでしまった乳首",
+        "description": "Nipples that have darkened due to pregnancy",
         "etypeId": 4,
         "traits": [
             {
@@ -29599,8 +29599,8 @@
             }
         ],
         "iconIndex": 0,
-        "name": "常時黒乳首",
-        "note": "\n<acce:8>\n<actor2:68,232>\n<group:1097>\n<initial>\n<hint:妊娠しましょう>\n<boteCount:1>",
+        "name": "Perpetual Black Nipples",
+        "note": "\n<acce:8>\n<actor2:68,232>\n<group:1097>\n<initial>\n<hint:Let's get pregnant.>\n<boteCount:1>",
         "params": [
             0,
             0,
@@ -29616,7 +29616,7 @@
     {
         "id": 1098,
         "atypeId": 7,
-        "description": "通常乳首",
+        "description": "normal nipples",
         "etypeId": 4,
         "traits": [
             {
@@ -29626,7 +29626,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "常時通常乳首",
+        "name": "Constant Normal Nipples",
         "note": "<skinAcce:98>\n<acce:98>\n<group:1097>\n<initial>\n\n<boteCount:1>",
         "params": [
             0,
@@ -29653,7 +29653,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "メガネ",
+        "name": "Glasses",
         "note": "<frontAcce:99>\n<acce:99>\n<cos>\n<initial>",
         "params": [
             0,
@@ -29707,7 +29707,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き1",
+        "name": "Creampie Graffiti 1",
         "note": "<skinAcce:101>\n<acce:101>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29734,7 +29734,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き2",
+        "name": "Creampie Graffiti 2",
         "note": "<skinAcce:102>\n<acce:102>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29761,7 +29761,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き3",
+        "name": "Creampie Graffiti 3",
         "note": "<skinAcce:103>\n<acce:103>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29788,7 +29788,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き4",
+        "name": "Creampie Graffiti 4",
         "note": "<skinAcce:104>\n<acce:104>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29815,7 +29815,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き5",
+        "name": "Creampie Graffiti 5",
         "note": "<skinAcce:105>\n<acce:105>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29842,7 +29842,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き6",
+        "name": "Creampie Graffiti 6",
         "note": "<skinAcce:106>\n<acce:106>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29869,7 +29869,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き7",
+        "name": "Creampie Graffiti 7",
         "note": "<skinAcce:107>\n<acce:107>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29896,7 +29896,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き8",
+        "name": "Creampie Graffiti 8",
         "note": "<skinAcce:108>\n<acce:108>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29923,7 +29923,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き9",
+        "name": "Creampie Graffiti 9",
         "note": "<skinAcce:109>\n<acce:109>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29950,7 +29950,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き10",
+        "name": "Creampie Graffiti 10",
         "note": "<skinAcce:110>\n<acce:110>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -29977,7 +29977,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き11",
+        "name": "Creampie Graffiti 11",
         "note": "<skinAcce:111>\n<acce:111>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30004,7 +30004,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き12",
+        "name": "Creampie Graffiti 12",
         "note": "<skinAcce:112>\n<acce:112>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30031,7 +30031,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き13",
+        "name": "Creampie Graffiti 13",
         "note": "<skinAcce:113>\n<acce:113>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30058,7 +30058,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き14",
+        "name": "Doodle 14",
         "note": "<skinAcce:114>\n<acce:114>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30085,7 +30085,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き15",
+        "name": "Creampie Graffiti 15",
         "note": "<skinAcce:115>\n<acce:115>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30112,7 +30112,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き16",
+        "name": "Creampie Graffiti 16",
         "note": "<skinAcce:116>\n<acce:116>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30139,7 +30139,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き17",
+        "name": "Scribbles 17",
         "note": "<skinAcce:117>\n<acce:117>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30166,7 +30166,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き18",
+        "name": "Scribbles 18",
         "note": "<skinAcce:118>\n<acce:118>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30193,7 +30193,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き19",
+        "name": "Scribbles 19",
         "note": "<skinAcce:119>\n<acce:119>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30220,7 +30220,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き20",
+        "name": "Creampie Graffiti 20",
         "note": "<skinAcce:120>\n<acce:120>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30247,7 +30247,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き21",
+        "name": "Creampie Graffiti 21",
         "note": "<skinAcce:121>\n<acce:121>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30274,7 +30274,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き22",
+        "name": "Creampie Graffiti 22",
         "note": "<skinAcce:122>\n<acce:122>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30301,7 +30301,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き23",
+        "name": "Creampie Graffiti 23",
         "note": "<skinAcce:123>\n<acce:123>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30328,7 +30328,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き24",
+        "name": "Creampie Graffiti 24",
         "note": "<skinAcce:124>\n<acce:124>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30355,7 +30355,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き25",
+        "name": "Creampie Graffiti 25",
         "note": "<skinAcce:125>\n<acce:125>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30382,7 +30382,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き26",
+        "name": "Creampie Graffiti 26",
         "note": "<skinAcce:126>\n<acce:126>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30409,7 +30409,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き27",
+        "name": "Creampie Graffiti 27",
         "note": "<skinAcce:127>\n<acce:127>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30436,7 +30436,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き28",
+        "name": "Creampie Graffiti 28",
         "note": "<skinAcce:128>\n<acce:128>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30463,7 +30463,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き29",
+        "name": "Creampie Graffiti 29",
         "note": "<skinAcce:129>\n<acce:129>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30490,7 +30490,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き30",
+        "name": "Creampie Graffiti 30",
         "note": "<skinAcce:130>\n<acce:130>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30517,7 +30517,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き31",
+        "name": "Creampie Graffiti 31",
         "note": "<skinAcce:131>\n<acce:131>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30544,7 +30544,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き32",
+        "name": "Creampie Graffiti 32",
         "note": "<skinAcce:132>\n<acce:132>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30571,7 +30571,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き33",
+        "name": "Creampie Graffiti 33",
         "note": "<skinAcce:133>\n<acce:133>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30598,7 +30598,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き34",
+        "name": "Creampie Graffiti 34",
         "note": "<skinAcce:134>\n<acce:134>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30625,7 +30625,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き35",
+        "name": "Creampie Graffiti 35",
         "note": "<skinAcce:135>\n<acce:135>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30652,7 +30652,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き36",
+        "name": "Creampie Graffiti 36",
         "note": "<skinAcce:136>\n<acce:136>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30679,7 +30679,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き37",
+        "name": "Creampie Graffiti 37",
         "note": "<skinAcce:137>\n<acce:137>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30706,7 +30706,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き38",
+        "name": "Creampie Graffiti 38",
         "note": "<skinAcce:138>\n<acce:138>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30733,7 +30733,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き39",
+        "name": "Creampie Graffiti 39",
         "note": "<skinAcce:139>\n<acce:139>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -30760,7 +30760,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し落書き40",
+        "name": "Creampie Graffiti 40",
         "note": "<skinAcce:140>\n<acce:140>\n<rakugaki>\n<initial>\n<open>",
         "params": [
             0,
@@ -31057,7 +31057,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ体1",
+        "name": "Dirty Body 1",
         "note": "<skinAcce:151>\n<acce:151>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31084,7 +31084,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ体2",
+        "name": "Dirty Body 2",
         "note": "<skinAcce:152>\n<acce:152>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31111,7 +31111,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ体3",
+        "name": "Dirty Body 3",
         "note": "<skinAcce:153>\n<acce:153>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31138,7 +31138,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ体4",
+        "name": "Dirty Body 4",
         "note": "<skinAcce:154>\n<acce:154>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31165,7 +31165,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ体5",
+        "name": "Dirty Body 5",
         "note": "<skinAcce:155>\n<acce:155>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31192,7 +31192,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ顔1",
+        "name": "Dirty Face 1",
         "note": "<frontAcce:156>\n<acce:156>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31219,7 +31219,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚れ顔2",
+        "name": "Dirty Face 2",
         "note": "<frontAcce:157>\n<acce:157>\n<actor2:120,390>\n<initial>\n<open>\n<order:1000>\n<rakugaki>",
         "params": [
             0,
@@ -31327,7 +31327,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "呪いのローター",
+        "name": "Cursed Vibrator",
         "note": "<frontAcce:161>\n\n\n<initial>\n",
         "params": [
             0,
@@ -31597,7 +31597,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首濃度1",
+        "name": "Black Nipple Intensity 1",
         "note": "\n<acce:171>\n<initial>\n<open>\n<order:1098>\n<group:1171>\n<kurochikubiAlpha>",
         "params": [
             0,
@@ -31624,7 +31624,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首濃度2",
+        "name": "Black Nipple Intensity 2",
         "note": "\n<acce:172>\n<initial>\n<open>\n<order:1098>\n<group:1171>\n<kurochikubiAlpha>",
         "params": [
             0,
@@ -31651,7 +31651,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首濃度3",
+        "name": "Black Nipple Intensity 3",
         "note": "\n<acce:173>\n<initial>\n<open>\n<order:1098>\n<group:1171>\n<kurochikubiAlpha>",
         "params": [
             0,

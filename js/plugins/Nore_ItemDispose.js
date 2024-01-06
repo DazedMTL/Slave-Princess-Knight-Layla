@@ -104,8 +104,8 @@ var Nore;
       this._data = $gameParty.battleItems();
     };
     Window_ItemDispose.prototype.drawTitle = function () {
-      this.drawText("これ以上アイテムを持つことができません。", 10, 10, 400);
-      this.drawText("捨てるアイテムを選択してください", 10, 50, 400);
+      this.drawText("Cannot carry more items.", 10, 10, 400);
+      this.drawText("Select item to discard.", 10, 50, 400);
     };
     Window_ItemDispose.prototype.itemHeight = function () {
       if ($gameParty.battleItemMax() == 4) {

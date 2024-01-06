@@ -80,9 +80,9 @@ var Nore;
     };
     Window_AcmeCount.prototype.drawAcmeCount = function () {
       var yy = 10;
-      this.drawText("イッた回数", 20, yy, 130, "left");
+      this.drawText("Climaxes", 20, yy, 130, "left");
       var acmeCount = this._lastAcme;
-      this.drawText("%1回".format(acmeCount), 110, yy, 110, "right");
+      this.drawText("%1x".format(acmeCount), 110, yy, 110, "right");
     };
     return Window_AcmeCount;
   })(Window_Base);

@@ -102,7 +102,7 @@
                 "note": ""
             }
         ],
-        "name": "騎士",
+        "name": "Knight",
         "note": "",
         "params": [
             [
@@ -1020,7 +1020,7 @@
                 "note": ""
             }
         ],
-        "name": "格闘家",
+        "name": "Martial Artist",
         "note": "",
         "params": [
             [
@@ -1943,7 +1943,7 @@
                 "skillId": 1321
             }
         ],
-        "name": "呪術師",
+        "name": "Curse Caster",
         "note": "<speed:3>",
         "params": [
             [
@@ -2881,7 +2881,7 @@
                 "skillId": 1470
             }
         ],
-        "name": "ヒーラー",
+        "name": "Healer",
         "note": "<speed:3>",
         "params": [
             [
@@ -3794,7 +3794,7 @@
                 "note": ""
             }
         ],
-        "name": "重戦士",
+        "name": "Heavy Warrior",
         "note": "",
         "params": [
             [
@@ -4732,7 +4732,7 @@
                 "note": ""
             }
         ],
-        "name": "軍師",
+        "name": "Strategist",
         "note": "",
         "params": [
             [
@@ -5680,7 +5680,7 @@
                 "skillId": 1721
             }
         ],
-        "name": "王子",
+        "name": "Prince",
         "note": "<speed:3>",
         "params": [
             [
@@ -6613,7 +6613,7 @@
                 "skillId": 210
             }
         ],
-        "name": "ブラッド",
+        "name": "Blood",
         "note": "",
         "params": [
             [
@@ -8418,7 +8418,7 @@
                 "skillId": 2031
             }
         ],
-        "name": "忍者",
+        "name": "Ninja",
         "note": "<speed:3>",
         "params": [
             [
@@ -10218,7 +10218,7 @@
                 "skillId": 2230
             }
         ],
-        "name": "魔法使い",
+        "name": "Mage",
         "note": "<speed:3>",
         "params": [
             [
@@ -86514,7 +86514,7 @@
             }
         ],
         "learnings": [],
-        "name": "ダメージ計算用",
+        "name": "For damage calculation",
         "note": "",
         "params": [
             [

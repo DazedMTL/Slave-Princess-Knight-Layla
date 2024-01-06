@@ -20,7 +20,7 @@ function initVocabEn() {
   TextManager.showDetail = "Shift→Show state details";
   TextManager.hideDetail = "Shift→Hide state details";
   TextManager.invokeSuddenStrike = "%1 makes a sudden attack！";
-  TextManager.actionBarrier = "%1は聖なる障壁で攻撃を防いだ！";
+  TextManager.actionBarrier = "%1 prevented attack with barrier.";
   TextManager._partyName = "%1's Party";
   TextManager._emerge = "%1 emerged!";
   (TextManager._victory = "%1 was victorious!"),
@@ -61,18 +61,18 @@ function initVocabEn() {
   TextManager.actorShieldDamage = "%1's shield took %2 damage!";
   TextManager.actorShieldRecovery = "%1's shield recovered %3！";
   // EroStatus
-  TextManager.peopleUnit = "%1 人";
-  TextManager.countUnit = "%1 回";
-  TextManager.normal = "通常";
+  TextManager.peopleUnit = "%1 Partners";
+  TextManager.countUnit = "%1x";
+  TextManager.normal = "Normal";
   TextManager.pregnant = "Pregnant";
   TextManager.father = "Father";
-  TextManager.omankoParam = "おまんこ開発度";
-  TextManager.chimpoParam = "ちんぽ縮小度";
-  TextManager.analParam = "アナル開発度";
-  TextManager.omankoGaba = "まんこ変形度 %1/%2";
-  TextManager.miniChinpo = "おちんちん縮小度 %1/%2";
-  TextManager.analGaba = "アナル変形度 %1/%2";
-  TextManager.aptitude = "素質";
+  TextManager.omankoParam = "Pussy Development Level";
+  TextManager.chimpoParam = "Penis Shrinkage Level";
+  TextManager.analParam = "Anal Development Level";
+  TextManager.omankoGaba = "Pussy Deformation Degree %1/%2";
+  TextManager.miniChinpo = "Penis Shrinkage Degree %1/%2";
+  TextManager.analGaba = "Anal Deformation Degree %1/%2";
+  TextManager.aptitude = "Aptitude";
   TextManager.aptitude1 = "STR";
   TextManager.aptitude2 = "MGC";
   TextManager.aptitude3 = "INT";
@@ -84,7 +84,7 @@ function initVocabEn() {
   TextManager._load = "Load";
   TextManager._skill = "Skill";
   TextManager._equip = "Equip";
-  TextManager.eroStatus = "エロステータス";
+  TextManager.eroStatus = "Ero Status";
   TextManager.record = "Adventure Record";
   TextManager._status = "Status";
   TextManager.kigae = "Change Clothing";
@@ -97,8 +97,8 @@ function initVocabEn() {
   TextManager.powerUp = "Powerup";
   TextManager.powerUp2 = "Altar of Prayer";
   TextManager.sortie = "Sortie";
-  TextManager.shortMember = "出撃メンバーが足りません";
-  TextManager.members = "メンバーリスト";
+  TextManager.shortMember = "We need more members";
+  TextManager.members = "Member List";
   TextManager.sortieCount = "Sortie";
   TextManager.captiveDay = "Slave";
   TextManager.count = "%1";
@@ -106,13 +106,15 @@ function initVocabEn() {
   TextManager.day2 = "Day %1";
   TextManager.nakadashi = "Creampie";
   TextManager.syusan = "Childbirth";
-  TextManager.slave = "奴隷市場";
-  TextManager.encyclopedia = "辞典";
-  TextManager.delayAction = "最後に行動する";
+  TextManager.slave = "Slave Market";
+  TextManager.encyclopedia = "Dict";
+  TextManager.delayAction = "Delay Action";
   TextManager.menuLevel = "Level Up";
   TextManager.medal = "Medal";
-  TextManager.cantKigae = ["着替えは肉便器当番をすると解放されます"];
-  TextManager.hasNoItems = ["アイテムを所持していません"];
+  TextManager.cantKigae = [
+    "Changing is unlocked when you're on meat toilet duty",
+  ];
+  TextManager.hasNoItems = ["You do not possess any items"];
   TextManager._expNext = "To Next %1";
   TextManager._level = "Level";
   TextManager._item = "Item";
@@ -134,47 +136,48 @@ function initVocabEn() {
   TextManager._loadMessage = "Load which file?";
   // Agito
   TextManager.resqueMsg = [
-    "ダンジョンでキャラの監禁場所を見つけるまで",
-    "救出することができません",
+    "Until you find the character's confinement location",
+    "in the dungeon you cannot rescue them",
   ];
   // Collection
-  TextManager.collectionHelp = "母乳の納品状況";
+  TextManager.collectionHelp = "Status of Breast Milk Delivery";
   // Skill
   TextManager.invalid = "Invalid";
-  TextManager.turnRemain = "%1ターン継続";
+  TextManager.turnRemain = "%1 turns remaining";
   TextManager.turn = "Turn %1";
-  TextManager.momey = "所持金";
+  TextManager.momey = "Money";
   TextManager.price = "Price";
-  TextManager.learned = "learned";
-  TextManager.unlearned = "unlearned";
-  TextManager.learn = "learn";
-  TextManager.confirmPrice1 = "スキル習得には%1 ptかかります。";
-  TextManager.confirmPrice2 = "習得しますか？";
-  TextManager.notEnoughPoint = "スキル pt が足りません";
-  TextManager.notEnoughCrystal = "蒼結晶が足りません";
+  TextManager.learned = "Learned";
+  TextManager.unlearned = "Unlearned";
+  TextManager.learn = "Learn";
+  TextManager.confirmPrice1 = "Learning the skill will cost %1 pt.";
+  TextManager.confirmPrice2 = "Do you want to learn it?";
+  TextManager.notEnoughPoint = "Not enough skill pts";
+  TextManager.notEnoughCrystal = "Not enough Azure Crystals";
   TextManager.stunBreak =
-    "BREAK！　The target takes %1% more damage\nand always take maximum damage.";
-  TextManager.confirmCrystal1 = "機能の開放には蒼結晶 %1 個必要です。";
-  TextManager.confirmCrystal2 = "強化しますか？";
+    "BREAK! The target takes %1% more damage\nand always takes maximum damage.";
+  TextManager.confirmCrystal1 =
+    "%1 Azure Crystals required to unlock this feature.";
+  TextManager.confirmCrystal2 = "Do you want to enhance?";
   TextManager.blessText1 = "You gain 1 \\C[2]Bless\\C[0] for every attack";
   TextManager.blessText2 = "Upon reaching 5 \\C[2]Bless\\C[0], you act again";
   TextManager.blessText3 = "and MP cost becomes 0.";
   TextManager.blessText4 =
-    "戦闘開始時および敵に攻撃を当てるたびに\n\\C[2]加護\\C[0]が１貯まる";
-  TextManager.addState = "Apply %2 \\C[2]%1\\C[0] ";
-  TextManager.addStateSelf = "Apply %2 \\C[2]%1\\C[0]%2 to myself ";
+    "At the start of combat and every time you hit an enemy\nyou accumulate 1 \\C[2]Blessing\\C[0]";
+  TextManager.addState = "Apply %2 \\C[2]%1\\C[0]";
+  TextManager.addStateSelf = "Apply %2 \\C[2]%1\\C[0]%2 to myself";
   TextManager.baseRate = "chance %1%";
   TextManager.bossInvalid = "Not valid for Boss";
-  TextManager.itemReact = "\\C[6]not consume an action turn";
-  TextManager.forUser = "自身を対象";
-  TextManager.forAllFriend = "味方全員を対象";
-  TextManager.forFrontFriend = "前列の味方全員を対象";
-  TextManager.forLineFriend = "列の味方全員を対象";
-  TextManager.regene = "At the beginning of turn, the target gains %1 HP.";
-  TextManager.slipDamage = "At the beginning of turn, the target loses HP.";
+  TextManager.itemReact = "\\C[6]does not consume an action turn";
+  TextManager.forUser = "Targets self";
+  TextManager.forAllFriend = "Targets all allies";
+  TextManager.forFrontFriend = "Targets all allies in the front row";
+  TextManager.forLineFriend = "Targets all allies in one line";
+  TextManager.regene = "At the beginning of the turn, the target gains %1 HP.";
+  TextManager.slipDamage = "At the beginning of the turn, the target loses HP.";
   TextManager.slipDamageFixed =
-    "At the beginning of turn, the target loses %1 HP.";
-  TextManager.stateTurnHalf = "Effect value halves at end of turn.";
+    "At the beginning of the turn, the target loses %1 HP.";
+  TextManager.stateTurnHalf = "Effect value halves at the end of the turn.";
   TextManager.stateTurnAll = "Effect lasts only one turn.";
   TextManager.stateTurnNone = "Permanence";
   TextManager.stateTurnInvoke =
@@ -182,58 +185,65 @@ function initVocabEn() {
   TextManager.stateBullet =
     "Effect value decreases each time Discharge is invoked.\nDischarge becomes unusable when it reaches 0";
   TextManager.stateBullet2 =
-    "フレイムシュートを使うと1減少し、\n0になるとスキルが使用不可能になる";
+    "Using Flame Shoot reduces it by 1,\nand the skill becomes unusable when it reaches 0";
   TextManager.stateToge =
-    "On taking physical dmg, deals damage equal to\nthe effect value to the attacker";
+    "On taking physical damage, deals damage equal to\nthe effect value to the attacker";
   TextManager.stateTogeDownMagic =
-    "Spikes decreases by 1 every time magic dmg is taken.";
+    "Spikes decrease by 1 every time magic damage is taken.";
   TextManager.stateMagicWeakness =
-    "魔法ダメージを受けると\nシールドが１減少する";
+    "When receiving magic damage\nshield decreases by 1";
   TextManager.stateMikiri = "Avoid physical damage";
   TextManager.stateBoss = "Defeat this enemy to win";
-  TextManager.stateSyuchu = "周りの敵と同じ相手を狙おうとする";
-  TextManager.stateYowaimono = "シールドが少ない相手を狙う";
-  TextManager.stateMelting = "BREAK時に現HPの33%のダメージを受ける";
-  TextManager.stateCounter = "敵の攻撃に対して通常攻撃で反撃する";
-  TextManager.stateDamageCut = "被ダメージを%1%減少、状態異常を無効";
-  TextManager.stateUtsurigi = "ランダムな相手を狙うようになる";
+  TextManager.stateSyuchu =
+    "The enemy aims for the same target as its surroundings";
+  TextManager.stateYowaimono = "Targets the opponent with fewer shields";
+  TextManager.stateMelting =
+    "Receives damage equal to 33% of current HP upon BREAK";
+  TextManager.stateCounter = "Counters enemy attacks with a normal attack";
+  TextManager.stateDamageCut =
+    "Damage received reduced by %1%, status abnormalities invalidated";
+  TextManager.stateUtsurigi = "Switches to target a random opponent";
   TextManager.stateGekkou =
-    "このステートを与えた相手を狙う\n範囲攻撃は他のメンバーにも命中する";
-  TextManager.stateUndead = "HPが０になるときHP１で耐える";
-  TextManager.stateInvalidateDebuff = "状態異常を無効化する";
-  TextManager.stateCountDown = "敵を倒すごとに1減り、0になると勝利する";
+    "Targets the enemy that gave this state\narea attacks also hit other members";
+  TextManager.stateUndead = "When HP reaches 0, survives with 1 HP";
+  TextManager.stateInvalidateDebuff = "Invalidates status abnormalities";
+  TextManager.stateCountDown =
+    "Decreases by 1 for every enemy defeated, win when it reaches 0";
   TextManager.statePhotosynthesize =
-    "ターン開始時、HPが減っていると\nシールドを消費してHPを%1回復する";
-  TextManager.stateDeathAgony = "死亡時、準備中の攻撃を実行する";
-  TextManager.stateMpCharge = "魔法ダメージを%1与えるたび、MP１を得る";
+    "At the start of the turn, if HP is decreased\nit recovers HP by consuming %1 shield";
+  TextManager.stateDeathAgony = "Executes a prepared attack upon death";
+  TextManager.stateMpCharge = "Gains 1 MP for every %1 magic damage dealt";
   TextManager.stateEarthBenefit =
-    "毎ターントゲ３とストレングス３を得る\nBREAKするとリセットされる";
-  TextManager.stateDarkBenefit = "毎ターンストレングス３を得る";
-  TextManager.stateFireBenefit = "10ダメージごとにデバフを得る";
-  TextManager.stateTransform = "このステートが消去されると変身する";
-  TextManager.stateCurse = "ジョセルにダメージを与えるたびに2減少する";
-  TextManager.stateShareHp = "HPを他の個体と共有する";
-  TextManager.stateKogoroshi = "他の魔物が死ぬとストレングス３を得る";
-  TextManager.stateResurection = "毎ターン%1%の確率で復活する";
-  TextManager.stateSyunbin = "毎ターン回避%1を得る";
-  TextManager.stateHardening = "ダメージを受けるたびに防御を%1得る";
+    "Gains 3 Spikes and 3 Strength every turn\nresets upon BREAK";
+  TextManager.stateDarkBenefit = "Gains 3 Strength every turn";
+  TextManager.stateFireBenefit = "Gains debuff for every 10 damage";
+  TextManager.stateTransform = "Transforms when this state is removed";
+  TextManager.stateCurse = "Decreases by 2 every time damage is dealt to Jocel";
+  TextManager.stateShareHp = "Shares HP with other individuals";
+  TextManager.stateKogoroshi = "Gains 3 Strength when another monster dies";
+  TextManager.stateResurection = "Has a %1% chance of revival every turn";
+  TextManager.stateSyunbin = "Gains %1 evasion every turn";
+  TextManager.stateHardening = "For every damage taken, gains %1 defense";
   TextManager.stateBleeding =
-    "The target takes 20 damage\n and lose 1 shield with each attack";
-  TextManager.stateAntiMadan = "これ以上BREAKが延長しなくなる";
-  TextManager.stateDamageDown = "この敵が与える最終ダメージが%1%減る";
-  TextManager.stateArmor = "この値だけ毎ターン防御のバフを得る";
-  TextManager.stateMdfArmor = "この値だけ毎ターン魔防のバフを得る";
-  TextManager.cantMove = "can't act";
-  TextManager.maxDamage = "Always take maximum damage.";
-  TextManager.notRegene = "継続ダメージがある場合は回復しない";
+    "The target takes 20 damage\nand loses 1 shield with each attack";
+  TextManager.stateAntiMadan = "No further extension of BREAK";
+  TextManager.stateDamageDown =
+    "The final damage dealt by this enemy is reduced by %1%";
+  TextManager.stateArmor = "Gains defense buff equal to this value every turn";
+  TextManager.stateMdfArmor =
+    "Gains magical defense buff equal to this value every turn";
+  TextManager.cantMove = "Cannot act";
+  TextManager.maxDamage = "Always takes maximum damage.";
+  TextManager.notRegene = "Does not recover if there is ongoing damage";
   TextManager.ougiBuff =
-    "前衛の味方が奥義を使うと、\n味方全員が全てのバフ%1を得る";
-  TextManager.ougiMpRecover1 = "奥義を使った味方のMPが1回復する";
-  //TextManager.ougiMpRecover2 = '前衛の味方が奥義を使うと、\nその味方のMPが1回復し、シールドが5回復する';
-  TextManager.matDebuff = "敵のＭＡＴを%1減少させる";
-  TextManager.fixedDamage = "固定ダメージ";
-  TextManager.madan = "BREAK中の場合、BREAKを１ターン延長する";
-  TextManager.maxShieldDown = "When recovering from BREAK, lose 2 shield.";
+    "When an ally in the front uses a secret technique,\nall allies gain all buffs +%1";
+  TextManager.ougiMpRecover1 =
+    "The ally who used the secret technique recovers 1 MP";
+  //TextManager.ougiMpRecover2 = 'When an ally in the front uses a secret technique,\nthat ally recovers 1 MP and 5 shield';
+  TextManager.matDebuff = "Decreases the enemy's MAT by %1";
+  TextManager.fixedDamage = "Fixed damage";
+  TextManager.madan = "If the enemy is in BREAK, extends BREAK by one turn";
+  TextManager.maxShieldDown = "When recovering from BREAK, loses 2 shield.";
   TextManager.atkUpBattle = "ATK↑%1";
   TextManager.defUpBattle = "DEF↑%1";
   TextManager.matUpBattle = "MAT↑%1";
@@ -242,294 +252,317 @@ function initVocabEn() {
   TextManager.defDownBattle = "DEF↓%1";
   TextManager.matDownBattle = "MAT↓%1";
   TextManager.mdfDownBattle = "MDF↓%1";
-  TextManager.atkUp = "Gain %1 \\C[61]ATK\\C[0] ";
-  TextManager.defUp = "Gain %1 \\C[62]DEF\\C[0] ";
-  TextManager.matUp = "Gain %1 \\C[61]MAT\\C[0] ";
-  TextManager.mdfUp = "Gain %1 \\C[62]MDF\\C[0] ";
-  TextManager.atkDown = "Reduce %1 \\C[61]ATK\\C[0] ";
-  TextManager.defDown = "Reduce %1 \\C[62]DEF\\C[0] ";
-  TextManager.matDown = "Reduce %1 \\C[61]MAT\\C[0] ";
-  TextManager.mdfDown = "Reduce %1 \\C[62]MDF\\C[0] ";
-  TextManager.physical = "Pysical ";
-  TextManager.masical = "Magical ";
-  TextManager.hpHeal = "HP recover";
+  TextManager.atkUp = "Gain %1 \\C[61]ATK\\C[0]";
+  TextManager.defUp = "Gain %1 \\C[62]DEF\\C[0]";
+  TextManager.matUp = "Gain %1 \\C[61]MAT\\C[0]";
+  TextManager.mdfUp = "Gain %1 \\C[62]MDF\\C[0]";
+  TextManager.atkDown = "Reduce %1 \\C[61]ATK\\C[0]";
+  TextManager.defDown = "Reduce %1 \\C[62]DEF\\C[0]";
+  TextManager.matDown = "Reduce %1 \\C[61]MAT\\C[0]";
+  TextManager.mdfDown = "Reduce %1 \\C[62]MDF\\C[0]";
+  TextManager.physical = "Physical";
+  TextManager.masical = "Magical";
+  TextManager.hpHeal = "HP recovery";
   TextManager.damage = "Damage";
   TextManager.passive = "Passive Skill";
-  TextManager.hitRate = "命中率";
-  TextManager.evaRate = "回避率";
+  TextManager.hitRate = "Hit rate";
+  TextManager.evaRate = "Evasion rate";
   TextManager.cancelSkill = "Interrupts the enemy's action";
   TextManager.spCost = "MP cost";
   TextManager.ougiCost = "OP cost";
   TextManager.shortRange = "Melee";
   TextManager.longRange = "Long Range";
   TextManager.targetAll = "to ALL";
-  TextManager.targetRandom = "ランダム%1体攻撃";
+  TextManager.targetRandom = "Random attack on %1 targets";
   TextManager.ougi = "Special Move";
-  TextManager.react = "act again";
+  TextManager.react = "Act again";
   TextManager.giveReact = "Re-activate allies";
   TextManager.reactTodome = "If you finish with this skill, you act again.";
-  TextManager.reactAll = "他のキャラを全員再行動させる";
-  TextManager.ougiPlus = "敵にとどめを刺すとOPが%1%増加する";
-  TextManager.skillOugiPlus = "スキルを使うとOPが%1多く増加する";
-  TextManager.ougiAutoPlus = "毎ターンOPが%1%増加する";
-  TextManager.ougiReact = "奥義を使う味方が再行動する";
-  TextManager.shieldAutoPlus = "毎ターン開始時にSHが%1回復する";
-  TextManager.shieldAutoPlusAll = "毎ターン開始時に味方全員のSHが%1回復する";
-  TextManager.cheer = "味方のSPが１回復する";
-  TextManager.spPlus = "MPの初期値が%1増加する";
-  TextManager.mpPlusTurnOdd = "奇数ターンごとにMP１を追加で獲得する";
-  TextManager.mpPlusTurnEven = "偶数ターンごとにMP１を追加で獲得する";
-  TextManager.reactCondition = "再行動後のみ使用可能　加護が増えない";
-  TextManager.atkUpCondition = "\nATK上昇中のみ使用可能";
-  TextManager.counter1 = "敵の攻撃に対して";
-  TextManager.counter2 = "通常攻撃で反撃する";
-  TextManager.damageCut = "ダメージを%1%カットする";
-  TextManager.mikiri = "敵の通常攻撃を%1%の確率で回避";
+  TextManager.reactAll = "Re-activates all other characters";
+  TextManager.ougiPlus =
+    "When defeating an enemy with a finishing blow, OP increases by %1%";
+  TextManager.skillOugiPlus = "Using a skill increases OP by %1 more";
+  TextManager.ougiAutoPlus = "OP increases by %1% every turn";
+  TextManager.ougiReact = "An ally who uses a secret technique acts again";
+  TextManager.shieldAutoPlus = "Recovers SH by %1 at the start of every turn";
+  TextManager.shieldAutoPlusAll =
+    "Recovers SH by %1 for all allies at the start of every turn";
+  TextManager.cheer = "Recovers 1 SP for an ally";
+  TextManager.spPlus = "Increases initial MP by %1";
+  TextManager.mpPlusTurnOdd = "Gains 1 additional MP every odd turn";
+  TextManager.mpPlusTurnEven = "Gains 1 additional MP every even turn";
+  TextManager.reactCondition =
+    "Only usable after re-activating, does not gain Bless";
+  TextManager.atkUpCondition = "\nOnly usable while ATK is increased";
+  TextManager.counter1 = "In response to enemy attacks";
+  TextManager.counter2 = "Counter with a normal attack";
+  TextManager.damageCut = "Cut damage by %1%";
+  TextManager.mikiri = "Evade the enemy's normal attack with a %1% chance";
   TextManager.breakDamage =
-    "BREAKしている敵への味方のダメージが\nさらに%1%増える";
+    "Damage dealt by allies to enemies in BREAK\nfurther increases by %1%";
   TextManager.stunDown = "Shield value cannot be reduced";
   TextManager.stunUp = "Shield value reduced by %1";
-  TextManager.recoverShield = "Shield is recovered %1";
-  TextManager.renkan = "「あと２」以上の敵のスキルの待機時間を１伸ばす";
-  TextManager.provoke = "敵の攻撃を自分に向ける";
-  TextManager.magicShield = "味方への魔法ダメージを%1%軽減する";
-  TextManager.mdfBuff = "味方がMDF%1のバフを得る";
-  TextManager.matDebuff = "敵全体がMAT%1のデバフを得る";
-  TextManager.penetrate = "シールド貫通";
-  TextManager.recover = "Cure all bad status";
-  TextManager.recover2 = "Cure all bad status for all members";
-  TextManager.firstStrike = "HPが全快の敵にダメージ%1%アップ";
+  TextManager.recoverShield = "Shield is recovered by %1";
+  TextManager.renkan =
+    "Increase the wait time of an enemy's skill with 'later 2' or more by 1";
+  TextManager.provoke = "Directs enemy attacks to oneself";
+  TextManager.magicShield = "Reduces magical damage to allies by %1%";
+  TextManager.mdfBuff = "Allies gain MDF +%1 as a buff";
+  TextManager.matDebuff = "All enemies gain MAT -%1 as a debuff";
+  TextManager.penetrate = "Penetrates shield";
+  TextManager.recover = "Cure all bad statuses";
+  TextManager.recover2 = "Cure all bad statuses for all members";
+  TextManager.firstStrike = "Damage +%1% against enemies at full HP";
   TextManager.repeats = "×%1";
-  TextManager.clenching = "HPが２以上の場合、致命傷を負っても\nHP１で耐える";
-  TextManager.blessPlus = "Gain %1 \\C[2]Bless\\C[0] in addition";
-  TextManager.bonusBlessBuff = "再行動するとATK＋２のバフを得る";
-  TextManager.giveReactAll = "味方を全員再行動させる";
-  TextManager.slotText = "勲章をさらに%1つ装備できる";
-  TextManager.requiredExpDown = "LVUPに必要な経験値が%1%減少する";
-  TextManager.rareSkillText = "レアスキルがでる確率が%1%アップする";
-  TextManager.lowerLimitText = "ダメージのぶれ幅が%1減少する";
-  TextManager.skillUpText = "初めから覚えてるスキルの１つ目が%1段階強化される";
-  TextManager.damageUp = "与ダメージが%1%アップ　重複しない";
+  TextManager.clenching = "If HP is 2 or more, survive fatal damage with 1 HP";
+  TextManager.blessPlus = "Gain an additional %1 \\C[2]Bless\\C[0]";
+  TextManager.bonusBlessBuff = "Gain ATK +2 buff when re-activating";
+  TextManager.giveReactAll = "Re-activate all allies";
+  TextManager.slotText = "Can equip an additional %1 medals";
+  TextManager.requiredExpDown = "Experience required for LVUP decreases by %1%";
+  TextManager.rareSkillText = "Chance of finding rare skills increases by %1%";
+  TextManager.lowerLimitText = "Damage variability decreases by %1";
+  TextManager.skillUpText =
+    "One of the skills learned from the beginning gets strengthened by %1 stages";
+  TextManager.damageUp = "Dealt damage increases by %1%, does not stack";
   TextManager.mist = "Normal attacks will always be evaded.";
   TextManager.shieldHeal = "Recover %1 SH";
   TextManager.mpHeal = "Recover %1 MP";
-  //TextManager.finishBlow = 'この攻撃でBREAKさせた場合、ダメージ%1の\n追加攻撃が発生する'
+  //TextManager.finishBlow = 'If this attack breaks the enemy, an additional\nattack with %1 damage is generated.'
   TextManager.finishBlow =
-    "If an enemy is breaked, an additional\nattack with damage %1 is generated.";
-  TextManager.wrashState = "与ダメージに憤怒×３が加算され、憤怒が０になる\n";
-  TextManager.wrash = "敵から攻撃を受けると憤怒＋１\n";
-  TextManager.wrash2 = "攻撃をしたり受けたりすると憤怒＋１\n";
+    "If an enemy is broken, an additional\nattack with damage %1 is generated.";
+  TextManager.wrashState =
+    "Adds wrath ×3 to dealt damage, and wrath becomes 0\n";
+  TextManager.wrash = "Gain +1 wrath when taking damage from an enemy\n";
+  TextManager.wrash2 = "Gain +1 wrath when attacking or taking damage\n";
   TextManager.wrash3 =
-    "ターンが経過したり攻撃をしたり\n攻撃を受けたりすると憤怒＋１\n";
-  TextManager.barrier = "自身への最初のダメージを無効化する";
-  TextManager.combination = "コンボアタックの攻撃回数が１増える\n";
-  TextManager.requiredSkill = "%1Lv%2 の習得が必要です\n";
-  TextManager.requiredSkill2 = "%1Lv%2 と %3Lv%4 の習得が必要です\n";
-  TextManager.waterShield = "敵の攻撃を１回防ぐ";
-  TextManager.removeState = "パッシブでないステートを消去する";
-  TextManager.laboWeapon = "最初の部屋に武器宝箱を%1個配置する";
-  TextManager.laboInitialItem = "%1を%2個所持して冒険を開始する";
-  TextManager.laboItem = "攻撃アイテムを１個所持して冒険を開始する";
-  TextManager.laboInitialLevel = "キャラの初期LVが%1になる";
-  TextManager.laboExp = "キャラ全員が経験値を%1獲得した状態で冒険ができる";
-  TextManager.laboMoney = "お金を%1G所持して冒険ができる";
-  TextManager.removeBadStatusAuto = "状態異常を自動で%1回治療する";
-  TextManager.holyBlessing = "シールドの最大値が%1上昇し、シールドが%2回復する";
-  TextManager.holyBlessing2 = "シールドの最大値が%1上昇する";
-  TextManager.stunDeath = "BREAK中の敵を即死させる";
-  TextManager.itemGet = "アイテム獲得率が%1%上昇する";
-  TextManager.criticalSkill = "通常攻撃が%1%で即死になる";
-  TextManager.shopSkill = "店が出る確率が%1％加算される";
-  TextManager.priceDown = "店のアイテム価格が%1％値引きされる";
+    "Gain +1 wrath as turns pass or when attacking\nor taking damage\n";
+  TextManager.barrier = "Invalidates the first damage received to self";
+  TextManager.combination = "Increases the number of combo attacks by 1\n";
+  TextManager.requiredSkill = "Requires learning %1Lv%2\n";
+  TextManager.requiredSkill2 = "Requires learning %1Lv%2 and %3Lv%4\n";
+  TextManager.waterShield = "Blocks an enemy attack once";
+  TextManager.removeState = "Removes non-passive states";
+  TextManager.laboWeapon = "Place %1 weapon treasure chests in the first room";
+  TextManager.laboInitialItem = "Start the adventure with %1 of item %2";
+  TextManager.laboItem = "Start the adventure with 1 attack item";
+  TextManager.laboInitialLevel = "The character's initial LV becomes %1";
+  TextManager.laboExp =
+    "The entire party can start the adventure with %1 experience gained";
+  TextManager.laboMoney = "Can start the adventure with %1G of money";
+  TextManager.removeBadStatusAuto =
+    "Automatically treats %1 instance of status abnormalities";
+  TextManager.holyBlessing =
+    "Increases the maximum shield value by %1 and recovers shield by %2";
+  TextManager.holyBlessing2 = "Increases the maximum shield value by %1";
+  TextManager.stunDeath = "Instantly kills an enemy in BREAK";
+  TextManager.itemGet = "Item acquisition rate increases by %1%";
+  TextManager.criticalSkill =
+    "Normal attack becomes instant death with a %1% chance";
+  TextManager.shopSkill = "Increases the chance of a shop appearing by %1%";
+  TextManager.priceDown = "Discounts item prices in the shop by %1%";
   TextManager.encyclopedia =
-    "ボス戦の前にうんちくを聞くことができる\nパーティーに参加していなくても発動する";
-  TextManager.addBuff = "毎ターン%1のバフ%2を得る";
-  TextManager.bakusai = "BREAKすると死亡する";
-  TextManager.remakeTarget = "攻撃対象を再抽選する";
-  TextManager.stunBonus = "BREAK中の敵に対してダメージ%1倍";
+    "You can hear trivia before boss battles\nactivates even when not part of the party";
+  TextManager.addBuff = "Gain %1 of buff %2 every turn";
+  TextManager.bakusai = "Dies upon BREAK";
+  TextManager.remakeTarget = "Rerolls the attack target";
+  TextManager.stunBonus = "Damage ×%1 against enemies in BREAK";
   TextManager.suddenStrike =
-    "味方が敵の攻撃を回避すると、その相手に\nリンがダメージ%1の攻撃を行う";
-  TextManager.holyElement = "アンデッドにとどめをさせる";
-  TextManager.kubihane = "ターン終了時、HPが%1以下でBREAK中の敵を\n即死させる";
-  TextManager.kubihaneMedal = "☆くびはねのダメージが%1上がる";
-  TextManager.addDef = "自身のDEFが%1アップ　シールドが%1回復";
+    "When an ally avoids an enemy attack, Rin\nperforms an attack with damage %1 on that opponent";
+  TextManager.holyElement = "Deals the finishing blow to undead";
+  TextManager.kubihane =
+    "At turn end, instantly kill an enemy that is in BREAK with HP less than %1";
+  TextManager.kubihaneMedal = "☆ Increases the damage of kubihane by %1";
+  TextManager.addDef = "Increases own DEF by %1, recovers %1 shield";
   TextManager.cure = "Cure conditions";
-  TextManager.cureBreak = "\\C[17]BREAK\\C[0]を治療する";
-  TextManager.stunMp = "敵を\\C[17]BREAK\\C[0]させるとMP１を得る";
-  TextManager.stunMp2 = "敵を\\C[17]BREAK\\C[0]させるとMP１とSH４を得る";
-  TextManager.magnet = "後列の敵を前列におびき出す";
-  TextManager.syukuchi = "後列に攻撃可能になる";
-  TextManager.hellFire = "\n敵のステートごとにダメージが%1%アップする";
+  TextManager.cureBreak = "\\C[17]Cure BREAK\\C[0]";
+  TextManager.stunMp = "Gain 1 MP when breaking an enemy";
+  TextManager.stunMp2 = "Gain 1 MP and 4 SH when breaking an enemy";
+  TextManager.magnet = "Draws back row enemies to the front";
+  TextManager.syukuchi = "Becomes capable of attacking the back row";
+  TextManager.hellFire =
+    "\nIncreases damage by %1% for every state on the enemy";
   TextManager.stateMp =
-    "スキルによるバフが付与されるとMP1を得る\n１ターンに１度のみ";
-  TextManager.mpCharge = "魔法ダメージ%1ごとにMP1を得る";
-  TextManager.skillDebuff = "魔法ダメージを与えるとDEFデバフを与える";
-  TextManager.critUp = "クリティカル率が%1%アップする";
-  TextManager.critUpAll = "味方全員のクリティカル率が%1%アップする";
-  TextManager.skillCrit = "スキルでクリティカルが発生する";
-  TextManager.inventory = "所持可能アイテムが１つ増える";
-  TextManager.busshi1 = "中間ポイントでアイテムを１つ獲得できる";
-  TextManager.busshi2 = "中間ポイントとボス前でアイテムを１つ\n獲得できる";
-  TextManager.itemMp = "アイテムを使用したキャラがMP1を獲得する";
+    "Gains 1 MP when a skill-based buff is applied\nOnce per turn only";
+  TextManager.mpCharge = "Gains 1 MP for every %1 magic damage";
+  TextManager.skillDebuff = "Inflicts a DEF debuff when dealing magic damage";
+  TextManager.critUp = "Increases critical rate by %1%";
+  TextManager.critUpAll = "Increases all allies' critical rates by %1%";
+  TextManager.skillCrit = "Skills can critically hit";
+  TextManager.inventory =
+    "Increases the number of items that can be carried by 1";
+  TextManager.busshi1 = "Gain 1 item at the midpoint";
+  TextManager.busshi2 = "Gain 1 item at the midpoint and before the boss\n";
+  TextManager.itemMp = "The character using an item gains 1 MP";
   TextManager.expBox =
-    "Gain%1 experience. the next store\nyou go to, the price goes back up.";
-  TextManager.powerBoost = "再行動した味方は全てのバフ%1を得る";
-  TextManager.obento = "回復ポイントでHPが%1％回復する";
-  TextManager.obentoSave = "\n中間ポイント、ボス前クリスタルでHPが%1％回復する";
-  TextManager.bunshin = "戦闘開始時に見切り1を得る";
+    "Gain %1 experience. the next store\nyou go to, the price goes back up.";
+  TextManager.powerBoost = "Re-activated allies gain all buffs +%1";
+  TextManager.obento = "Recovers %1% HP at recovery points";
+  TextManager.obentoSave =
+    "\nRecovers %1% HP at the midpoint and before boss crystals";
+  TextManager.bunshin = "Gains 1 Mikiri at the start of combat";
   TextManager.jizai =
-    "\n敵に狙われている味方には \\C[62]DEF\\C[0]+%1 \\C[62]MDF\\C[0]+%1、\nそれ以外の味方には \\C[61]ATK\\C[0]+%1 \\C[61]MAT\\C[0]+%1 を与える";
-  TextManager.partyExpPlus = "獲得経験値が%1%増加する";
+    "\nGives DEF +%1 MDF +%1 to allies targeted by enemies,\nand ATK +%1 MAT +%1 to others";
+  TextManager.partyExpPlus = "Increases gained experience by %1%";
   // Item
   TextManager.surrender = "Items for Defeat";
   // Status
-  TextManager.sp = "ＳＰ";
-  TextManager.str = "力";
-  TextManager.dex = "器用さ";
-  TextManager.mgc = "ＭＡＴ";
-  TextManager.vit = "体力";
-  TextManager.sh = "ＳＨ";
+  TextManager.sp = "SP";
+  TextManager.str = "Strength";
+  TextManager.dex = "Dexterity";
+  TextManager.mgc = "MAT";
+  TextManager.vit = "Vitality";
+  TextManager.sh = "SH";
   TextManager.shield = "SHIELD";
-  TextManager.defeatCount = "敗北回数";
-  TextManager.baisyunCount = "売春人数";
+  TextManager.defeatCount = "Number of Defeats";
+  TextManager.baisyunCount = "Number of Prostitutions";
   TextManager.obedience = "Obedience";
   TextManager.sensitivity = "Sensitivity";
   TextManager.mazo = "Masochism";
-  TextManager.shame = "恥辱度";
+  TextManager.shame = "Degree of Shame";
   TextManager.frightened = "Trepidation";
-  TextManager.maternal = "母性";
+  TextManager.maternal = "Maternity";
   TextManager.nasty = "Loss of Honor";
   TextManager.nasty3 = "Lasciviousness";
-  TextManager.mesuSyota = "メス度";
-  TextManager.thunderElement = "\\C[6]雷属性\\C[0]";
-  TextManager.low = "低い";
-  TextManager.middle = "中程度";
-  TextManager.high = "高い";
-  TextManager.max = "最大";
-  TextManager.flame = "火炎";
+  TextManager.mesuSyota = "Degree of Femininity";
+  TextManager.thunderElement = "\\C[6]Thunder Attribute\\C[0]";
+  TextManager.low = "Low";
+  TextManager.middle = "Medium";
+  TextManager.high = "High";
+  TextManager.max = "Max";
+  TextManager.flame = "Flame";
   TextManager.CriUp = "CRIT";
-  TextManager.spPlusLabel = "初期MP";
+  TextManager.spPlusLabel = "Initial MP";
   // State
-  TextManager.flagile = "BREAKすると、最大シールド値が１下がる";
-  TextManager.longBreak = "BREAKが２ターン継続する";
-  TextManager.defUpState = "物理ダメージを%1カットする";
-  TextManager.spZeroText = "スキルの消費MPが0になる";
-  TextManager.fear = "攻撃を受けると攻撃のデバフ%1を得る";
-  TextManager.provoke = "敵の標的になる";
-  TextManager.antiBreak = "BREAKから1ターンで回復する";
+  TextManager.flagile = "When BREAK, max shield value decreases by 1";
+  TextManager.longBreak = "BREAK lasts for 2 turns";
+  TextManager.defUpState = "Cuts %1 of physical damage";
+  TextManager.spZeroText = "Skill MP cost becomes 0";
+  TextManager.fear = "Receive an attack debuff of %1 when attacked";
+  TextManager.provoke = "Becomes the target of enemies";
+  TextManager.antiBreak = "Recovers from BREAK in one turn";
   TextManager.aiming =
-    "ランダムな攻撃がこの敵を狙う\nステータスダウンが持続する";
-  TextManager.haste = "スキルの準備にかかるターンが1減る";
+    "Random attacks will target this enemy\nStat debuffs will persist";
+  TextManager.haste = "Reduces the turn needed to prepare skills by 1";
   TextManager.bunshinState =
-    "サドンストライクがこの回数発動すると\n見切り１を得る";
-  TextManager.mpRecovery = "このターンMPが１多く回復する";
-  TextManager.magicBarrier = "幻惑の誘導が無効";
+    "Gain Evasion 1 after Sudden Strike activates this number of times";
+  TextManager.mpRecovery = "Recovers 1 more MP this turn";
+  TextManager.magicBarrier = "Illusion Induction is invalidated";
   // Buff
-  TextManager.buff2 = "与える物理ダメージが%1上昇する";
-  TextManager.buff3 = "受ける物理ダメージが%1減少する";
-  TextManager.buff4 = "与える魔法ダメージが%1上昇する";
-  TextManager.buff5 = "受ける魔法ダメージが%1減少する";
-  TextManager.debuff2 = "与える物理ダメージが%1減少する";
-  TextManager.debuff3 = "受ける物理ダメージが%1上昇する";
-  TextManager.debuff4 = "与える魔法ダメージが%1減少する";
-  TextManager.debuff5 = "受ける魔法ダメージが%1上昇する";
+  TextManager.buff2 = "Physical damage dealt increases by %1";
+  TextManager.buff3 = "Physical damage received is reduced by %1";
+  TextManager.buff4 = "Magic damage dealt increases by %1";
+  TextManager.buff5 = "Magic damage received is reduced by %1";
+  TextManager.debuff2 = "Physical damage dealt is reduced by %1";
+  TextManager.debuff3 = "Physical damage received increases by %1";
+  TextManager.debuff4 = "Magic damage dealt is reduced by %1";
+  TextManager.debuff5 = "Magic damage received increases by %1";
   // Formation
   TextManager.front = "Vanguard";
   TextManager.back = "Rear Guard";
   TextManager.frontLine = "Vanguard";
-  TextManager.frontLineAttack = "前列全員に攻撃する";
+  TextManager.frontLineAttack = "Attacks all members in the front line";
   TextManager.backLine = "Rear Guard";
   TextManager.forAll = "All";
   TextManager.line = "Line Attack";
   TextManager.lineHeal = "Line Heal";
   TextManager.formationHelp =
-    "キャラを２人選択すると、キャラの位置を入れ替えられます";
+    "You can swap the positions of two characters when you select them";
   TextManager.deadFriend = "To Dead Member";
   TextManager.formationSkill = "Total SP";
   // Event
-  TextManager.singleSleep = "１人で就寝";
-  TextManager.eventTanetsuke = "%1回種付けされる";
-  TextManager.eventTanetsukeBote = "%1回中出しされる";
-  TextManager.eventTanetsukeLostVirgin = "%1人の種付けで処女喪失する";
-  TextManager.eventTanetsukeAcme = "%1人に種付けされ、中イキを%2回する";
-  TextManager.eventMankoOshikko = "%1人の男におまんこに小便を流し込まれる";
-  TextManager.eventTanetsukeDaijinLostVirgin = "大臣によって処女喪失する";
-  TextManager.eventTanetsukeDaijinAcme = "大臣に種付けされ、中イキを%2回する";
-  TextManager.eventTanetsukeDaijin = "大臣に中出しされる";
-  TextManager.felaGokkun = "%1本のちんぽをしゃぶり、精液を飲む";
-  TextManager.tanetsuke = "種付け";
-  TextManager.chokyo = "調教";
-  TextManager.rest = "休憩";
-  TextManager.semenMeal = "ザーメンのかかった食事";
-  TextManager.eventRape = "%1人の蛮族たちに輪姦される";
-  TextManager.eventLostVirgin = "%1人の蛮族たちに輪姦され、処女喪失する";
+  TextManager.singleSleep = "Sleeping alone";
+  TextManager.eventTanetsuke = "Impregnated %1 times";
+  TextManager.eventTanetsukeBote = "Creampied %1 times";
+  TextManager.eventTanetsukeLostVirgin = "Loses virginity to %1 impregnating";
+  TextManager.eventTanetsukeAcme =
+    "Impregnated by %1 people, climaxes %2 times";
+  TextManager.eventMankoOshikko = "Pissed into by %1 men";
+  TextManager.eventTanetsukeDaijinLostVirgin =
+    "Loses virginity to the Minister";
+  TextManager.eventTanetsukeDaijinAcme =
+    "Impregnated by the Minister, climaxes %2 times";
+  TextManager.eventTanetsukeDaijin = "Creampied by the Minister";
+  TextManager.felaGokkun = "Sucks off %1 cocks and swallows cum";
+  TextManager.tanetsuke = "Impregnation";
+  TextManager.chokyo = "Training";
+  TextManager.rest = "Rest";
+  TextManager.semenMeal = "Meal with semen";
+  TextManager.eventRape = "Gang-raped by %1 barbarians";
+  TextManager.eventLostVirgin =
+    "Gang-raped and virginity lost to %1 barbarians";
   TextManager.nakadashiCount = "Creampie %1";
-  TextManager.eventCaptive = "肉便器%1回目";
-  TextManager.ninshin = "%2回目の妊娠が発覚(Father is %1)";
+  TextManager.eventCaptive = "%1st time as a cumdump";
+  TextManager.ninshin = "%2nd pregnancy discovered (Father is %1)";
   TextManager.eventMankoCheck = "Pussy at the start of the game";
   TextManager.eventMankoCheck2 = "Anal at the start of the game";
-  TextManager.eventKyoseiNinshin2 = "薬を使った種付けで大臣に妊娠させられる";
-  TextManager.eventAcceOn = "%1を装着される";
-  TextManager.eventKairakuChokyo = "快楽調教を受け、%1回イカされる";
-  TextManager.eventRelease = "仲間によって救出される";
-  TextManager.eventPunish = "ボテ腹を精液で浄化される";
-  TextManager.eventSyusan = "%1人目の子供を出産する\n(種親は%2)";
-  TextManager.eventSlave = "奴隷市場に売られる";
-  TextManager.eventBaisyun = "%1人相手に売春をする";
-  TextManager.eventSexTo1 = "レイラとセックスをする";
-  TextManager.eventSexTo3 = "ミオリとセックスをする";
-  TextManager.eventSexTo7 = "シャルルとセックスをする";
-  TextManager.eventSexTo1And3 = "レイラ＆ミオリとセックスする";
-  TextManager.eventSexTo7LostVirgin = "シャルルで処女喪失する";
-  TextManager.eventFela = "フェラをさせられる";
-  TextManager.eventFelaBy1 = "レイラにフェラをされる";
-  TextManager.eventFelaTo7 = "シャルルにフェラをする";
-  TextManager.eventAnal = "%1人にアナルを犯される";
-  TextManager.eventChichi = "乳搾り";
+  TextManager.eventKyoseiNinshin2 =
+    "Impregnated by the Minister with the use of drugs";
+  TextManager.eventAcceOn = "Equipped with %1";
+  TextManager.eventKairakuChokyo =
+    "Receives pleasure training and climaxes %1 times";
+  TextManager.eventRelease = "Rescued by companions";
+  TextManager.eventPunish = "Pregnant belly purified with semen";
+  TextManager.eventSyusan = "Gives birth to the %1st child\n(Parent is %2)";
+  TextManager.eventSlave = "Sold at the slave market";
+  TextManager.eventBaisyun = "Prostitutes to %1 people";
+  TextManager.eventSexTo1 = "Has sex with Layla";
+  TextManager.eventSexTo3 = "Has sex with Miori";
+  TextManager.eventSexTo7 = "Has sex with Charles";
+  TextManager.eventSexTo1And3 = "Has sex with Layla & Miori";
+  TextManager.eventSexTo7LostVirgin = "Loses virginity to Charles";
+  TextManager.eventFela = "Forced to give a blowjob";
+  TextManager.eventFelaBy1 = "Receives a blowjob from Layla";
+  TextManager.eventFelaTo7 = "Gives a blowjob to Charles";
+  TextManager.eventAnal = "Anally violated by %1 people";
+  TextManager.eventChichi = "Milk milking";
   // History
-  TextManager.date = "Day%1 ";
+  TextManager.date = "Day %1";
   TextManager.today = "Today";
-  TextManager.historyDungeon = "第%1酋長のダンジョンで戦闘";
-  TextManager.historyMove = "戦闘準備とダンジョンへの移動";
-  TextManager.historyReturn = "ダンジョンから無事帰還";
-  TextManager.historyDefeat = "敗北するがなんとか帰還";
-  TextManager.historyRape = "蛮族たちにレイプされる";
-  TextManager.historyLostVirgin = "蛮族たちに輪姦され、処女喪失する";
-  TextManager.historyOpening = "出撃を命令される";
-  TextManager.historyRelease = "仲間に救出される";
-  TextManager.historyNinshin = "妊娠が発覚";
-  TextManager.defeat = "敗北";
+  TextManager.historyDungeon = "Combat in the dungeon of the %1st Chief";
+  TextManager.historyMove = "Combat prep and moving to the dungeon";
+  TextManager.historyReturn = "Safely returned from the dungeon";
+  TextManager.historyDefeat = "Defeated but somehow returned";
+  TextManager.historyRape = "Raped by barbarians";
+  TextManager.historyLostVirgin = "Gang-raped by barbarians and lost virginity";
+  TextManager.historyOpening = "Ordered to sortie";
+  TextManager.historyRelease = "Rescued by companions";
+  TextManager.historyNinshin = "Pregnancy discovered";
+  TextManager.defeat = "Defeat";
   TextManager.morning = "Morning";
   TextManager.afternoon = "Adventuring";
   TextManager.night = "Night";
-  TextManager.actor7First = "初めて女装してアナルで奉仕をする";
-  TextManager.actor7Second = "アナルで奉仕をする";
-  TextManager.actor7Third = "初めて売春をする";
-  TextManager.actor7Fourth = "アナルで奉仕する";
-  TextManager.felaDaijin = "レイラの前でフェラをする";
-  TextManager.actor4Anal = "アナル拡張調教をされる";
-  TextManager.actor4Muchi = "ムチ調教をされる";
-  TextManager.actor4Boko = "ボコられて浮浪者の相手をする";
-  TextManager.actor4Fela = "フェラをさせられる";
-  TextManager.actor5Oshikko = "浮浪者の便所となる";
-  TextManager.actor6Kairaku = "快楽調教を受けて、蛮族に許しをこう";
-  TextManager.actor6Ninshin = "快楽調教を受けて、妊娠させられてしまう";
-  TextManager.actor12Sarashi = "晒し者にされる";
+  TextManager.actor7First =
+    "Serves anally in women's clothing for the first time";
+  TextManager.actor7Second = "Serves anally";
+  TextManager.actor7Third = "Prostitutes for the first time";
+  TextManager.actor7Fourth = "Serves anally";
+  TextManager.felaDaijin = "Gives a blowjob in front of Layla";
+  TextManager.actor4Anal = "Receives anal expansion training";
+  TextManager.actor4Muchi = "Receives whip training";
+  TextManager.actor4Boko = "Beaten and serves the homeless";
+  TextManager.actor4Fela = "Forced to give a blowjob";
+  TextManager.actor5Oshikko = "Becomes a toilet for the homeless";
+  TextManager.actor6Kairaku =
+    "Receives pleasure training and pleads to barbarians";
+  TextManager.actor6Ninshin = "Receives pleasure training and ends up pregnant";
+  TextManager.actor12Sarashi = "Exposed as a public spectacle";
   // Treasure
   TextManager.confirmCantEquip =
     "You can't equip them, but will you earn this?";
   TextManager.confirmCantEquipLv =
-    "LVが足りず、装備できませんがこれを獲得しますか？";
+    "You don't have enough LV, will you still acquire this?";
   TextManager.confirmBuyCantEquipLv =
-    "LVが足りず、装備できませんがこれを購入しますか？";
+    "You don't have enough LV, will you still purchase this?";
   TextManager.obtainTreasure = "Please select equipment to acquire";
   TextManager.obtainTreasure2 =
     "You can change the equipped person using LR or the mouse wheel.";
   TextManager.shopText = "Please select the item(s) you wish to purchase";
-  TextManager.shopCantGet = "お金が足りません";
+  TextManager.shopCantGet = "You don't have enough money";
   TextManager.shopMaxItems = "I can't hold any more items, do you want to buy?";
-  TextManager.confirmGet = "この装備を獲得しますか？";
-  TextManager.confirmGetAndEquip = "この装備を獲得して装備しますか";
+  TextManager.confirmGet = "Do you want to acquire this equipment?";
+  TextManager.confirmGetAndEquip =
+    "Do you want to acquire and equip this equipment?";
   TextManager.confirmBuy = "Do you want to buy?";
   TextManager.confirmEquip = "Do you equip it immediately?";
   TextManager.currentEquip = "Equipment";
@@ -539,29 +572,31 @@ function initVocabEn() {
   TextManager.mat = "MAT";
   TextManager.mdf = "MDF";
   // Kigae
-  TextManager.hint = "獲得のヒント";
-  TextManager.miniChimpoEquip =
-    "これをつけるとおちんちんが小さくなっていきます";
-  TextManager.curse = "このアクセは呪われているため、外せません";
-  TextManager.nakedOnly = "このアクセは裸の時のみ表示されます";
-  TextManager.cosLabel = "コスチューム";
-  TextManager.innerLabel = "下着";
-  TextManager.acceLabel = "アクセサリ";
-  TextManager.faceLabel = "表情";
-  TextManager.rakugakiLabel = "男につけられたもの";
-  TextManager.kigaeError1 = "淫乱度が足りないために装備変更できません";
-  TextManager.kigaeError2 = "服従度が足りないために装備変更できません";
-  TextManager.kigaeNormal = "通常時の衣装の設定";
-  TextManager.kigaeChokyo = "肉便器時の衣装の設定";
+  TextManager.hint = "Hint for acquisition";
+  TextManager.miniChimpoEquip = "Wearing this will make your dick shrink";
+  TextManager.curse = "This accessory is cursed and cannot be removed";
+  TextManager.nakedOnly = "This accessory is visible only when naked";
+  TextManager.cosLabel = "Costume";
+  TextManager.innerLabel = "Underwear";
+  TextManager.acceLabel = "Accessory";
+  TextManager.faceLabel = "Expression";
+  TextManager.rakugakiLabel = "Marked by men";
+  TextManager.kigaeError1 =
+    "You cannot change equipment due to insufficient lewdness";
+  TextManager.kigaeError2 =
+    "You cannot change equipment due to insufficient obedience";
+  TextManager.kigaeNormal = "Settings for normal attire";
+  TextManager.kigaeChokyo = "Settings for cumdump attire";
   // Equip
-  TextManager.cantEquip = "冒険中は勲章を変更できません";
-  TextManager.equipEroAcce = "能力上昇のあるエロアクセ";
-  TextManager.autoEquip = "shift → 上位互換の勲章を自動で装備";
-  TextManager.exclusive = "%1専用";
+  TextManager.cantEquip = "You cannot change medals during an adventure";
+  TextManager.equipEroAcce = "Ero accessories that increase abilities";
+  TextManager.autoEquip =
+    "Shift → Automatically equip superior compatible medals";
+  TextManager.exclusive = "%1 exclusive";
   TextManager._weapon = "Weapon";
   TextManager._armor = "Armor";
-  TextManager.acce = "Acce";
-  TextManager.hitEnchant = "%1　";
+  TextManager.acce = "Accessory";
+  TextManager.hitEnchant = "%1 ";
   // PowerUp
   TextManager.cantPowerUp = "Powerup is not available during the adventure.";
   TextManager.cantPowerUp2 = "Not enough skill points";
@@ -581,12 +616,14 @@ function initVocabEn() {
   TextManager.medalCondition = "Requirement";
   TextManager.medalEffect = "Equipment Effects";
   TextManager.medalEffect2 = "Acquisition Effects";
-  TextManager.criStun = "クリティカルでシールドを１追加で減らす";
-  TextManager.medalGold = "ダンジョン開始時に\\C[14] %1G \\C[0] を獲得する";
+  TextManager.criStun =
+    "Reduces the shield by an additional 1 with a critical hit.";
+  TextManager.medalGold =
+    "At the start of the dungeon, obtain \\C[14] %1G \\C[0]";
   TextManager.obtainMedal = "Obtain Medal !!";
   TextManager.medalSkillDamagePlus = "Skill Damage";
   TextManager.medalSkillRecoveryPlus = "Recovery Amount";
-  TextManager.medalFinishBlow = "フィニッシュブローのダメージ";
+  TextManager.medalFinishBlow = "Finishing Blow Damage";
   // Record
   TextManager.dungeonName = "Dungeon";
   TextManager.clearMember = "Clear Member";
@@ -600,39 +637,39 @@ function initVocabEn() {
   TextManager.veryEasy = "Very Easy";
   TextManager.dungeonSkip = "Dungeon Skip";
   // Action
-  TextManager.actionRenkan = "%1の行動を遅らせた！";
-  TextManager.actionMagnet = "%1を前列におびき出した！";
-  TextManager.actionCancel = "%1の行動を中断させた！";
-  TextManager.damageRenkan = "行動遅延";
-  TextManager.damageCancel = "行動中断";
+  TextManager.actionRenkan = "%1's turn was delayed!";
+  TextManager.actionMagnet = "Lured %1 to the front row!";
+  TextManager.actionCancel = "%1's action was interrupted!";
+  TextManager.damageRenkan = "Action Delay";
+  TextManager.damageCancel = "Action Interruption";
   TextManager.damageSuddenStrike = "Sudden Strike";
-  TextManager.damageHellFire = "ボーナス";
-  TextManager.actionUndead = "%1は不死の力で耐えた！";
-  TextManager.actionClenching = "%1は食いしばりで耐えた！";
-  TextManager.noEffect = "効果なし";
-  TextManager.firstStrike2 = "先制攻撃";
-  TextManager.actionReact = "%1は再行動した！";
-  TextManager.madanTarget = "BREAK延長";
+  TextManager.damageHellFire = "Bonus";
+  TextManager.actionUndead = "%1 endured with the power of the undead!";
+  TextManager.actionClenching = "%1 endured by clenching their teeth!";
+  TextManager.noEffect = "No Effect";
+  TextManager.firstStrike2 = "First Strike";
+  TextManager.actionReact = "%1 re-acted!";
+  TextManager.madanTarget = "BREAK Extension";
   // Prison
   TextManager.prisonMsg = "Assign a girl to the room";
   TextManager.prisonMsg2 = "Please assign girls";
   TextManager.prisonConfirm = "Is this alright?";
   TextManager.nikubenkiDay = "Sex Slave Count";
-  TextManager.ministerCount = "大臣との回数";
-  TextManager.nikubenkiWoman = "娘数";
-  TextManager.nikubenkiNum = "%1人";
+  TextManager.ministerCount = "Number of times with the minister";
+  TextManager.nikubenkiWoman = "Number of daughters";
+  TextManager.nikubenkiNum = "%1 people";
   TextManager.nikubenki = "Sex Slave";
   TextManager.remainTime = "Time Remaining";
-  TextManager.nikubenkiMob = "%1 / %2 人";
+  TextManager.nikubenkiMob = "%1 / %2 people";
   TextManager.nikubenkiPerson = "Sex Slave";
   TextManager.prisonForce = "forced";
-  TextManager.baisyunPerson = "売春担当";
-  TextManager.ngaroPerson = "ンガロの処理担当";
-  TextManager.settaiPerson = "性接待担当";
-  TextManager.toiletPerson = "トイレ掃除担当";
-  TextManager.vagrantPerson = "Sex with  vagrants";
+  TextManager.baisyunPerson = "Prostitution duty";
+  TextManager.ngaroPerson = "Duty of handling Ngaro";
+  TextManager.settaiPerson = "Sex hospitality duty";
+  TextManager.toiletPerson = "Toilet cleaning duty";
+  TextManager.vagrantPerson = "Sex with vagrants";
   TextManager.goblinPerson = "Sex with goblins";
-  TextManager.banzokuPerson = "蛮族の性処理担当";
+  TextManager.banzokuPerson = "Sexual duty for the barbarians";
   TextManager.ministerPerson = "Sex with the minister";
   TextManager.grayPerson = "Sex with Gray";
   TextManager.charlesPerson = "Sex with Charles";
@@ -646,16 +683,17 @@ function initVocabEn() {
   TextManager.prisonSche = "Sex Slave %1";
   TextManager.nikubenkiTitle = "Sex Slave List";
   TextManager.prisonLocked = "Injured";
-  TextManager.prisonLocked2 = "大臣以外の担当不可";
+  TextManager.prisonLocked2 =
+    "Duties other than the minister are not available";
   TextManager.prisonLocked3 = "Not yet available";
-  TextManager.prisonLockedTaikenban = "体験版では不可";
+  TextManager.prisonLockedTaikenban = "Not available in the demo version";
   TextManager.prisonNeedExperience = "Need sex experience";
   TextManager.prisonGirlRequired = "Must be assigned";
-  TextManager.prisonNeedGoblinExperience = "Need sex exp with goblins";
-  TextManager.prisonNeedVagrantExperience = "Need sex exp with vagrants";
-  TextManager.prisonNeedSyusanExperience = "Need childbirth exp";
+  TextManager.prisonNeedGoblinExperience = "Need sex experience with goblins";
+  TextManager.prisonNeedVagrantExperience = "Need sex experience with vagrants";
+  TextManager.prisonNeedSyusanExperience = "Need childbirth experience";
   TextManager.prisonLockedVagrant = "Not available";
-  TextManager.prisonLockedMob = "全員捧げ済み";
+  TextManager.prisonLockedMob = "Already dedicated to everyone";
   TextManager.prisonDisabled = "Not available";
   TextManager.nikubenkiResult = "Sex Slave Result";
   TextManager.nikubenkiResultCount = "Sex Slave Count";
@@ -664,32 +702,32 @@ function initVocabEn() {
   TextManager.nikubenkiResultFela = "Blowjob Count";
   TextManager.nikubenkiResultRanshi = "Fertility Resistance";
   // DungeonResult
-  TextManager.dungeonResult = "冒険の結果";
-  TextManager.dungeonResultSp = "獲得したスキルポイント";
+  TextManager.dungeonResult = "Results of the adventure";
+  TextManager.dungeonResultSp = "Acquired skill points";
   // Timeline
   TextManager.schedule1 = "Schedule for Day %1";
-  TextManager.schedule2 = "スケジュール";
-  TextManager.timelineNikubenki = "蛮族に奉仕(%1)";
-  TextManager.timelineVagrant = "浮浪者に奉仕(%1)";
-  TextManager.timelineMinister = "大臣に奉仕(%1)";
-  TextManager.timelineGoblin = "ゴブリンに奉仕(%1)";
-  TextManager.timelineGray = "グレイに奉仕(%1)";
-  TextManager.timelineCharles = "シャルルとエッチ(%1)";
-  TextManager.timelineChichi = "乳搾り(%1)";
+  TextManager.schedule2 = "Schedule";
+  TextManager.timelineNikubenki = "Service to barbarians (%1)";
+  TextManager.timelineVagrant = "Service to vagrants (%1)";
+  TextManager.timelineMinister = "Service to the minister (%1)";
+  TextManager.timelineGoblin = "Service to goblins (%1)";
+  TextManager.timelineGray = "Service to Gray (%1)";
+  TextManager.timelineCharles = "Sex with Charles (%1)";
+  TextManager.timelineChichi = "Milking (%1)";
   TextManager.timelineEvent = "Event";
-  TextManager.timelineRest = "休息";
+  TextManager.timelineRest = "Rest";
   TextManager.timelineEroEvent = "Sex Event";
   TextManager.timelineDungeon = "Dungeon Exploration";
   TextManager.timelineNight = "Go to night";
-  TextManager.timelineBoteGlowup = "ボテ腹成長";
+  TextManager.timelineBoteGlowup = "Pregnancy growth";
   TextManager.timelineSlave = "Slave Market";
   TextManager.timelineNinshin = "Pregnancy is detected";
-  TextManager.timelineCivilian = "村娘を蛮族に捧げる";
+  TextManager.timelineCivilian = "Offering village girls to the barbarians";
   TextManager.timelineStart = "Beginning of the day";
   TextManager.timelineEnd = "End of the day";
-  TextManager.timelineSyusan = "出産 ";
-  TextManager.timelineGetChichi = "母乳獲得 ";
-  TextManager.timelineGetCrystal = "蒼結晶獲得";
+  TextManager.timelineSyusan = "Childbirth ";
+  TextManager.timelineGetChichi = "Acquired mother's milk ";
+  TextManager.timelineGetCrystal = "Acquired blue crystal";
   // Option
   TextManager._alwaysDash = "Always Dash";
   TextManager._touchUI = "Touch UI";
@@ -699,7 +737,7 @@ function initVocabEn() {
   TextManager._seVolume = "SE Volume";
   TextManager.confirmEnter = "Confirm when entering a room";
   TextManager._voiceVolume = "VOICE Volume";
-  TextManager.showSikyu = "断面図表示";
+  TextManager.showSikyu = "Cross-Sectional View";
   TextManager.windowAlpha = "Window Opacity";
   // Difficulty
   TextManager.difficultyText = "Difficulty selection. Can be changed later.";
@@ -723,77 +761,77 @@ function initVocabEn() {
   TextManager.search7 = "7";
   TextManager.search10 = "10";
   TextManager.search12 = "12";
-  TextManager.outerAlpha = "服の不透明度 %1% ←→で変更可能";
-  TextManager.babyMilk = "OKボタン→授乳確認";
-  // さらし者
-  TextManager.syusanName = "%1の子を%2人";
-  TextManager.syusanNameGoblin = "%1の子を%2匹";
-  TextManager.babyByTanetsukeBanzoku = "蛮族による種付けで妊娠";
-  TextManager.babyByTanetsukeBar = "酒場での売春で妊娠";
-  TextManager.babyByTanetsukeMinister = "大臣による種付けで妊娠";
-  TextManager.babyNull = "未設定";
+  TextManager.outerAlpha = "Clothing opacity can be changed with %1% ←→";
+  TextManager.babyMilk = "OK button→ Confirm breastfeeding";
+  // Exposed person
+  TextManager.syusanName = "%1's child with %2 people";
+  TextManager.syusanNameGoblin = "%1's child with %2 creatures";
+  TextManager.babyByTanetsukeBanzoku = "Pregnant by barbarian breeding";
+  TextManager.babyByTanetsukeBar = "Pregnant from prostitution at the bar";
+  TextManager.babyByTanetsukeMinister = "Pregnant by the minister's breeding";
+  TextManager.babyNull = "Not set";
   getBabyFuture = function (type) {
     switch (type) {
       case Future.BANZOKU_FIGHTER:
-        return "蛮族の戦士として\n前線で戦う";
+        return "To fight as a barbarian warrior\non the frontlines";
       case Future.COMMON_SOLDIER:
-        return "蛮族の雑兵として\n肉壁となる";
+        return "To become a part of the barbarian horde\nas a meat shield";
       case Future.BANZOKU_STRATEGIST:
-        return "蛮族の軍師として\n指揮を執る";
+        return "To command as a barbarian strategist";
       case Future.BANZOKU_MAGE:
-        return "蛮族の魔法使いとして\n戦場で戦う";
+        return "To fight in the battlefield\nas a barbarian mage";
       case Future.BANZOKU_THIEF:
-        return "蛮族の盗賊として\n略奪を行う";
+        return "To conduct raids as a barbarian thief";
       case Future.BANZOKU_KING:
-        return "蛮族の王としての\n素質を持つ";
+        return "Has the makings of a barbarian king";
       case Future.BANZOKU_DOREI:
-        return "蛮族の奴隷として\n一生を過ごす";
+        return "To spend a lifetime as a barbarian slave";
       case Future.MINISTER:
-        return "血統と知識を活かして\n国の運営に関わる";
+        return "To be involved in the management of the country\nby leveraging pedigree and knowledge";
       case Future.INSTRUCTER:
-        return "剣術指南役として\n活躍する";
+        return "To be active as a swordsmanship instructor";
       case Future.CORRUPTION:
-        return "汚職事件を起こし\n処刑される";
+        return "To cause a corruption scandal\nand be executed";
       case Future.ORDINARY:
-        return "spend as a civilian\nwithout making a name";
+        return "Spend as a civilian\nwithout making a name";
       case Future.FIGHTER:
-        return "冒険者の戦士として\n各地で活躍する";
+        return "To be active throughout the land\nas an adventurer fighter";
       case Future.MAGE:
-        return "冒険者の魔法使いとして\n各地で活躍する";
+        return "To be active throughout the land\nas an adventurer mage";
       case Future.SAGE:
-        return "冒険者の賢者として\n各地で活躍する";
+        return "To be active throughout the land\nas an adventurer sage";
       case Future.CLELIC:
-        return "冒険者の僧侶として\n各地で活躍する";
+        return "To be active throughout the land\nas an adventurer cleric";
       case Future.THIEF:
-        return "冒険者の盗賊として\n各地で活躍する";
+        return "To be active throughout the land\nas an adventurer thief";
       case Future.ADVENTURER:
-        return "冒険者になり\n各地へと赴く";
+        return "To become an adventurer\nand travel to various places";
       case Future.LESSER_ADVENTURER:
-        return "冒険者になるが\nすぐに死亡する";
+        return "To become an adventurer\nbut die quickly";
       case Future.CHARLES_KING:
-        return "王としての才を持ち\n歴史に名を残す";
+        return "To possess the talents of a king\nand leave a name in history";
       case Future.CHARLES_MINISTER:
-        return "王佐の才を持ち\n歴史に名を残す";
+        return "To possess the talents of a king's helper\nand leave a name in history";
       case Future.CHARLES_FIGHTER:
-        return "近衛兵として\n活躍する";
+        return "To be active as a royal guard";
       case Future.CHARLES_MAGE:
-        return "宮廷魔術師として\n活躍する";
+        return "To be active as a court magician";
       case Future.CHARLES_STRATEGIST:
-        return "軍師として\n活躍する";
+        return "To be active as a military strategist";
       case Future.CHARLES_COMMANDER:
-        return "軍の指揮官として\n活躍する";
+        return "To be active as a military commander";
       case Future.BANZOKU_FIGHTER:
-        return "蛮族の戦士として\n前線で戦いつつ\n肉便器にもなる";
+        return "To fight as a barbarian warrior\non the frontlines\nand also become a sex slave";
       case Future.NIKUBENKI_1:
-        return "Become a barbarian's\nsex slave and give\nbirth to many children";
+        return "To become a barbarian's\nsex slave and give\nbirth to many children";
       case Future.NIKUBENKI_2:
-        return "蛮族の肉便器になり、\n魔力に優れた子を\n多く産む";
+        return "To become a barbarian's sex slave, and\ngive birth to many children with superior magical powers";
       case Future.NIKUBENKI_3:
-        return "蛮族の肉便器になり、\n知恵に優れた子を\n多く産む";
+        return "To become a barbarian's sex slave, and\ngive birth to many children with superior intellect";
       case Future.NIKUBENKI_4:
-        return "蛮族の肉便器になるが、\n自力で逃げ出す";
+        return "To become a barbarian's sex slave but\nescape by one's own strength";
       case Future.BANZOKU_DOREI:
-        return "蛮族の奴隷として\n男の奴隷とともに\n働かされる";
+        return "To be worked as a barbarian slave\nalongside male slaves";
     }
     p(type);
     return "none";
@@ -846,25 +884,25 @@ function initVocabEn() {
       case "anal":
         return "Anal Sex";
       case "baisyun":
-        return "売春";
+        return "Prostitution";
       case "bukkake":
-        return "ぶっかけ";
+        return "Bukkake";
       case "seiekiNomu":
-        return "精液ごっくん";
+        return "Semen Swallowing";
       case "oshikkoNomu":
-        return "おしっこごっくん";
+        return "Urine Swallowing";
       case "syusan":
-        return "出産";
+        return "Childbirth";
       case "fela":
         return "Blowjob";
       case "acme":
-        return "絶頂";
+        return "Climax";
       case "acme":
-        return "膣イキ";
+        return "Vaginal Climax";
       case "anal_acme":
-        return "アナルイキ";
+        return "Anal Climax";
       case "chichi":
-        return "乳搾り";
+        return "Milk Squeezing";
     }
     return "";
   };
@@ -887,7 +925,7 @@ function initVocabEn() {
       case TaneoyaId.gray:
         return $gameActors.actor(16).name();
     }
-    return "名称未設定";
+    return "Unnamed";
   };
   getDungeonName = function (stageId) {
     switch (stageId) {
