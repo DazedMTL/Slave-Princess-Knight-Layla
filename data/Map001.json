@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モード選択"
+                                "Mode Selection"
                             ]
                         },
                         {
@@ -2603,8 +2603,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常モード",
-                                    "戦闘スキップモード"
+                                    "Normal mode",
+                                    "Battle skip mode"
                                 ],
                                 1,
                                 0,
@@ -2758,7 +2758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出産デバッグ"
+                                "Birth Debug"
                             ]
                         },
                         {
@@ -2766,11 +2766,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ターニャ",
-                                    "ディーナ",
-                                    "ネル",
-                                    "ミオリ",
-                                    "キャンセル"
+                                    "Tanya",
+                                    "Deena",
+                                    "Ner",
+                                    "Miori",
+                                    "Cancel"
                                 ],
                                 4,
                                 0,
@@ -3342,7 +3342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "翻訳"
+                                "Translation"
                             ]
                         },
                         {
@@ -3350,9 +3350,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Tsv作成",
-                                    "翻訳済のTsv→txt",
-                                    "txt→json"
+                                    "Create a csv file",
+                                    "Translated tsv to txt",
+                                    "Txt→json"
                                 ],
                                 -2,
                                 0,
@@ -3521,9 +3521,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "登場シーンを見る",
-                                    "敗北Hを見る",
-                                    "肉便器シーンに行く"
+                                    "View the entrance scene",
+                                    "View the defeat h scene",
+                                    "Let's go to the meat toilet scene"
                                 ],
                                 1,
                                 0,
@@ -3899,9 +3899,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "登場シーンを見る",
-                                    "敗北Hを見る",
-                                    "肉便器シーンに行く"
+                                    "View the entrance scene",
+                                    "View the defeat h scene",
+                                    "Let's go to the meat toilet scene"
                                 ],
                                 1,
                                 0,
@@ -4511,9 +4511,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "登場シーンを見る",
-                                    "敗北Hを見る",
-                                    "肉便器シーンに行く"
+                                    "View the entrance scene",
+                                    "View the defeat h scene",
+                                    "Let's go to the meat toilet scene"
                                 ],
                                 1,
                                 0,
@@ -4886,9 +4886,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "登場シーンを見る",
-                                    "敗北Hを見る",
-                                    "肉便器シーンに行く"
+                                    "View the entrance scene",
+                                    "View the defeat h scene",
+                                    "Let's go to the meat toilet scene"
                                 ],
                                 1,
                                 0,
@@ -5306,9 +5306,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "登場シーンを見る",
-                                    "敗北Hを見る",
-                                    "肉便器シーンに行く"
+                                    "View the entrance scene",
+                                    "View the defeat h scene",
+                                    "Let's go to the meat toilet scene"
                                 ],
                                 1,
                                 0,
@@ -5844,7 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出産デバッグ"
+                                "Birth Debugging"
                             ]
                         },
                         {
@@ -5852,11 +5852,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レイラ",
-                                    "リン",
-                                    "アイリス",
-                                    "サラ",
-                                    "キャンセル"
+                                    "Layla",
+                                    "Rin",
+                                    "Iris",
+                                    "Sara",
+                                    "Cancel"
                                 ],
                                 4,
                                 0,
@@ -6077,9 +6077,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "登場シーンを見る",
-                                    "敗北Hを見る",
-                                    "肉便器シーンに行く"
+                                    "View the entrance scene",
+                                    "View the defeat h scene",
+                                    "Let's go to the meat toilet scene"
                                 ],
                                 1,
                                 0,

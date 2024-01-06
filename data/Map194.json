@@ -4482,14 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は「お頭の部屋（予定）」で、立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっとと失せな、嬢ちゃん。"
+                                "The area ahead is \"Boss's Room (Planned),\" and\nit's off-limits. Scram, missy."
                             ]
                         },
                         {
@@ -4567,14 +4560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっとと失せな、嬢ちゃん。"
+                                "This area is off-limits. Scram, missy."
                             ]
                         },
                         {

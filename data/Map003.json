@@ -1470,7 +1470,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "モード選択"
+                                "Mode Selection"
                             ]
                         },
                         {
@@ -1478,9 +1478,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "通常モード",
-                                    "戦闘スキップモード",
-                                    "戦闘＆ダンジョンスキップモード"
+                                    "Normal mode",
+                                    "Battle skip mode",
+                                    "Battle & dungeon skip mode"
                                 ],
                                 1,
                                 0,

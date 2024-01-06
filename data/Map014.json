@@ -5194,7 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここを通るがいい。"
+                                "Feel free to pass through here."
                             ]
                         },
                         {
@@ -5623,14 +5623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "歩行設定等々の所為で表示がおかしくなるので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本、この場には常にキャラを配置しておいて欲しいです。"
+                                "Because of the walking settings and such, the\ndisplay can get messed up, so I'd like you to\nalways have a character placed in this spot as a\nbasic rule."
                             ]
                         },
                         {

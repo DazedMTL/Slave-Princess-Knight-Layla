@@ -8841,7 +8841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "時間経過をありにしました"
+                                "Time progression has been set to on."
                             ]
                         },
                         {
@@ -8878,7 +8878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "時間経過をなしにしました"
+                                "Time progression has been set to off."
                             ]
                         },
                         {
