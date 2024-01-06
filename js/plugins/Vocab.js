@@ -713,9 +713,9 @@ function initVocabJp() {
   TextManager.prisonLockedMob = "All have been offered";
   TextManager.nikubenkiResult = "Meat Toilet Results";
   TextManager.nikubenkiResultCount = "Total Meat Toilet Count";
-  TextManager.nikubenkiResultNakadashi = "Count of Vaginal Service";
-  TextManager.nikubenkiResultAnal = "Count of Anal Service";
-  TextManager.nikubenkiResultFela = "Count of Oral Service";
+  TextManager.nikubenkiResultNakadashi = "Vaginal Service";
+  TextManager.nikubenkiResultAnal = "Anal Service";
+  TextManager.nikubenkiResultFela = "Oral Service";
   TextManager.nikubenkiResultRanshi = "Ovum Durability";
   // DungeonResult
   TextManager.dungeonResult = "Adventure Results";
