@@ -1,4 +1,4 @@
-var LANGUAGE_LIST = ["jp", "en"];
+var LANGUAGE_LIST = ["jp"];
 Scene_Options.prototype.optionsWindowRect = function () {
   var n = Math.min(this.maxCommands(), this.maxVisibleCommands());
   var ww = 500;
@@ -123,7 +123,7 @@ Window_Options.prototype.languageStatusText = function (value) {
     case "en":
       return "En(Partial)";
     case "jp":
-      return "Japanese";
+      return "English (DazedMTL)";
     case "ch":
       return "中国語";
   }
