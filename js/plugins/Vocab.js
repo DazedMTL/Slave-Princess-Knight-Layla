@@ -36,7 +36,7 @@ function initVocabJp() {
     (TextManager._obtainExp = "Gained %1 %2!"),
     (TextManager._obtainGold = "Obtained %1\\G in money!"),
     (TextManager._obtainItem = "Obtained %1!"),
-    (TextManager._levelUp = "%1 has leveled up to %2 %3!"),
+    (TextManager._LvUp = "%1 has Lved up to %2 %3!"),
     (TextManager._obtainSkill = "Learned %1!"),
     (TextManager._useItem = "%1 used %2!"),
     (TextManager._criticalToEnemy = "Critical Hit");
@@ -74,9 +74,9 @@ function initVocabJp() {
   TextManager.normal = "Normal";
   TextManager.pregnant = "Pregnant";
   TextManager.father = "Seed Parent";
-  TextManager.omankoParam = "Pussy Development Level";
+  TextManager.omankoParam = "Pussy Development Lv";
   TextManager.chimpoParam = "Penis Shrinkage Value";
-  TextManager.analParam = "Anal Development Level";
+  TextManager.analParam = "Anal Development Lv";
   TextManager.omankoGaba = "Pussy Deformation Degree %1/%2";
   TextManager.miniChinpo = "Penis Shrinkage Degree %1/%2";
   TextManager.analGaba = "Anal Deformation Degree %1/%2";
@@ -120,12 +120,12 @@ function initVocabJp() {
   TextManager.slave = "Slave Market";
   TextManager.encyclopedia = "Encyclopedia";
   TextManager.delayAction = "Act Last";
-  TextManager.menuLevel = "Level Up";
+  TextManager.menuLv = "Lv Up";
   TextManager.medal = "Medal";
   TextManager.cantKigae = ["Dress Up unlocks after being a sex slave"];
   TextManager.hasNoItems = ["You have no items"];
   TextManager._expNext = "Next %1";
-  TextManager._level = "Level";
+  TextManager._Lv = "Lv";
   TextManager._item = "Item";
   TextManager._options = "Options";
   TextManager._gameEnd = "End Game";
@@ -336,7 +336,7 @@ function initVocabJp() {
     "Chance of acquiring a rare skill is increased by %1%";
   TextManager.lowerLimitText = "Damage variance is reduced by %1";
   TextManager.skillUpText =
-    "One of the initially learned skills is strengthened by %1 levels";
+    "One of the initially learned skills is strengthened by %1 Lvs";
   TextManager.damageUp = "Damage dealt is increased by %1% not stackable";
   TextManager.mist = "Normal attacks are always evaded";
   TextManager.shieldHeal = "Heal SH by %1";
@@ -359,7 +359,7 @@ function initVocabJp() {
   TextManager.laboWeapon = "Place %1 weapon treasure boxes in the first room";
   TextManager.laboInitialItem = "Start the adventure with %2 of item %1";
   TextManager.laboItem = "Start the adventure with one attack item";
-  TextManager.laboInitialLevel =
+  TextManager.laboInitialLv =
     "Start the adventure with characters at initial LV %1";
   TextManager.laboExp =
     "Start the adventure with all characters having gained %1 experience";
@@ -428,17 +428,17 @@ function initVocabJp() {
   TextManager.vit = "Vitality";
   TextManager.sh = "SH";
   TextManager.shield = "SHIELD";
-  TextManager.defeatCount = "Number of Defeats";
-  TextManager.baisyunCount = "Number of Prostitutes";
-  TextManager.obedience = "Obedience Level";
+  TextManager.defeatCount = "Defeats";
+  TextManager.baisyunCount = "Prostitutes";
+  TextManager.obedience = "Obedience";
   TextManager.sensitivity = "Sensitivity";
-  TextManager.mazo = "Masochism Level";
+  TextManager.mazo = "Masochism";
   TextManager.shame = "Degree of Shame Rumors";
-  TextManager.frightened = "Level of Abuse Received";
+  TextManager.frightened = "Abuse";
   TextManager.maternal = "Maternal";
-  TextManager.nasty = "Degree of Honor Lost";
-  TextManager.nasty3 = "Familiarity with H";
-  TextManager.mesuSyota = "Femboy Level";
+  TextManager.nasty = "Honor Lost";
+  TextManager.nasty3 = "Familiarity";
+  TextManager.mesuSyota = "Femboy Lv";
   TextManager.thunderElement = "\\C[6]Thunder Attribute\\C[0]";
   TextManager.low = "Low";
   TextManager.middle = "Moderate";
@@ -860,7 +860,7 @@ function initVocabJp() {
   };
   TextManager.dungeonSkipInfo = [
     "\\C[2]For those who just want to see the H scenes\\C[0],",
-    "this difficulty level is for you.",
+    "this difficulty Lv is for you.",
     "",
     "・\\C[6]Able to completely skip dungeons",
     "・Deal 300% damage, Shield +20",
@@ -868,7 +868,7 @@ function initVocabJp() {
   ];
   TextManager.veryEasyInfo = [
     "\\C[2]For those who want to quickly finish battles\\C[0],",
-    "this difficulty level is for you.",
+    "this difficulty Lv is for you.",
     "You can instantly defeat enemies with",
     "the 'Powerful Bomb' in combat.",
     "",
@@ -878,7 +878,7 @@ function initVocabJp() {
   ];
   TextManager.easyInfo = [
     "\\C[2]For those who want to play the game easily\\C[0],",
-    "this difficulty level is for you.",
+    "this difficulty Lv is for you.",
     "The dungeons are moderately difficult,",
     "not too easy, and you can enjoy both H scenes",
     "and the game.",
@@ -888,13 +888,13 @@ function initVocabJp() {
   ];
   TextManager.normalInfo = [
     "\\C[2]For those who really want to delve into the game\\C[0],",
-    "this difficulty level is for you.",
+    "this difficulty Lv is for you.",
     "",
     "・Save anywhere in the dungeon",
   ];
   TextManager.hardInfo = [
     "\\C[2]For those who are experienced and seek a challenge\\C[0],",
-    "this difficulty level is for you.",
+    "this difficulty Lv is for you.",
     "",
     "・\\C[6]Saving in the dungeon only at save points",
     //'・The number of blue crystals obtained in the dungeon decreases',
