@@ -179,14 +179,14 @@ function initVocabJp() {
   TextManager.addStateSelf = "Gives self \\C[2]%1\\C[0] %2";
   TextManager.baseRate = "Probability %1%";
   TextManager.bossInvalid = "Boss invalid";
-  TextManager.itemReact = "\\C[6]Does not consume an action turn";
+  TextManager.itemReact = "\\C[6]No action consumed";
   TextManager.forUser = "Targets self";
   TextManager.forAllFriend = "Targets all allies";
   TextManager.forFrontFriend = "Targets all allies in the front row";
   TextManager.forLineFriend = "Targets all allies in a line";
-  TextManager.regene = "HP regenerates by %1 at the start of every turn";
-  TextManager.slipDamage = "Inflicts ongoing damage during one's action";
-  TextManager.slipDamageFixed = "Inflicts %1 damage during one's action";
+  TextManager.regene = "HP regenerates by %1 every turn";
+  TextManager.slipDamage = "Inflicts ongoing damage during turn";
+  TextManager.slipDamageFixed = "Inflicts %1 damage during turn";
   TextManager.stateTurnHalf = "Value is halved every turn";
   TextManager.stateTurnAll = "Lasts only one turn";
   TextManager.stateTurnNone = "Permanent";
@@ -597,7 +597,7 @@ function initVocabJp() {
   TextManager.innerLabel = "Underwear";
   TextManager.acceLabel = "Accessory";
   TextManager.faceLabel = "Expression";
-  TextManager.rakugakiLabel = "Something put on by a man";
+  TextManager.rakugakiLabel = "Graffiti";
   TextManager.kigaeError1 =
     "You can't change equipment due to insufficient lewdness";
   TextManager.kigaeError2 =
@@ -613,7 +613,7 @@ function initVocabJp() {
   TextManager._armor = "Armor";
   TextManager.acce = "Accessory";
   TextManager.hitEnchant =
-    "Enemies hit by an attack reduce an additional %1 shield";
+    "Reduce shield damage by %1";
   // Power Up
   TextManager.cantPowerUp = "You can't power up during an adventure";
   TextManager.cantPowerUp2 = "Not enough skill points";
@@ -709,7 +709,7 @@ function initVocabJp() {
   TextManager.prisonNeedGoblinExperience =
     "Meat Toilet experience with goblins required";
   TextManager.prisonNeedSyusanExperience = "Childbirth experience required";
-  TextManager.prisonLockedVagrant = "This character cannot be selected";
+  TextManager.prisonLockedVagrant = "Cannot Select";
   TextManager.prisonLockedMob = "All have been offered";
   TextManager.nikubenkiResult = "Meat Toilet Results";
   TextManager.nikubenkiResultCount = "Total Meat Toilet Count";
@@ -734,7 +734,7 @@ function initVocabJp() {
   TextManager.timelineRest = "Rest";
   TextManager.timelineEroEvent = "Erotic Event";
   TextManager.timelineDungeon = "Dungeon Exploration";
-  TextManager.timelineNight = "Heading to the Night Part";
+  TextManager.timelineNight = "Night Duty";
   TextManager.timelineBoteGlowup = "Pregnant Belly Growth";
   TextManager.timelineSlave = "Slave Market";
   TextManager.timelineNinshin = "Pregnancy Discovered";

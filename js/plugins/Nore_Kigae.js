@@ -585,7 +585,7 @@ var Nore;
       this.addCommand(TextManager.acceLabel, "acce", true, null);
       this.addCommand(TextManager.rakugakiLabel, "rakugaki", true, null);
       this.addCommand(TextManager.faceLabel, "face", true, null);
-      this.addCommand("確定", "ok", this._canOk, null);
+      this.addCommand("OK", "ok", this._canOk, null);
     };
     return Window_KigaeCommand;
   })(Window_Command);
