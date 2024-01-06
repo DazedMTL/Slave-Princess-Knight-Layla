@@ -664,7 +664,7 @@ var Nore;
       var xx = 2;
       if (this._enemy.maxStun() - this._enemy.stun() <= 0) {
         this.bitmap.textColor = ColorManager.crisisColor();
-        this.bitmap.fontSize = 28;
+        this.bitmap.fontSize = 24;
         var baseTexture2 = Nore.getSystemBaseTexture("Battle");
         var rect = new Rectangle(90, 130, 130, 55);
         var texture = new PIXI.Texture(baseTexture2, rect);

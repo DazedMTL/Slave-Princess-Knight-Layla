@@ -170,10 +170,10 @@ var Nore;
         } else {
           if (item.id == 11 || item.id == 19) {
             name = $gameVariables.value(20) + " Ｇ";
-            this.contents.drawText("Obtained Money‼︎", xx - 20, 0, 300, 30, "left");
+            this.contents.drawText("お金ゲット‼︎", xx - 20, 0, 300, 30, "left");
           } else {
             this.contents.drawText(
-              "Obtained Item‼︎",
+              "アイテムゲット‼︎",
               xx - 20,
               5,
               300,

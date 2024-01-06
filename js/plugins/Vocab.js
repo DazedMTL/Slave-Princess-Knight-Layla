@@ -70,7 +70,7 @@ function initVocabJp() {
   TextManager.actorShieldRecovery = "Recovered %1's shield by %3!";
   // EroStatus
   TextManager.peopleUnit = "%1 people";
-  TextManager.countUnit = "%1 times";
+  TextManager.countUnit = "%1 x";
   TextManager.normal = "Normal";
   TextManager.pregnant = "Pregnant";
   TextManager.father = "Seed Parent";
@@ -112,7 +112,7 @@ function initVocabJp() {
   TextManager.members = "Member List";
   TextManager.sortieCount = "Sortie";
   TextManager.captiveDay = "Sex Slave";
-  TextManager.count = "%1 times";
+  TextManager.count = "%1 x";
   TextManager.day = "%1 day";
   TextManager.day2 = "Day %1";
   TextManager.nakadashi = "Creampie";
@@ -132,7 +132,7 @@ function initVocabJp() {
   TextManager.partyExp = "Party EXP";
   TextManager.crystalCount = "pcs";
   TextManager.endlessHMode = "Endless H Mode";
-  TextManager.goToPrepare = "Go to Adventure Preparation";
+  TextManager.goToPrepare = "Adventure Prep";
   TextManager.use = "Use";
   // Save
   TextManager._file = "File";
@@ -154,10 +154,10 @@ function initVocabJp() {
   TextManager.invalid = "Invalid";
   TextManager.turnRemain = "%1 turns remaining";
   TextManager.turn = "%1 turn(s)";
-  TextManager.money = "Possessed money";
+  TextManager.money = "Money";
   TextManager.price = "Cost";
-  TextManager.learned = "Unlocked";
-  TextManager.unlearned = "Not unlocked";
+  TextManager.learned = "✓";
+  TextManager.unlearned = "X";
   TextManager.learn = "New acquisition";
   TextManager.confirmPrice1 = "Acquiring the skill will cost %1 pt.";
   TextManager.confirmPrice2 = "Do you want to learn it?";
@@ -380,7 +380,7 @@ function initVocabJp() {
   TextManager.addBuff = "Receive a buff of %1 every turn %2";
   TextManager.bakusai = "Dies upon BREAK";
   TextManager.remakeTarget = "Reselect attack targets";
-  TextManager.stunBonus = "Damage to enemies in BREAK is %1 times";
+  TextManager.stunBonus = "Damage to enemies in BREAK is %1 x";
   TextManager.suddenStrike =
     "When allies dodge an enemy attack, Rin will\nattack that enemy with damage %1";
   TextManager.holyElement = "Deliver a final blow to the undead";
@@ -489,14 +489,14 @@ function initVocabJp() {
   TextManager.formationSkill = "Total Skill Points";
   // Event
   TextManager.singleSleep = "Sleep Alone";
-  TextManager.eventTanetsuke = "Bred %1 times";
-  TextManager.eventTanetsukeBote = "Creampied %1 times";
-  TextManager.eventTanetsukeLostVirgin = "Virginity taken by breeding %1 times";
-  TextManager.eventTanetsukeAcme = "Bred by %1 people, climax %2 times";
+  TextManager.eventTanetsuke = "Bred %1 x";
+  TextManager.eventTanetsukeBote = "Creampied %1 x";
+  TextManager.eventTanetsukeLostVirgin = "Virginity taken by breeding %1 x";
+  TextManager.eventTanetsukeAcme = "Bred by %1 people, climax %2 x";
   TextManager.eventMankoOshikko = "Piss flushed into the pussy by %1 men";
   TextManager.eventTanetsukeDaijinLostVirgin = "Virginity taken by a minister";
   TextManager.eventTanetsukeDaijinAcme =
-    "Bred by the minister, climax %2 times";
+    "Bred by the minister, climax %2 x";
   TextManager.eventTanetsukeDaijin = "Creampied by the minister";
   TextManager.felaGokkun = "Suck %1 dicks and swallow semen";
   TextManager.tanetsuke = "Breeding";
@@ -505,7 +505,7 @@ function initVocabJp() {
   TextManager.eventCaptured = "Defeated by the enemy and captured";
   TextManager.eventRape = "Gang-raped by %1 barbarians";
   TextManager.eventLostVirgin = "Virginity taken by gang-rape by %1 barbarians";
-  TextManager.nakadashiCount = "Creampies %1 times";
+  TextManager.nakadashiCount = "Creampies %1 x";
   TextManager.eventCaptive = "Meat Toilet No. %1";
   TextManager.ninshin = "Pregnancy No. %2 discovered (Sire is %1)";
   TextManager.eventMankoCheck = "State of the pussy at the start of the game";
@@ -514,7 +514,7 @@ function initVocabJp() {
     "Forced pregnancy by the minister using drugs";
   TextManager.eventAcceOn = "Equipped with %1";
   TextManager.eventKairakuChokyo =
-    "Receive pleasure training, climaxing %1 times";
+    "Receive pleasure training, climaxing %1 x";
   TextManager.eventRelease = "Rescued by companions";
   TextManager.eventPunish = "Purified semen-filled belly";
   TextManager.eventSyusan = "Give birth to the first child\n(Father is %2)";
@@ -670,9 +670,9 @@ function initVocabJp() {
   TextManager.prisonMsg = "Please allocate a girl to meat toilet duty";
   TextManager.prisonMsg2 = "Please allocate a girl";
   TextManager.prisonConfirm = "Are you sure about this?";
-  TextManager.nikubenkiDay = "Meat Toilet Count";
-  TextManager.ministerCount = "Times with Minister";
-  TextManager.nikubenkiWoman = "Number of Daughters";
+  TextManager.nikubenkiDay = "Meat Toilet";
+  TextManager.ministerCount = "Minister";
+  TextManager.nikubenkiWoman = "Daughters";
   TextManager.nikubenkiNum = "%1 person";
   TextManager.nikubenki = "Meat Toilet Duty";
   TextManager.remainTime = "Remaining Time";
@@ -696,7 +696,7 @@ function initVocabJp() {
   TextManager.prisonChichi = "Breast Milk can be Acquired";
   TextManager.selectNikubenki = "Select Nighttime Activity";
   TextManager.prisonSche = "%1's Meat Toilet";
-  TextManager.nikubenkiTitle = "Members Assigned to Meat Toilet Duty";
+  TextManager.nikubenkiTitle = "Meat Toilet Duty";
   TextManager.prisonForce = "Forced";
   TextManager.prisonLocked = "Injured";
   TextManager.prisonLocked2 = "Cannot be assigned to anyone but the Minister";
