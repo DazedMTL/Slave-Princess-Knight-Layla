@@ -545,7 +545,7 @@ function initVocabJp() {
   TextManager.defeat = "Defeat";
   TextManager.morning = "Adventure Preparation";
   TextManager.afternoon = "During Adventure";
-  TextManager.night = "Night";
+  TextManager.night = " Night";
   TextManager.actor7First = "Serve Anally in Drag for the First Time";
   TextManager.actor7Second = "Serve Anally";
   TextManager.actor7Third = "Prostitute for the First Time";
@@ -687,7 +687,7 @@ function initVocabJp() {
   TextManager.vagrantPerson = "Vagrant's Sexual Processing Duty";
   TextManager.ministerPerson = "Minister's Duty";
   TextManager.grayPerson = "Grey's Duty";
-  TextManager.charlesPerson = "Get Intimate with Charles";
+  TextManager.charlesPerson = "Sex with Charles";
   TextManager.boteDisabled = "Cannot be assigned during pregnancy";
   TextManager.chichiPerson = "Milk Extraction";
   TextManager.syusanDisabled = "Requires childbirth experience";
@@ -699,7 +699,7 @@ function initVocabJp() {
   TextManager.nikubenkiTitle = "Meat Toilet Duty";
   TextManager.prisonForce = "Forced";
   TextManager.prisonLocked = "Injured";
-  TextManager.prisonLocked2 = "Cannot be assigned to anyone but the Minister";
+  TextManager.prisonLocked2 = "Minister Only";
   TextManager.prisonLocked3 = "Cannot be selected yet";
   TextManager.prisonLockedTaikenban = "Not available in the trial version";
   TextManager.prisonNeedExperience = "Meat Toilet experience required";
