@@ -174,7 +174,7 @@ function initVocabJp() {
     "At five blessings, you get an extra action, and";
   TextManager.blessText3 = "the MP cost of skills becomes zero";
   TextManager.blessText4 =
-    "You accumulate one \\C[2]blessing\\C[0] at the start of battle and every time you hit an enemy";
+    "You accumulate one \\C[2]blessing\\C[0] at the start of battle and on hit.";
   TextManager.addState = "Inflicts \\C[2]%1\\C[0] %2";
   TextManager.addStateSelf = "Gives self \\C[2]%1\\C[0] %2";
   TextManager.baseRate = "Probability %1%";
@@ -209,14 +209,14 @@ function initVocabJp() {
     "Takes damage equal to 33% of current HP during BREAK";
   TextManager.stateCounter = "Counters enemy attacks with a normal attack";
   TextManager.stateDamageCut =
-    "Reduces received damage by %1% and invalidates status effects";
+    "Reduces damage by %1% and invalidates status effects";
   TextManager.stateUtsurigi = "Starts targeting a random opponent";
   TextManager.stateGekkou =
     "Targets the opponent who inflicted this state\nArea attacks also hit other members";
   TextManager.stateUndead = "Survives with 1 HP when HP would drop to 0";
   TextManager.stateInvalidateDebuff = "Invalidates status effects";
   TextManager.stateCountDown =
-    "Decreases by 1 each time an enemy is defeated, and victory is achieved when it reaches 0";
+    "Decreases by 1 for each kill, and victory is achieved when it reaches 0";
   TextManager.statePhotosynthesize =
     "At the start of the turn, if HP is decreased,\nuses shields to recover HP by %1";
   TextManager.stateDeathAgony = "Executes a prepared attack upon death";
