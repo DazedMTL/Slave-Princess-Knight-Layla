@@ -606,12 +606,12 @@ function initVocabJp() {
   TextManager.kigaeChokyo = "Setup for meat toilet outfit";
   // Equip
   TextManager.cantEquip = "You can't change medals during an adventure";
-  TextManager.equipEroAcce = "Erotic accessory with ability enhancement";
+  TextManager.equipEroAcce = "Ero Accessory";
   TextManager.autoEquip = "Shift → Automatically equip superior medals";
   TextManager.exclusive = "Exclusive to %1";
   TextManager._weapon = "Weapon";
-  TextManager._armor = "Shield";
-  TextManager.acce = "Decorative item";
+  TextManager._armor = "Armor";
+  TextManager.acce = "Accessory";
   TextManager.hitEnchant =
     "Enemies hit by an attack reduce an additional %1 shield";
   // Power Up
