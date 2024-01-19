@@ -285,7 +285,7 @@ var Nore;
   var _DataManager_makeSavefileInfo = DataManager.makeSavefileInfo;
   DataManager.makeSavefileInfo = function () {
     var info = _DataManager_makeSavefileInfo.call(this);
-    info.days = $gameSystem.day();
+    info.days = $gameSystem.realDay();
     info.stage = $gameSystem.stageId();
     if (info.days == 1) {
       info.stage = 0;

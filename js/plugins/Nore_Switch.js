@@ -12,6 +12,8 @@ var Nore;
   var pluginName = "Nore_Switch";
   var EXPOSER_SW = 1500;
   PluginManager.registerCommand(pluginName, "InitExposer", function (args) {
+    return;
+
     for (var i = EXPOSER_SW + 1; i <= EXPOSER_SW + 100; i++) {
       $gameSwitches.setValue(i, false);
     }
@@ -25,10 +27,10 @@ var Nore;
     var base = (actorId - 1) * 10 + EXPOSER_SW;
     if (actorId == 10) {
       // アイリスとリンが２桁のactorIdのため
-      base = 8 * 10;
+      base = 8 * 10 + EXPOSER_SW;
     }
     if (actorId == 12) {
-      base = 9 * 10;
+      base = 9 * 10 + EXPOSER_SW;
     }
     var cosId = 0;
     switch (outerId) {
