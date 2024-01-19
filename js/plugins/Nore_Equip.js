@@ -430,6 +430,7 @@ var Nore;
       this.addChild(this._back);
       this._actorLayer = new Sprite();
       this.addChild(this._actorLayer);
+      this.update();
     };
     Sprite_RightTachie2.prototype.setActorId = function (actorId) {
       this._actorId = actorId;
