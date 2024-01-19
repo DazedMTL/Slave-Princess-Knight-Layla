@@ -354,7 +354,7 @@ var rngd_recollection_mode_settings = {
       pictures: ["01", "02", "03"],
       common_event_id: 911,
       switch_id: 911,
-      hint: "レイラとターニャを蛮族で孕ませ、\nターニャとレイラを肉便器当番にする",
+      hint: "レイラとターニャを蛮族で孕ませ、\nターニャを蛮族の部屋、レイラを肉便器当番にする",
     },
     {
       title: "レイラ×ミオリ",
@@ -523,7 +523,7 @@ var rngd_recollection_mode_settings = {
       pictures: ["01", "02", "03"],
       common_event_id: 1349,
       switch_id: 1349,
-      hint: "ミオリが大臣の部屋に行く",
+      hint: "ミオリが大臣の子を妊娠した\n状態で大臣の部屋に行く",
     },
     {
       title: "ミオリ乳搾り(大臣)",

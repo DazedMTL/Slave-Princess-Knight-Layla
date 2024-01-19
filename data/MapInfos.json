@@ -308,7 +308,7 @@
     },
     {
         "id": 35,
-        "expanded": false,
+        "expanded": true,
         "name": "監禁場所　レイラ",
         "order": 157,
         "parentId": 151,

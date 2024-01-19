@@ -4278,17 +4278,6 @@
                             ]
                         },
                         {
-                            "code": 122,
-                            "indent": 1,
-                            "parameters": [
-                                980,
-                                980,
-                                0,
-                                4,
-                                "$gameActors.actor(1).boteId"
-                            ]
-                        },
-                        {
                             "code": 357,
                             "indent": 1,
                             "parameters": [
@@ -4317,6 +4306,17 @@
                             "indent": 1,
                             "parameters": [
                                 899
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                980,
+                                980,
+                                0,
+                                4,
+                                "$gameActors.actor(1).boteId"
                             ]
                         },
                         {
@@ -5641,6 +5641,17 @@
                             ]
                         },
                         {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                980,
+                                980,
+                                0,
+                                4,
+                                "$gameActors.actor(1).boteId"
+                            ]
+                        },
+                        {
                             "code": 357,
                             "indent": 1,
                             "parameters": [
@@ -5957,6 +5968,17 @@
                             ]
                         },
                         {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                980,
+                                980,
+                                0,
+                                4,
+                                "$gameActors.actor(1).boteId"
+                            ]
+                        },
+                        {
                             "code": 357,
                             "indent": 1,
                             "parameters": [
@@ -6270,6 +6292,17 @@
                             "indent": 1,
                             "parameters": [
                                 899
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                980,
+                                980,
+                                0,
+                                4,
+                                "$gameActors.actor(1).boteId"
                             ]
                         },
                         {
