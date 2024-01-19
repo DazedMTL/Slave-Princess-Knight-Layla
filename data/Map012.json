@@ -6100,6 +6100,16 @@
                             ]
                         },
                         {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "Nore_History",
+                                "NextDayByEroEvent",
+                                "次の日へ(エロイベント用)",
+                                {}
+                            ]
+                        },
+                        {
                             "code": 122,
                             "indent": 0,
                             "parameters": [

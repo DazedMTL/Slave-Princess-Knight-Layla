@@ -105,7 +105,7 @@
         "name": "ボスの部屋",
         "order": 16,
         "parentId": 19,
-        "scrollX": 1131,
+        "scrollX": 1130,
         "scrollY": 641.5
     },
     {
@@ -164,7 +164,7 @@
     },
     {
         "id": 19,
-        "expanded": false,
+        "expanded": true,
         "name": "部屋",
         "order": 6,
         "parentId": 15,
@@ -389,12 +389,12 @@
     },
     {
         "id": 44,
-        "expanded": false,
+        "expanded": true,
         "name": "２面",
         "order": 19,
         "parentId": 2,
-        "scrollX": 1131,
-        "scrollY": 641.5
+        "scrollX": 1122,
+        "scrollY": 628.5
     },
     {
         "id": 45,
@@ -654,7 +654,7 @@
         "name": "ボスの部屋",
         "order": 33,
         "parentId": 44,
-        "scrollX": 1131,
+        "scrollX": 1130,
         "scrollY": 781.5
     },
     {
