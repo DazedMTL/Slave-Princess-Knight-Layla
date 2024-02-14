@@ -416,8 +416,8 @@ function initVocabJp() {
   TextManager.kaihiBunsin = "Start combat with Bunshin no Jutsu %1";
   TextManager.jizai =
     "\nAllies targeted by enemies receive \\C[62]DEF\\C[0]+%1 \\C[62]MDF\\C[0]+%1,\nother allies receive \\C[61]ATK\\C[0]+%1 \\C[61]MAT\\C[0]+%1";
-  TextManager.partyExpPlus = "Increase acquired experience by %1%";
-  TextManager.partyExpPlus = "獲得経験値が%1%増加する";
+  TextManager.partyExpPlus = "EXP gain increased by %1";
+  TextManager.partyExpPlus = "EXP gain increased by %1";
   // Item
   TextManager.surrender = "Defeat Item";
   // Status
