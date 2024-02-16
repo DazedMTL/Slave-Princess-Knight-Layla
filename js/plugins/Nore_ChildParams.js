@@ -13,7 +13,7 @@ var CHILD_PARAMS = {
     actor6: -2,
     actor10: -2,
     actor12: -2,
-    nameJp: "爆乳",
+    nameJp: "Huge Tits",
     nameEn: "mega bazongas",
   },
   12: {
@@ -30,7 +30,7 @@ var CHILD_PARAMS = {
     actor6: -1,
     actor10: -1,
     actor12: -1,
-    nameJp: "巨乳",
+    nameJp: "Big Tits",
     nameEn: "big bazongas",
   },
   13: {
@@ -47,7 +47,7 @@ var CHILD_PARAMS = {
     actor6: 1,
     actor10: 1,
     actor12: 1,
-    nameJp: "貧乳",
+    nameJp: "Small Tits",
     nameEn: "small bazongas",
   },
   21: {
@@ -64,7 +64,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 1,
-    nameJp: "敏感乳首",
+    nameJp: "Sensitive Nipples",
     nameEn: "sensitive nipples",
   },
   22: {
@@ -81,7 +81,7 @@ var CHILD_PARAMS = {
     actor6: -1,
     actor10: 0,
     actor12: 0,
-    nameJp: "巨大乳首",
+    nameJp: "Big Nipples",
     nameEn: "big nipples",
   },
   31: {
@@ -98,7 +98,7 @@ var CHILD_PARAMS = {
     actor6: -2,
     actor10: 0,
     actor12: 0,
-    nameJp: "でか尻",
+    nameJp: "Big Ass",
     nameEn: "big butt",
   },
   32: {
@@ -115,7 +115,7 @@ var CHILD_PARAMS = {
     actor6: 2,
     actor10: 1,
     actor12: 1,
-    nameJp: "小尻",
+    nameJp: "Small Butt",
     nameEn: "small butt",
   },
   41: {
@@ -132,7 +132,7 @@ var CHILD_PARAMS = {
     actor6: 1,
     actor10: 1,
     actor12: 0,
-    nameJp: "ロリ顔",
+    nameJp: "Baby Face",
     nameEn: "baby face",
   },
   42: {
@@ -149,7 +149,7 @@ var CHILD_PARAMS = {
     actor6: 1,
     actor10: 0,
     actor12: 0,
-    nameJp: "ツリ目",
+    nameJp: "Almond Eyes",
     nameEn: "almond eyes",
   },
   43: {
@@ -166,7 +166,7 @@ var CHILD_PARAMS = {
     actor6: -1,
     actor10: 0,
     actor12: 0,
-    nameJp: "美人顔",
+    nameJp: "Beautiful",
     nameEn: "beautiful girl",
   },
   44: {
@@ -183,7 +183,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 1,
-    nameJp: "たぬき顔",
+    nameJp: "Round Face",
     nameEn: "round face",
   },
   51: {
@@ -200,7 +200,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "巨根",
+    nameJp: "Giant Cock",
     nameEn: "giant cock ",
   },
   53: {
@@ -217,7 +217,7 @@ var CHILD_PARAMS = {
     actor6: 1,
     actor10: 0,
     actor12: 0,
-    nameJp: "短小",
+    nameJp: "Small Cock",
     nameEn: "small cock",
   },
   54: {
@@ -234,7 +234,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "遅漏",
+    nameJp: "DE",
     nameEn: "DE",
   },
   55: {
@@ -251,7 +251,7 @@ var CHILD_PARAMS = {
     actor6: 1,
     actor10: 0,
     actor12: 0,
-    nameJp: "早漏",
+    nameJp: "PE",
     nameEn: "PE",
   },
   61: {
@@ -268,7 +268,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "膣弱点",
+    nameJp: "Weak Pussy",
     nameEn: "",
   },
   62: {
@@ -285,7 +285,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "キツマン",
+    nameJp: "Tight Pussy",
     nameEn: "tight pussy",
   },
   63: {
@@ -302,7 +302,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "ゆるマン",
+    nameJp: "Gaping",
     nameEn: "big box",
   },
   64: {
@@ -319,7 +319,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "ガバマン",
+    nameJp: "Loose Pussy",
     nameEn: "loose pussy",
   },
   71: {
@@ -336,7 +336,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "アナル弱点",
+    nameJp: "Weak Anal",
     nameEn: "weak anal",
   },
   72: {
@@ -353,7 +353,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "キツアナル",
+    nameJp: "Tight Anal",
     nameEn: "tight anal",
   },
   73: {
@@ -370,7 +370,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "ゆるアナル",
+    nameJp: "Loose Anal",
     nameEn: "loose anal",
   },
   81: {
@@ -387,7 +387,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 1,
     actor12: 2,
-    nameJp: "マゾ",
+    nameJp: "Masochist",
     nameEn: "masochist",
   },
   82: {
@@ -404,7 +404,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 1,
     actor12: 2,
-    nameJp: "奴隷マゾ",
+    nameJp: "Slave",
     nameEn: "slavish masochist",
   },
   84: {
@@ -421,7 +421,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: -1,
-    nameJp: "サド",
+    nameJp: "Sadist",
     nameEn: "sadist",
   },
   85: {
@@ -438,7 +438,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: -1,
-    nameJp: "凶悪サド",
+    nameJp: "Mad Sadist",
     nameEn: "heinous sadist",
   },
   91: {
@@ -455,7 +455,7 @@ var CHILD_PARAMS = {
     actor6: -2,
     actor10: -1,
     actor12: 0,
-    nameJp: "筋肉質",
+    nameJp: "Muscular",
     nameEn: "muscular",
   },
   92: {
@@ -472,7 +472,7 @@ var CHILD_PARAMS = {
     actor6: -2,
     actor10: -1,
     actor12: 0,
-    nameJp: "ムチムチ",
+    nameJp: "Plump",
     nameEn: "plump",
   },
   93: {
@@ -489,7 +489,7 @@ var CHILD_PARAMS = {
     actor6: 1,
     actor10: 1,
     actor12: 1,
-    nameJp: "スレンダー",
+    nameJp: "Slender",
     nameEn: "slender",
   },
   101: {
@@ -506,7 +506,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "露出癖",
+    nameJp: "Exhibitionist",
     nameEn: "",
   },
   102: {
@@ -523,7 +523,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "レイプ願望",
+    nameJp: "Rape Fantasy",
     nameEn: "",
   },
   103: {
@@ -540,7 +540,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "破滅願望",
+    nameJp: "Wish Breaker",
     nameEn: "",
   },
   104: {
@@ -557,7 +557,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "おもらし癖",
+    nameJp: "Urination Addict",
     nameEn: "",
   },
   105: {
@@ -574,7 +574,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "スカトロ",
+    nameJp: "Scat",
     nameEn: "",
   },
   106: {
@@ -591,7 +591,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "自慰中毒",
+    nameJp: "Masturbation",
     nameEn: "",
   },
   201: {
@@ -608,7 +608,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "神の加護",
+    nameJp: "Divine Protection",
     nameEn: "",
   },
   202: {
@@ -625,7 +625,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "バカ",
+    nameJp: "Idiot",
     nameEn: "idiot",
   },
   203: {
@@ -642,7 +642,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "頭脳明晰",
+    nameJp: "Smart",
     nameEn: "smart cookie",
   },
   204: {
@@ -659,7 +659,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "献身",
+    nameJp: "Devoted",
     nameEn: "",
   },
   205: {
@@ -676,7 +676,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "綺麗な髪",
+    nameJp: "Glossy Hair",
     nameEn: "",
   },
   206: {
@@ -693,7 +693,7 @@ var CHILD_PARAMS = {
     actor6: 0,
     actor10: 0,
     actor12: 0,
-    nameJp: "惚れやすい",
+    nameJp: "Pushover",
     nameEn: "",
   },
 };
