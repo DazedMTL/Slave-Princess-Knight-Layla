@@ -73,19 +73,19 @@ function initVocabJp() {
   TextManager.countUnit = "%1 x";
   TextManager.normal = "Normal";
   TextManager.pregnant = "Pregnant";
-  TextManager.father = "Seed Parent";
+  TextManager.father = "Father";
   TextManager.omankoParam = "Pussy Development Lv";
   TextManager.chimpoParam = "Penis Shrinkage Value";
   TextManager.analParam = "Anal Development Lv";
   TextManager.omankoGaba = "Pussy Deformation Degree %1/%2";
   TextManager.miniChinpo = "Penis Shrinkage Degree %1/%2";
   TextManager.analGaba = "Anal Deformation Degree %1/%2";
-  TextManager.aptitude = "Aptitude";
-  TextManager.aptitude1 = "Martial Strength";
-  TextManager.aptitude2 = "Magical Power";
-  TextManager.aptitude3 = "Intelligence";
-  TextManager.aptitude4 = "Faith";
-  TextManager.aptitude5 = "Agility";
+  TextManager.aptitude = "APT";
+  TextManager.aptitude1 = "STR";
+  TextManager.aptitude2 = "MAG";
+  TextManager.aptitude3 = "INT";
+  TextManager.aptitude4 = "FAI";
+  TextManager.aptitude5 = "AGI";
   // Menu
   TextManager.language = "Language";
   TextManager._save = "Save";

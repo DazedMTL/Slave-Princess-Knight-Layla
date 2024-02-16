@@ -73,7 +73,7 @@ function initVocabJp() {
   TextManager.countUnit = "%1 x";
   TextManager.normal = "Normal";
   TextManager.pregnant = "Pregnant";
-  TextManager.father = "Seed Parent";
+  TextManager.father = "Father";
   TextManager.omankoParam = "Pussy Development Lv";
   TextManager.chimpoParam = "Penis Shrinkage Value";
   TextManager.analParam = "Anal Development Lv";
