@@ -382,7 +382,7 @@ function initVocabJp() {
   TextManager.remakeTarget = "Reselect attack targets";
   TextManager.stunBonus = "Damage to enemies in BREAK is %1 x";
   TextManager.suddenStrike =
-    "When allies dodge an enemy attack, Rin will\nattack that enemy with damage %1";
+    "When allies dodge an enemy attack, Lyn will\nattack that enemy with damage %1";
   TextManager.holyElement = "Deliver a final blow to the undead";
   TextManager.kubihane =
     "At turn end, instantly kill any enemy with HP %1 or less in BREAK";

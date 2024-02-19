@@ -133,7 +133,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "Neru",
+        "name": "Nell",
         "nickname": "",
         "note": "<back>\n<nameEn:Nell>\n<aptitude1:E>\n<aptitude2:C>\n<aptitude3:S>\n<aptitude4:F>\n<aptitude5:D>",
         "profile": ""
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 8,
-        "name": "Rin",
+        "name": "Lyn",
         "nickname": "",
         "note": "<front>\n<nameEn:Lyn>\n<aptitude1:B>\n<aptitude2:C>\n<aptitude3:E>\n<aptitude4:D>\n<aptitude5:S>",
         "profile": ""
@@ -4503,7 +4503,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "Neru's child",
+        "name": "Nell's child",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -4526,7 +4526,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "Rin's child",
+        "name": "Lyn's child",
         "nickname": "",
         "note": "",
         "profile": ""

@@ -12564,7 +12564,7 @@
             }
         ],
         "gold": 0,
-        "name": "Rin",
+        "name": "Lyn",
         "note": "<initialState1:307>\n<sameSkillNg>\n<nameEn:Lyn>\n\n<hard:187>",
         "params": [
             1185,
@@ -13019,7 +13019,7 @@
             }
         ],
         "gold": 0,
-        "name": "Rin<hard>",
+        "name": "Lyn<hard>",
         "note": "<initialState1:307>\n<sameSkillNg>\n<nameEn:Lyn>\n",
         "params": [
             1185,

@@ -10916,7 +10916,7 @@
         ],
         "iconIndex": 1,
         "name": "Her hair was disheveled.",
-        "note": "<medal>\n<hint:Defeat enemies with Rin's skill %1 times\ninstantly.>\n<before:162>\n<kubihane:10>",
+        "note": "<medal>\n<hint:Defeat enemies with Lyn's skill %1 times\ninstantly.>\n<before:162>\n<kubihane:10>",
         "params": [
             0,
             0,
@@ -26980,7 +26980,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "Branding Iron (Rin)",
+        "name": "Branding Iron (Lyn)",
         "note": "<skinAcce:1>\n<acce:1>\n<actor2:20,100>\n<lock>\n<initial>",
         "params": [
             0,
