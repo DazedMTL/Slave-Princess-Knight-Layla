@@ -57,7 +57,7 @@ var Nore;
     };
     Scene_ItemDispose.prototype.createConfirmWindow = function () {
       this._confirmWindow = new Nore.Window_Confirm();
-      this._confirmWindow.setText("このアイテムを捨てますか？");
+      this._confirmWindow.setText("Do you want to discard this item?");
       this._confirmWindow.setHandler("ok", this.onConfirmOk.bind(this));
       this._confirmWindow.setHandler("cancel", this.onConfirmCancel.bind(this));
       this._confirmWindow.deactivate();
